@@ -2,6 +2,19 @@
 
 The user selected these eight screenshots on 2026-11-20 as preferred visual examples. All are from `Always On Brand Intelligence - Offering Toolkit.pptx` (AO); page numbers below are original PPTX slide order. Treat them as stronger evidence of **this user's taste** than the broader research gallery when the page task matches. They are not new official brand rules, required templates, or permission to reuse business copy, figures, photographs, or prices. Keep the user's Arial Regular / 微软雅黑 Regular defaults.
 
+## Preferred content-page examples from the 2026 DEMO
+
+The user highlighted these as useful references for substantive content slides. Refer to them when selecting a page composition and adapt their structure to the material. The pages are illustrative, and their sample business content is not evidence. Use the official template's title area, margins, and body start as the page grid. When the composition needs free placement, select the official `自定义版式` and create editable content objects while preserving the inherited footer.
+
+| DEMO page | Page purpose and composition | Reference |
+| --- | --- | --- |
+| 31 | **Solution or offering detail.** Use a light-gray title band with the blue accent, short sections in aligned columns, and an optional artifact preview or summary panel. Adapt the number of sections to the subject. The exact band, vertical line, and accent geometry is documented in [Offering detail](#4-offering-detail-with-visual-proof--ao29-special-content-dependent). | [Preview](../assets/examples/content-demo/solution-detail.png) |
+| 35 | **Timeline and milestones.** Place phases on a shared time scale in the upper block and concise milestone descriptions below. The optional horizontal gradient divides these two blocks. Keep time bars, dates, and labels editable and proportional to the actual schedule. | [Preview](../assets/examples/content-demo/timeline.png) |
+| 36 | **Summary alongside evidence.** Put a compact summary at left and supporting analysis, a comparison, or an editable evidence table at right. An optional vertical gradient separates the two blocks. | [Preview](../assets/examples/content-demo/summary-evidence.png) |
+| 37 | **Deliverables and visual examples.** Explain each output with readable, editable text and show illustrative artifacts alongside. Use the optional 3D stack for visuals where small details need not be read. Keep critical details in flat text or a legible image. | [Preview](../assets/examples/content-demo/deliverables.png) |
+
+These are four starting points among the user's content-page references. Apply their design methods when appropriate, and use other compositions when the information calls for them. The user-specified optional gradient appears no more than once per slide and separates two blocks.
+
 ## 1. Cover — AO/1
 
 [Screenshot](../assets/examples/user-curated/ao-p001-cover.png)
@@ -13,9 +26,9 @@ The user selected these eight screenshots on 2026-11-20 as preferred visual exam
 
 ## 2. Agenda — AO/4
 
-[Screenshot](../assets/examples/user-curated/ao-p004-agenda.png)
+[Layout reference screenshot](../assets/examples/user-curated/ao-p004-agenda.png) · [Default right-side artwork](../assets/agenda-right-artwork.png)
 
-- **Composition:** white field; small upper-left eyebrow; large, left-aligned section names in a constrained content column, separated by fine horizontal rules. Very pale faceted geometry occupies the right side without competing with the list. Footer elements stay quiet.
+- **Composition:** use a white field with a small upper-left eyebrow and large, left-aligned section names separated by fine horizontal rules. Align the bundled transparent artwork to the right edge and scale it proportionally to the slide height on the standard widescreen layout. Preserve the original colors and transparency. Keep the list clear of the artwork and the footer visually quiet.
 - **Use when:** the agenda contains a small number of concise chapters with a clear sequence.
 - **Adapt:** change the number, length, and spacing of rows to the real agenda. A longer or nested agenda needs another treatment. Use confidentiality labels only when the project's actual marking requires them.
 
@@ -32,8 +45,18 @@ The user selected these eight screenshots on 2026-11-20 as preferred visual exam
 
 [Screenshot](../assets/examples/user-curated/ao-p029-offering-detail.png)
 
-- **Composition:** narrow identity rail; light title band with a small category label and dominant title; two text columns below for business challenge, objective, approach, and outcomes; right-side product/artifact montage and a compact investment/timing/outcome panel.
-- **Use when:** an offering has several distinct explanatory fields **and** a real visual artifact plus verified commercial details worth showing on the same page.
+- **Composition:** a light title band with a small category label and dominant title, a fine vertical line at the left, and a short blue accent where the line meets the title band. Two text columns sit below, with an artifact preview and compact summary at right. Align the category label, title, and first text column to a common left edge, about 4.58 cm from the slide edge.
+- **Geometry for this layout:** the user's property screenshots match slide 30 of `B2B Sales Transformation - Offering-v1.0.pptx`. On the 33.87 × 19.05 cm canvas, use the values below. All positions are relative to the slide's top-left corner.
+
+  | Object | X (cm) | Y (cm) | Width (cm) | Height (cm) | Rotation | Format |
+  | --- | ---: | ---: | ---: | ---: | ---: | --- |
+  | Title band | 14.45 | −11.96 | 3.46 | 32.37 | 90° | `#F2F2F4` fill, no outline, rounded right corners after rotation |
+  | Vertical line | 3.25 | 0 | 0 | 19.05 | 0° | `#E5E5E9`, 1 pt stroke |
+  | Blue accent rectangle | 3.25 | 3.57 | 0.10 | 1.50 | 0° | `#161683` fill, no outline |
+
+  The rotated title band starts flush with the left edge at Y ≈ 2.49 cm and leaves a right margin of 1.50 cm. Place the line above the band and the accent above the line.
+
+- **Use when:** a solution or offering needs several distinct explanatory fields on one page. Add a relevant artifact preview or commercial summary when the content supports it.
 - **Adapt:** omit or replace the right panel if price, timing, or outcomes are not supplied; change the text-field count and image size with the content. Split into two pages if readability suffers.
 - **Avoid:** applying this dense composition to every detail page, copying historical prices or customer claims, or using a decorative screenshot without a clear evidence role.
 

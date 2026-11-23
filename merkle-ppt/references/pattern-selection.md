@@ -2,7 +2,7 @@
 
 Start by naming the information relationship. Use flat type and space for a statement; aligned columns or a shared axis for comparison; a time scale for actual timing; a path or swimlane for real sequence; nesting for ownership; overlap only for genuine intersections. A card is useful when it groups information, not as the default carrier for every point.
 
-The examples below are **design references**, not content sources. The user later selected eight preferred examples from `Always On Brand Intelligence - Offering Toolkit.pptx`; consult [user-curated-layouts.md](user-curated-layouts.md) when designing those page types. A selected reference indicates a preferred visual direction when it fits the content, not an instruction to repeat its geometry. Images are in `assets/examples/`. Original file and page numbers are documented in the source workspace's `reference-gallery/README.md` and the curated reference.
+The examples below are design references. The user also highlighted four [content-page compositions](user-curated-layouts.md#preferred-content-page-examples-from-the-2026-demo) for solution details, timeline and milestones, summary with evidence, and deliverable previews. Consider these during page planning and adapt them to the content. Original file and page numbers are documented in the source workspace's `reference-gallery/README.md` and the curated reference.
 
 | Page task | Organize information | Useful form | Watch for | Reference image |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ The examples below are **design references**, not content sources. The user late
 | Data / insight | Observation, measure, benchmark, date, source | Clear chart or one prominent number with context | Missing units, misleading scale, visual clutter | [Brand Promise/25](../assets/examples/brand-data.png) |
 | Timeline / roadmap | Real dates, overlaps, milestones, status | Shared time scale and task lanes | Equal widths implying false duration | [User preference: AO/47](../assets/examples/user-curated/ao-p047-timeline.png); [QBR/74](../assets/examples/qbr-roadmap.png) |
 | Case study / story | Context, action, evidenced result | Image and text zones, product proof, or staged narrative | Reusing customer facts or pictures without authorization | [User preference: AO/69](../assets/examples/user-curated/ao-p069-case-study.png); [CFE/10](../assets/examples/cfe-case.png) |
-| Closing / action | Decision, owner, next step, timing | One statement, action list, or short decision path | Generic slogan or ownerless tasks | [CFE/38](../assets/examples/cfe-close.png) |
+| Closing | End of the presentation | Official Closing layout with its centered M mark and copyright line | Adding page text when it was not requested | [Official layout guide](official-layouts.md) |
 
 For a QBR, the source template also shows finding-to-action alignment (pages 52 and 112), KPI summaries and tables (93 and 96), test design (116), and native charts/tables (130, 136, 151). Keep the visible page selective for presenting; move full detail to appendix or a reading deck when needed.
 

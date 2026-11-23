@@ -4,13 +4,14 @@
 
 | Asset | Use |
 |---|---|
-| `../assets/Merkle_PPT_Template_ARIAL.potx` | Full 40-slide, 16:9 Merkle template; title and body theme fonts link Arial. Use a copy, select suitable masters/layouts, and remove demonstration content. Check explicit text runs and Chinese font independently. |
+| [2026 Merkle PPT Template - ARIAL.pptx](../assets/2026%20Merkle%20PPT%20Template%20-%20ARIAL.pptx) | Default source for new Merkle decks. The supplied official file has 1 master, 35 named layouts, and 40 sample slides. Use a working copy and start new slides from their intended layouts. |
+| `../assets/Merkle_PPT_Template_ARIAL.potx` | Earlier bundled version for decks that already depend on it. |
 | `../assets/Merkle_logo_dark.svg` | Full dark-blue/red-orange mark for light backgrounds. |
 | `../assets/Merkle_logo_black.svg` | Full white/red-orange mark for dark backgrounds despite its filename. |
-| `../assets/Merkle_M_logo_black.svg` | Dark M mark for light backgrounds. |
+| `../assets/Merkle_M_logo_black.svg` | Dark vector M mark and the default lower-left avatar for general light-background content slides. Use the exact box in [content-page-footer.md](content-page-footer.md). |
 | `../assets/Merkle_M_logo_white.svg` | White M mark for dark backgrounds. |
-| `../assets/footer/M_avatar.png` | User-supplied small M avatar for lower-left footer on general light-background content slides; use the exact geometry in [content-page-footer.md](content-page-footer.md). |
-| `../assets/footer/dentsu.svg` | User-supplied `a dentsu company` footer mark for the center of general light-background content slides. |
+| `../assets/footer/dentsu.svg` | Optional centered footer mark for general light-background content slides. Use only when explicitly requested. |
+| [`../assets/agenda-right-artwork.png`](../assets/agenda-right-artwork.png) | User-supplied transparent faceted artwork for the right side of Agenda slides. |
 | `../assets/examples/` | Ten research screenshots plus eight user-selected layout screenshots in `user-curated/`. Use them to understand design decisions; never paste a screenshot as a new slide. |
 
 The supplied logo SVG values differ from the 2025 guideline palette. Retain the supplied asset colors and proportions. If the project requires exact alignment with a newer guide, request the matching logo files or use a newer supplied official asset.

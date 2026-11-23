@@ -6,7 +6,9 @@ This profile distills the supplied 2025 brand guide, 2026 assets, nine reference
 
 - Modern, clear, credible, and human. Deep blue or black pages create emphasis and transitions; light pages support explanation and data. Change density and composition with the story.
 - English default **Arial Regular**; Chinese default **微软雅黑 Regular**. These are explicit user decisions, even where a source's theme declares Proxima Nova. Use bold or larger type selectively for hierarchy. Check mixed-language wrapping in the final PowerPoint environment.
-- Suggested 16:9 hierarchy: cover 44–64 pt, page title 28–36 pt, group heading 18–24 pt, body about 16–20 pt for projected content, notes/labels about 10–12 pt when legible. These are design targets, not measured official limits. Avoid shrinking dense text to fit; simplify, split, or move detail to an appendix.
+- Suggested 16:9 title hierarchy for new decks: cover title 44–64 pt and page title 28–36 pt. Follow the layout for the slide subtitle. Preserve existing slide title and subtitle sizes during a body typography pass.
+- Default content-slide sizes in PowerPoint points (pt): **16 pt for body headings**, **14 pt for headings in compact groups**, and **12 pt for detail text**. Apply across body paragraphs, bullets, and explanatory text in cards or columns. Keep other labels legible for their purpose.
+- After setting the sizes, align corresponding rows across columns and leave visible gaps between groups. Adjust text box widths and spacing to suit the copy. When a page is still dense, simplify the content or split the page. For DEMO slide 4, set “客户看得见进度” to 16 pt and “状态、预计完成时间和待提交材料在同一处更新。” to 12 pt.
 - Prefer direct, informative titles. Use a conclusion title when evidence warrants it; otherwise name the topic. Keep the main point visually first.
 
 ## Color and background
