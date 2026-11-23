@@ -1,6 +1,6 @@
 # Official 2026 Arial layouts and placeholders
 
-The order and names below come from the slide master in the bundled [official template](../assets/2026%20Merkle%20PPT%20Template%20-%20ARIAL.pptx). Numbers in parentheses are PowerPoint placeholder indices within each layout. Use the layout to establish the title area, margins, spacing, and body starting position. Fill the relevant placeholders, then arrange editable text, diagrams, pictures, and other elements to suit the content. Generic body and content placeholders use the template's standard bullet levels. Render the chosen layout to check its fixed artwork and resulting content fit.
+The order and names below come from the slide master in the bundled [official template](../assets/2026%20Merkle%20PPT%20Template%20-%20ARIAL.pptx). Numbers in parentheses are PowerPoint placeholder indices within each layout. Use the layout for the overall composition, margins, spacing and body starting position. Apply the user's [unified title rules](brand-profile.md#visual-identity-and-type) to content pages even if a copied layout's title placeholder differs. Fill the relevant placeholders, then arrange editable text, diagrams, pictures, and other elements to suit the content. Generic body and content placeholders use the template's standard bullet levels. Render the chosen layout to check its fixed artwork and resulting content fit.
 
 | Order | Layout name | What goes on the slide |
 | ---: | --- | --- |

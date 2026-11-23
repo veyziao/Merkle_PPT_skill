@@ -1,9 +1,31 @@
-# Merkle PPT Skill
+<p align="left"><img src="merkle-ppt/assets/Merkle_logo_dark.svg" alt="Merkle" width="190"></p>
 
-**A reference-driven workflow for editable, Merkle-style presentations**  
-**基于 Merkle 模板和参考资料的可编辑演示文稿制作流程**
+<img src="docs/merkle-ppt-banner.svg" alt="Merkle PPT Skill — presentation design system" width="100%">
 
-[中文](#中文) · [English](#english) · [Reference libraries](#reference-libraries)
+**面向真实工作场景的 Merkle 演示文稿制作体系**  
+**A reference-led workflow for editable Merkle presentations**
+
+[中文](#中文) · [English](#english) · [Visual references](#visual-references--视觉参考) · [Libraries](#五个参考库) · [Install](#私有仓库访问与安装)
+
+---
+
+## Visual references / 视觉参考
+
+The following examples illustrate content structures and visual approaches from earlier demos. They are references, not fixed templates; the current title, typography and divider rules below take precedence.
+
+以下示例展示早期 DEMO 的内容结构与视觉方法，供选型参考。**当前标题、字体及分割线规则以下方说明为准。**
+
+| Solution detail / 方案详情 | Timeline / 时间安排 |
+| :---: | :---: |
+| <img src="merkle-ppt/assets/examples/content-demo/solution-detail.png" alt="Example solution detail layout" width="100%"> | <img src="merkle-ppt/assets/examples/content-demo/timeline.png" alt="Example timeline layout" width="100%"> |
+| **结构化展示问题、方案与交付** | **以时间关系组织阶段与里程碑** |
+
+| Summary & evidence / 摘要与证据 | Deliverables / 交付物展示 |
+| :---: | :---: |
+| <img src="merkle-ppt/assets/examples/content-demo/summary-evidence.png" alt="Example summary and evidence layout" width="100%"> | <img src="merkle-ppt/assets/examples/content-demo/deliverables.png" alt="Example deliverable showcase layout" width="100%"> |
+| **让结论与支持信息并列** | **用可编辑说明配合视觉示例** |
+
+> Reference pages inform the design. New presentations should use project-approved content and be checked in the target PowerPoint environment.
 
 ---
 
@@ -13,7 +35,7 @@ Merkle PPT Skill 帮助 Codex 基于官方模板、版式案例和品牌素材�
 
 ### 核心能力
 
-- **以官方模板为基础制作。** 新建演示文稿时使用 2026 Merkle Arial 模板，保留幻灯片母版、主题和 35 个命名版式。根据页面任务选择版式，并以其标题区域、边距和正文起点作为布局基准；需要自由组织时可使用自定义版式。
+- **以官方模板为基础制作。** 新建演示文稿时使用 2026 Merkle Arial 模板，保留幻灯片母版、主题和 35 个命名版式。根据页面任务选择版式，沿用合适的边距和正文起点；常规内容页标题按统一规则定位，需要自由组织时可使用自定义版式。
 - **根据内容关系选择页面。** 对照 Slide Library 判断内容适合比较、时间安排、流程、证据展示还是其他形式；案例和架构图还可分别参考 Case Library 与 Diagram Library；业务回顾和阶段汇报可结合 QBR Library。参考页提供结构和视觉方法，不应机械照搬原业务内容。
 - **保持 PowerPoint 可编辑。** 文本框、形状、连接线、表格和适用的图表应使用可编辑、可组合的原生对象；连续段落保留在单个文本框内，使用自动换行。照片、品牌图形及原始 SVG 等素材可作为独立图片对象使用。
 - **追溯具体视觉样式。** Slide、Case、Diagram 和 QBR 资料包含对象级样式记录，可按源文件、页码和对象定位，检查颜色、渐变、透明度、边框、阴影、3D、图层及主题继承。具体交付仍需在目标 PowerPoint 环境中核对，不能仅凭属性记录认定完全一致。
@@ -24,7 +46,9 @@ Merkle PPT Skill 帮助 Codex 基于官方模板、版式案例和品牌素材�
 
 ### 默认设计规则
 
-英文默认使用 **Arial Regular**，中文默认使用 **微软雅黑 Regular**；需要层级时可调整字重。普通浅色内容页继承左下角 M 角标和右下角页码；中央 dentsu 标志仅在明确要求时加入。结束页保留模板的 M 标志和版权行，默认不添加其他文字。
+正文英文默认使用 **Arial**，中文使用 **微软雅黑**。常规内容页标题统一为**黑色、加粗、24 pt**，标题框距左 **1.48 cm**、距上 **1.27 cm**；特殊布局可以调整标题位置，并在深色背景上使用对比色。正文分段标题通常为 **16 / 14 pt**，详情通常为 **12 pt**。
+
+普通浅色内容页继承左下角 M 角标和右下角页码；中央 dentsu 标志仅在明确要求时加入。结束页保留模板的 M 标志和版权行，默认不添加其他文字。页面级渐变分割带每页最多一次：纵向仅用于专门的左右分区版式，普通页面通常不使用横向分割带。有限时间线在首尾节点处结束。
 
 ### 五个参考库
 
@@ -80,7 +104,7 @@ Merkle PPT Skill helps Codex create, edit and review editable PowerPoint present
 
 ### Core capabilities
 
-- **Build from the official template.** New decks start from the 2026 Merkle Arial template, retaining its slide master, theme and 35 named layouts. Choose a layout for the page's purpose and use its title area, margins and body starting position as the grid; use the custom layout when free placement is needed.
+- **Build from the official template.** New decks start from the 2026 Merkle Arial template, retaining its slide master, theme and 35 named layouts. Choose a layout for the page's purpose, retain its appropriate margins and body starting position, and apply the shared title rule to regular content pages. Use the custom layout when free placement is needed.
 - **Choose layouts to fit the content.** Consult the Slide Library for comparisons, timelines, processes, evidence and other content relationships. Use the Case and Diagram libraries for relevant case narratives and architecture, and the QBR Library for business reviews and stage updates. Source pages provide design references; their business content should not be copied automatically.
 - **Keep PowerPoint content editable.** Use native, groupable text boxes, shapes, connectors, tables and suitable charts. Keep continuous prose in one text box with automatic wrapping. Photos, brand artwork and source SVGs can remain separate image objects.
 - **Trace visual styling to source objects.** The Slide, Case, Diagram and QBR libraries include object-level records for locating and inspecting colors, gradients, transparency, outlines, shadows, 3D, layers and inherited theme properties. Validate the actual result in the target PowerPoint environment; recorded properties alone do not establish an exact match.
@@ -91,7 +115,9 @@ Current user instructions, client templates and project requirements take preced
 
 ### Default design rules
 
-The default fonts are **Arial Regular** for English and **Microsoft YaHei Regular** for Chinese, with weight adjusted for hierarchy. General light-background content slides inherit the M mark at bottom left and the page number at bottom right. Add the centered dentsu mark only when explicitly requested. The closing slide retains the template's M mark and copyright line, with no additional text by default.
+Body text defaults to **Arial** for English and **Microsoft YaHei** for Chinese. Regular content-slide titles are **black, bold, 24 pt**, with the title box **1.48 cm from the left** and **1.27 cm from the top**. Special compositions may reposition the title and use a contrasting color on dark backgrounds. Body section headings typically use **16 / 14 pt**, and detail text **12 pt**.
+
+General light-background content slides inherit the M mark at bottom left and the page number at bottom right. Add the centered dentsu mark only when explicitly requested. The closing slide retains the template's M mark and copyright line, with no additional text by default. Use at most one page-level gradient divider: vertical dividers are reserved for dedicated left/right compositions, and horizontal dividers are generally omitted from regular pages. Finite timelines end at their first and last nodes.
 
 ### Reference libraries
 

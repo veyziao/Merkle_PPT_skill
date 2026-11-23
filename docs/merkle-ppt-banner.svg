@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+  <rect width="1600" height="520" fill="#040E2C"/>
+  <path d="M1040 0h560v520h-360L958 248z" fill="#0B184B"/>
+  <path d="M1158 0h442v215l-278 93-262-104z" fill="#122963"/>
+  <path d="m1600 0-277 308 277-93z" fill="#1D3185"/>
+  <path d="m1058 206 264 102-170 212H990l-173-149z" fill="#0D2059"/>
+  <path d="m1322 308 278-93v305h-448z" fill="#142D72"/>
+  <path d="M88 78h48v5H88z" fill="#F23A1D"/>
+  <text x="88" y="154" fill="#AAB8E7" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="5">PRESENTATION DESIGN SYSTEM</text>
+  <text x="82" y="260" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="77" font-weight="700">Merkle PPT Skill</text>
+  <text x="88" y="324" fill="#C5CCE0" font-family="Arial,Helvetica,sans-serif" font-size="29">Reference-led. Editable. Built for real work.</text>
+  <path d="M88 388h570" stroke="#6574A4" stroke-width="1"/>
+  <text x="88" y="430" fill="#AAB8E7" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3">TEMPLATE  /  LIBRARIES  /  QUALITY REVIEW</text>
+</svg>
