@@ -8,7 +8,7 @@ This profile distills the supplied 2025 brand guide, 2026 assets, nine reference
 - English default **Arial Regular**; Chinese default **微软雅黑 Regular**. These are explicit user decisions, even where a source's theme declares Proxima Nova. Use bold or larger type selectively for hierarchy. Check mixed-language wrapping in the final PowerPoint environment.
 - Suggested 16:9 title hierarchy for new decks: cover title 44–64 pt and page title 28–36 pt. Follow the layout for the slide subtitle. Preserve existing slide title and subtitle sizes during a body typography pass.
 - Default content-slide sizes in PowerPoint points (pt): **16 pt for body headings**, **14 pt for headings in compact groups**, and **12 pt for detail text**. Apply across body paragraphs, bullets, and explanatory text in cards or columns. Keep other labels legible for their purpose.
-- After setting the sizes, align corresponding rows across columns and leave visible gaps between groups. Adjust text box widths and spacing to suit the copy. When a page is still dense, simplify the content or split the page. For DEMO slide 4, set “客户看得见进度” to 16 pt and “状态、预计完成时间和待提交材料在同一处更新。” to 12 pt.
+- After setting the sizes, align corresponding rows across columns and leave visible gaps between groups. Adjust text box widths and spacing to suit the copy. When a page is still dense, simplify the content or split the page.
 - Prefer direct, informative titles. Use a conclusion title when evidence warrants it; otherwise name the topic. Keep the main point visually first.
 
 ## Color and background
@@ -30,7 +30,7 @@ This profile distills the supplied 2025 brand guide, 2026 assets, nine reference
 - The reviewed decks and full Arial template are 16:9. Start ordinary content pages with about 0.5–0.8 in safe margins, then adapt to the actual master and content; this is a working range, not an official grid measurement.
 - Use shared baselines, considered grouping, and visible white space. One primary focal point per slide is a useful default. Image bleed is possible, while text and logos stay in a safe area.
 - For photos, favor natural human activity, diverse people, authentic work and product context, simple compositions, and a warm tone. Keep room for copy through cropping or a suitable image. Avoid stock imagery presented as Merkle culture or client evidence.
-- Apply this default outer shadow as a native PowerPoint picture effect on flat content images, including overlapping screenshots and sample deliverables. Use black (`#000000`), 78% transparency (22% opacity), 93% size, 62 pt blur, 90° angle, and 16 pt distance. [User-supplied PowerPoint settings](../assets/examples/picture-shadow-settings.png)
+- Apply this default outer shadow as a native PowerPoint picture effect on ordinary new flat content images, including overlapping screenshots and sample deliverables. Use black (`#000000`), 78% transparency (22% opacity), 93% size, 62 pt blur, 90° angle, and 16 pt distance. Explicit user directions and a specific source effect selected for faithful reproduction take precedence; the 3D stack below has its own settings. [User-supplied PowerPoint settings](../assets/examples/picture-shadow-settings.png)
 - Use native PowerPoint objects for ordinary text, grids, diagrams, processes, tables, and basic charts. Photos, approved brand art, and complex textures can be image assets. Make meaningful data labels and relationships inspectable and editable.
 
 ### Optional gradient divider for two content blocks

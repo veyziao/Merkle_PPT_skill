@@ -11,7 +11,7 @@ Use the supplied [icon library](../assets/Merkle_icon.pptx) and [icon index](mer
 ## Select and use
 
 1. Describe the specific concept and the content's relationship. Search the index by Chinese scenario, English Phosphor name and tags, or source category. Start with an icon from the supplied library. Prefer the relevant Medium icon for a Merkle-branded concept when it fits the required size and context.
-2. Inspect the actual vector image and its surrounding page in the source PPT before selecting it. Individual Medium names and scenarios are human visual interpretations. Mini Fill names are candidates matched against the Phosphor Core 2.1.1 catalog by comparing 32 × 32 rasterized silhouettes. The index includes Phosphor's English tags and Chinese search suggestions. These matches are visual identification aids, and an icon's potential meanings depend on its context.
+2. Inspect the actual vector image and its surrounding page in the source PPT before selecting it. Individual Medium names and scenarios are human visual interpretations. Mini Fill names are candidates matched against the Phosphor Core 2.1.1 catalog by comparing 32 × 32 rasterized silhouettes; a match does not prove the original name or vector geometry is identical. The index includes Phosphor's English tags and Chinese search suggestions. These matches are visual identification aids, and an icon's potential meanings depend on its context.
 3. Use the original icon object or its original embedded SVG content from the indexed source slide. Keep it vector where the target PowerPoint environment supports SVG, and preserve the original colors, silhouette and proportions. Use the matching light or dark variant. Keep icons as separate objects that can be grouped with native PowerPoint text and shapes. Another version is acceptable only after verifying it is identical in appearance to the corresponding source; prefer a byte-identical source SVG, checked against the recorded SHA-256.
 4. If no supplied icon fits, do not substitute a visually similar or generated icon as though it were an original. Ask the user before introducing a different or newly generated icon; in the meantime, continue with other content and omit it if a design can work without it.
 
@@ -20,6 +20,7 @@ Use the supplied [icon library](../assets/Merkle_icon.pptx) and [icon index](mer
 - `id` is a stable locator in the form `P06-01`, counting the icons left to right and then top to bottom within the original page. Medium counts the light-background row only.
 - `slide`, `shape_id`, `shape_name`, `x`, `y`, and `svg` locate the original SVG object. `dark_shape_id` and `dark_svg` identify the corresponding Medium variant.
 - `svg_sha256` and, where applicable, `dark_svg_sha256` identify the exact SVG bytes extracted from the source PPTX; the source slide shape's SVG relationship was checked against each indexed asset.
+- `confidence` describes the naming or visual interpretation method, not verification of the SVG file. Source-SVG identity is established separately by its PPT relationship and checksum.
 - `name_zh` is the visual label written for Medium. `official_name` and `english_tags` are Phosphor catalog matches for Mini Fill.
 - `scenario` contains potential Chinese search terms and uses. A metaphorical use is a suggestion, not evidence for a business claim.
 

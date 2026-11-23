@@ -2,7 +2,7 @@
 
 Start by naming the information relationship. Use flat type and space for a statement; aligned columns or a shared axis for comparison; a time scale for actual timing; a path or swimlane for real sequence; nesting for ownership; overlap only for genuine intersections. A card is useful when it groups information, not as the default carrier for every point.
 
-For substantive content pages, search the [139-page slide library](slide-library-usage.md) as the primary reference pool. Match the page's communication goal, information relationship, content density, and evidence needs to relevant candidates; compare their structures and inspect the source pages and any green or gray notes before adapting the best fit. The library is a set of adaptable references, not a mandate to copy a page unchanged.
+Start with the library closest to the page's job: [QBR](qbr-slide-library-usage.md) for reviews, stage updates, KPIs and action plans; [Case](case-library-usage.md) for case narratives; [Diagram](diagram-library-usage.md) for technical architecture and data relationships; and the general [Slide Library](slide-library-usage.md) for other substantive layouts. An individual slide can match several; compare relevant candidates across libraries rather than enforcing a fixed rank. Match the communication goal, content relationship, density and evidence needs, then inspect the source pages and notes. References are adaptable examples, not a mandate to copy a page unchanged.
 
 For case studies, case portfolios, and client project stories, also consult the [case library](case-library-usage.md) for short-form, additional-detail and multi-page flagship compositions.
 
@@ -10,7 +10,11 @@ For business reviews, stage updates, reporting, learning agendas and action plan
 
 For technical architecture, ownership zones and data-flow diagrams, use the [diagram library](diagram-library-usage.md) for native element styles, connection conventions and example compositions; consult the broader slide library for other diagram types.
 
-The user also highlighted four earlier [content-page compositions](user-curated-layouts.md#preferred-content-page-examples-from-the-2026-demo) for solution details, timeline and milestones, summary with evidence, and deliverable previews. They remain useful choices when appropriate, rather than a fixed or exhaustive list. Preserve the user's confirmed geometry and design rules when applying the relevant specific composition. Original file and page numbers are documented in the source workspace's `reference-gallery/README.md` and the curated reference.
+Expand synonyms before searching. Examples: 项目周报 / 项目进展 / 项目状态 / 阶段汇报 / project update; 绩效 / 成果 / 指标 / KPI / 健康度 / performance; 行动项 / 下一步 / 负责人 / action items; 路线图 / 时间线 / 阶段 / 里程碑 / roadmap; 复盘 / 洞察 / 经验 / retrospective. The bundled `scripts/search_libraries.py` provides deterministic keyword and synonym lookup; it proposes candidates, not a semantic or visual ranking. Verify the source page before choosing.
+
+From the skill directory, run `python3 scripts/search_libraries.py '项目周报' --limit 15`; add `--library qbr`, `slide`, `case`, `diagram`, or `icon` to narrow the pool. Expand or rephrase when candidates do not fit.
+
+The user also highlighted four earlier [content-page compositions](user-curated-layouts.md#preferred-content-page-examples-from-the-2026-demo) for solution details, timeline and milestones, summary with evidence, and deliverable previews. They remain useful choices when appropriate, rather than a fixed or exhaustive list. Preserve the user's confirmed geometry and design rules when applying the relevant specific composition.
 
 | Page task | Organize information | Useful form | Watch for | Reference image |
 |---|---|---|---|---|

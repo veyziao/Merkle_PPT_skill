@@ -13,6 +13,9 @@
 | `../assets/footer/dentsu.svg` | Optional centered footer mark for general light-background content slides. Use only when explicitly requested. |
 | [Merkle_icon.pptx](../assets/Merkle_icon.pptx) | Supplied 33-slide icon library with Merkle Medium and selected Phosphor Mini Fill icons. Search the [icon index](merkle-icon-index.json) and check the [usage guide](icon-usage.md). |
 | [Slide Library for ai.pptx](../assets/Slide%20Library%20for%20ai.pptx) | User-provided 139-page slide library. Search the [page index](slide-library-index.json) and follow the [usage guide](slide-library-usage.md). |
+| [case library - Case Study Layout Types.pptx](../assets/case%20library%20-%20Case%20Study%20Layout%20Types.pptx) | Case story compositions; see the [usage guide](case-library-usage.md). |
+| [Diagram library - Diagram Elements.pptx](../assets/Diagram%20library%20-%20Diagram%20Elements.pptx) | Architecture elements and compositions; see the [usage guide](diagram-library-usage.md). |
+| [QBR SLIDE LIBRARY.pptx](../assets/QBR%20SLIDE%20LIBRARY.pptx) | Business reviews, stage updates and other reporting layouts; see the [usage guide](qbr-slide-library-usage.md). |
 | [`../assets/agenda-right-artwork.png`](../assets/agenda-right-artwork.png) | User-supplied transparent faceted artwork for the right side of Agenda slides. |
 | `../assets/examples/` | Ten research screenshots plus eight user-selected layout screenshots in `user-curated/`. Use them to understand design decisions; never paste a screenshot as a new slide. |
 
@@ -20,7 +23,7 @@ The supplied logo SVG values differ from the 2025 guideline palette. Retain the 
 
 ## Additional source library
 
-The user's source library is at `/Users/allenfan/Library/CloudStorage/OneDrive-dentsu/DECK/PPT_SKILL`. It contains the full research files and additional official assets. Use it when available; if it is unavailable in another environment, the bundled assets and references still support ordinary Merkle deck work.
+The original research workspace may contain additional source files and official assets. Its path is environment-specific and is not required by the installed skill; the bundled assets and references support ordinary Merkle deck work. The optional interactive HTML catalogs are in the GitHub repository's top-level `libraries/` directory, outside the installed `merkle-ppt` folder, and must be downloaded separately for local browsing.
 
 | Source in `Brand Assets` | Good for | Caution |
 |---|---|---|

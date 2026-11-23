@@ -2,7 +2,7 @@
 
 For detailed object styling, including fills, transparency, gradients, shadows and 3D, consult the [source object style records](source-object-styles.md) and the original source slide.
 
-Use the [slide library](../assets/Slide%20Library%20for%20ai.pptx) and its [139-page index](slide-library-index.json) as the primary reference pool when planning substantive Merkle content pages. Choose candidates by the message, information relationship, content density, and intended use, rather than restricting selection to the four earlier DEMO examples. Compare relevant candidates and adapt their structures to the current material and the user's explicit instructions. The index gives each slide a stable ID such as `SL-031`, matching its original slide number, together with a Chinese description of its composition, potential uses, application guidance, source layout, and object counts.
+Use the [slide library](../assets/Slide%20Library%20for%20ai.pptx) and its [139-page index](slide-library-index.json) as a broad reference pool for substantive Merkle content pages, alongside the task-specific libraries when relevant. Choose candidates by the message, information relationship, content density, and intended use, rather than restricting selection to the four earlier DEMO examples. Compare relevant candidates and adapt their structures to the current material and the user's explicit instructions. The index gives each slide a stable ID such as `SL-031`, matching its original slide number, together with a Chinese description of its composition, potential uses, application guidance, source layout, and object counts.
 
 ## How to use the library
 
