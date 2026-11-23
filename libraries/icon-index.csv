@@ -1,0 +1,584 @@
+﻿id,size,category,name_zh,official_name,scenario,english_tags,slide,order,x,y,shape_id,shape_name,svg,dark_shape_id,dark_svg,origin,confidence
+P06-01,medium,AI,AI灯泡,,AI创意;智能创新;AI机会,,6,1,1.893,5.114,23,Graphic 22,image34.svg,38,image95.svg,Merkle,visual interpretation
+P06-02,medium,AI,AI芯片与人脑侧影,,人机协作;智能决策;AI辅助工作,,6,2,4.901,5.114,8,Graphic 7,image32.svg,36,image94.svg,Merkle,visual interpretation
+P06-03,medium,AI,AI芯片与电路,,AI技术;机器学习;智能算力,,6,3,8.118,5.114,9,Graphic 8,image33.svg,21,image92.svg,Merkle,visual interpretation
+P06-04,medium,AI,AI芯片与大脑,,认知智能;智能分析;AI模型,,6,4,11.044,5.114,7,Graphic 6,image31.svg,34,image93.svg,Merkle,visual interpretation
+P07-01,medium,Digital Marketing,浏览器与鼠标,,网站访问;网页交互;数字触点,,7,1,1.936,5.114,45,Graphic 44,image78.svg,26,image97.svg,Merkle,visual interpretation
+P07-02,medium,Digital Marketing,购物篮,,选购商品;购物体验;电商,,7,2,4.515,5.114,56,Graphic 55,image35.svg,34,image98.svg,Merkle,visual interpretation
+P07-03,medium,Digital Marketing,放大镜,,搜索;信息发现;研究,,7,3,7.093,5.114,10,Graphic 94,image37.svg,95,image102.svg,Merkle,visual interpretation
+P07-04,medium,Digital Marketing,购物车,,在线购物;订单转化;购买流程,,7,4,9.672,5.114,2,Graphic 74,image96.svg,91,image101.svg,Merkle,visual interpretation
+P07-05,medium,Digital Marketing,店铺,,线下门店;零售渠道;门店体验,,7,5,12.25,5.114,21,Graphic 78,image39.svg,86,image99.svg,Merkle,visual interpretation
+P07-06,medium,Digital Marketing,握手,,合作伙伴;协作关系;达成协议,,7,6,14.829,5.114,18,Graphic 17,image38.svg,90,image100.svg,Merkle,visual interpretation
+P07-07,medium,Digital Marketing,点赞手势,,满意;认可;正向反馈,,7,7,17.408,5.114,6,Graphic 5,image36.svg,97,image103.svg,Merkle,visual interpretation
+P07-08,medium,Digital Marketing,鼠标点击按钮,,点击行为;转化动作;交互操作,,7,8,19.955,5.114,57,Graphic 56,image10.svg,67,image109.svg,Merkle,visual interpretation
+P07-09,medium,Digital Marketing,闹钟,,时间安排;提醒;限时活动,,7,9,22.533,5.114,50,Graphic 49,image12.svg,60,image104.svg,Merkle,visual interpretation
+P07-10,medium,Digital Marketing,扩音器,,推广;广告;活动传播,,7,10,25.112,5.114,51,Graphic 50,image13.svg,61,image105.svg,Merkle,visual interpretation
+P07-11,medium,Digital Marketing,云与连接节点,,云平台;系统连接;数据集成,,7,11,27.669,5.114,55,Graphic 54,image14.svg,62,image106.svg,Merkle,visual interpretation
+P07-12,medium,Digital Marketing,礼品盒,,礼遇;奖励;客户激励,,7,12,30.248,5.114,63,Graphic 62,image107.svg,64,image108.svg,Merkle,visual interpretation
+P08-01,medium,Digital Marketing,勾选框,,任务完成;已确认;核对通过,,8,1,1.968,5.114,58,Graphic 57,image110.svg,15,image117.svg,Merkle,visual interpretation
+P08-02,medium,Digital Marketing,方框叉号,,取消;否定;未通过,,8,2,4.546,5.114,89,Graphic 88,image113.svg,33,image119.svg,Merkle,visual interpretation
+P08-03,medium,Digital Marketing,叉号,,移除;错误;关闭,,8,3,7.114,5.114,86,Graphic 85,image111.svg,88,image112.svg,Merkle,visual interpretation
+P08-04,medium,Digital Marketing,方框加号,,新增;添加项目;扩展,,8,4,9.693,5.114,99,Graphic 98,image115.svg,32,image118.svg,Merkle,visual interpretation
+P08-05,medium,Digital Marketing,加号,,增加;正向变化;新增,,8,5,12.272,5.114,98,Graphic 97,image114.svg,101,image116.svg,Merkle,visual interpretation
+P08-06,medium,Digital Marketing,学位帽,,培训;教育;能力建设,,8,6,14.84,5.114,104,Graphic 103,image11.svg,112,image122.svg,Merkle,visual interpretation
+P08-07,medium,Digital Marketing,灯泡与勾,,经过验证的想法;方案确认;创新,,8,7,17.397,5.114,103,Graphic 102,image15.svg,113,image123.svg,Merkle,visual interpretation
+P08-08,medium,Digital Marketing,清单夹板,,任务清单;检查项目;评估,,8,8,19.965,5.114,105,Graphic 104,image16.svg,115,image125.svg,Merkle,visual interpretation
+P08-09,medium,Digital Marketing,指纹,,身份识别;个性化;安全验证,,8,9,22.544,5.114,106,Graphic 105,image17.svg,114,image124.svg,Merkle,visual interpretation
+P08-10,medium,Digital Marketing,书本与灯泡,,知识学习;研究洞察;知识管理,,8,10,25.122,5.114,107,Graphic 106,image120.svg,117,image127.svg,Merkle,visual interpretation
+P08-11,medium,Digital Marketing,火箭,,项目启动;产品发布;增长,,8,11,27.69,5.114,108,Graphic 107,image18.svg,116,image126.svg,Merkle,visual interpretation
+P08-12,medium,Digital Marketing,图表报告,,报告;指标分析;业绩回顾,,8,12,30.269,5.114,110,Graphic 109,image19.svg,111,image121.svg,Merkle,visual interpretation
+P09-01,medium,Digital Marketing,信封,,邮件;电子邮件营销;通知,,9,1,1.989,5.114,7,Graphic 6,image128.svg,2,image129.svg,Merkle,visual interpretation
+P09-02,medium,Digital Marketing,包裹,,配送;订单履约;商品交付,,9,2,4.525,5.114,68,Graphic 67,image20.svg,90,image135.svg,Merkle,visual interpretation
+P09-03,medium,Digital Marketing,拼图,,能力整合;模块组合;解决方案,,9,3,7.062,5.114,71,Graphic 70,image21.svg,91,image136.svg,Merkle,visual interpretation
+P09-04,medium,Digital Marketing,纸飞机,,发送;消息投递;沟通,,9,4,9.682,5.114,72,Graphic 70,image22.svg,87,image132.svg,Merkle,visual interpretation
+P09-05,medium,Digital Marketing,铅笔,,编辑;内容创作;记录,,9,5,12.261,5.114,75,Graphic 74,image23.svg,86,image131.svg,Merkle,visual interpretation
+P09-06,medium,Digital Marketing,齿轮,,设置;运营流程;技术配置,,9,6,14.84,5.114,85,Graphic 84,image130.svg,92,image137.svg,Merkle,visual interpretation
+P09-07,medium,Digital Marketing,图表报告,,报告;业绩分析;数据结果,,9,7,17.418,5.114,77,Graphic 76,image19.svg,93,image121.svg,Merkle,visual interpretation
+P09-08,medium,Digital Marketing,实验烧瓶,,实验;测试;创新研究,,9,8,19.997,5.114,81,Graphic 39,image24.svg,88,image133.svg,Merkle,visual interpretation
+P09-09,medium,Digital Marketing,对话气泡,,对话;客户反馈;沟通渠道,,9,9,22.554,5.114,82,Graphic 5,image25.svg,89,image134.svg,Merkle,visual interpretation
+P10-01,medium,People,人物头像一,,人员画像;用户代表;客户类型,,10,1,2.031,5.114,18,Graphic 17,image26.svg,38,image146.svg,Merkle,visual interpretation
+P10-02,medium,People,人物头像二,,人员画像;用户代表;角色,,10,2,4.546,5.114,24,Graphic 23,image142.svg,75,image152.svg,Merkle,visual interpretation
+P10-03,medium,People,人物头像三,,人员画像;专业角色;客户分群,,10,3,7.125,5.114,53,Graphic 52,image27.svg,82,image153.svg,Merkle,visual interpretation
+P10-04,medium,People,人物头像四,,人员画像;用户代表;受众,,10,4,9.704,5.114,58,Graphic 57,image143.svg,84,image155.svg,Merkle,visual interpretation
+P10-05,medium,People,西装人物头像,,职场角色;业务负责人;专业人员,,10,5,12.282,5.114,55,Graphic 54,image28.svg,83,image154.svg,Merkle,visual interpretation
+P10-06,medium,People,人物头像六,,人员画像;业务角色;客户代表,,10,6,14.861,5.114,12,Graphic 11,image141.svg,41,image149.svg,Merkle,visual interpretation
+P10-07,medium,People,人物头像七,,人员画像;用户代表;受众,,10,7,17.439,5.114,10,Graphic 9,image140.svg,39,image147.svg,Merkle,visual interpretation
+P10-08,medium,People,人物头像八,,人员画像;用户代表;客户类型,,10,8,20.018,5.114,2,Graphic 1,image139.svg,70,image151.svg,Merkle,visual interpretation
+P10-09,medium,People,人物头像九,,人员画像;用户代表;角色,,10,9,22.576,5.114,16,Graphic 15,image30.svg,64,image150.svg,Merkle,visual interpretation
+P10-10,medium,People,人物头像十,,人员画像;用户代表;受众,,10,10,25.154,5.114,14,Graphic 13,image29.svg,40,image148.svg,Merkle,visual interpretation
+P10-11,medium,People,人物头像十一,,人员画像;用户代表;客户类型,,10,11,27.733,5.114,8,Graphic 7,image40.svg,35,image144.svg,Merkle,visual interpretation
+P10-12,medium,People,耳麦服务人员,,客服;客户支持;联络中心,,10,12,30.269,5.114,32,Graphic 31,image138.svg,37,image145.svg,Merkle,visual interpretation
+P11-01,medium,Digital Marketing- People,讲师与屏幕,,培训;演示;工作坊,,11,1,2.031,5.114,8,Graphic 7,image156.svg,42,image172.svg,Merkle,visual interpretation
+P11-02,medium,Digital Marketing- People,讲师与增长图表,,业绩汇报;增长培训;分析演示,,11,2,4.568,5.114,97,Graphic 96,image162.svg,38,image170.svg,Merkle,visual interpretation
+P11-03,medium,Digital Marketing- People,人头与灯泡,,思考;创意;洞察,,11,3,7.146,5.114,40,Graphic 39,image157.svg,30,image167.svg,Merkle,visual interpretation
+P11-04,medium,Digital Marketing- People,人员协助上台阶,,支持;辅导;互助,,11,4,9.725,5.114,64,Graphic 63,image158.svg,31,image168.svg,Merkle,visual interpretation
+P11-05,medium,Digital Marketing- People,人员与对话框,,发言;提出问题;客户反馈,,11,5,12.303,5.114,70,Graphic 69,image159.svg,33,image169.svg,Merkle,visual interpretation
+P11-06,medium,Digital Marketing- People,两人对话,,沟通;访谈;协商,,11,6,14.882,5.114,77,Graphic 76,image160.svg,41,image171.svg,Merkle,visual interpretation
+P11-07,medium,Digital Marketing- People,团队击掌,,团队合作;共同成功;协作,,11,7,17.461,5.114,10,Graphic 9,image163.svg,28,image166.svg,Merkle,visual interpretation
+P11-08,medium,Digital Marketing- People,人物攀登旗帜,,目标;挑战;职业成长,,11,8,20.039,5.114,83,Graphic 1,image91.svg,9,image164.svg,Merkle,visual interpretation
+P11-09,medium,Digital Marketing- People,人物放大镜,,用户研究;客户识别;受众分析,,11,9,22.576,5.114,91,Graphic 90,image161.svg,24,image165.svg,Merkle,visual interpretation
+P12-01,medium,Digital Marketing – People,行李人物挥手,,旅客;出行服务;旅行,,12,1,2.052,5.114,44,Graphic 43,image177.svg,20,image181.svg,Merkle,visual interpretation
+P12-02,medium,Digital Marketing – People,三人团队,,团队;客户群;员工群体,,12,2,4.589,5.114,10,Graphic 9,image174.svg,57,image186.svg,Merkle,visual interpretation
+P12-03,medium,Digital Marketing – People,单个人物,,个人用户;员工;客户,,12,3,7.167,5.114,56,Graphic 55,image178.svg,51,image183.svg,Merkle,visual interpretation
+P12-04,medium,Digital Marketing – People,多人人群,,受众;人群细分;社区,,12,4,9.746,5.114,9,Graphic 8,image173.svg,53,image184.svg,Merkle,visual interpretation
+P12-05,medium,Digital Marketing – People,家庭,,家庭客户;家庭结构;生命周期,,12,5,12.325,5.114,21,Graphic 41,image175.svg,18,image180.svg,Merkle,visual interpretation
+P12-06,medium,Digital Marketing – People,多人围桌,,团队会议;共创工作坊;协作,,12,6,14.903,5.114,33,Graphic 86,image176.svg,26,image182.svg,Merkle,visual interpretation
+P12-07,medium,Digital Marketing – People,三个人互联,,关系网络;多方连接;社群,,12,7,17.482,5.114,37,Graphic 36,image179.svg,55,image185.svg,Merkle,visual interpretation
+P13-01,medium,Electronics,电脑与聊天窗口,,在线客服;消息沟通;数字服务,,13,1,2.074,5.114,15,Graphic 14,image187.svg,35,image200.svg,Merkle,visual interpretation
+P13-02,medium,Electronics,屏幕图表与放大镜,,数据分析;指标诊断;报告审查,,13,2,4.61,5.114,70,Graphic 69,image188.svg,34,image199.svg,Merkle,visual interpretation
+P13-03,medium,Electronics,屏幕与齿轮,,系统设置;自动化;技术运营,,13,3,7.189,5.114,17,Graphic 16,image198.svg,36,image201.svg,Merkle,visual interpretation
+P13-04,medium,Electronics,电脑与增长图表,,业务增长;数据看板;绩效趋势,,13,4,9.767,5.114,18,Graphic 17,image189.svg,39,image203.svg,Merkle,visual interpretation
+P13-05,medium,Electronics,电脑与消息框,,客户对话;在线支持;消息触点,,13,5,12.34,5.114,24,Graphic 23,image190.svg,38,image202.svg,Merkle,visual interpretation
+P13-06,medium,Electronics,电脑与饼图,,数据分析;渠道构成;比例,,13,6,14.915,5.114,31,Graphic 30,image191.svg,40,image204.svg,Merkle,visual interpretation
+P13-07,medium,Electronics,电脑与放大镜,,在线搜索;数字调研;信息查找,,13,7,17.503,5.114,33,Graphic 12,image192.svg,43,image205.svg,Merkle,visual interpretation
+P13-08,medium,Electronics,手机与平板,,跨设备体验;移动端;响应式设计,,13,8,20.015,5.114,25,Graphic 24,image197.svg,63,image209.svg,Merkle,visual interpretation
+P13-09,medium,Electronics,桌面显示器,,桌面端;数字平台;工作站,,13,9,22.597,5.114,49,Graphic 48,image193.svg,57,image206.svg,Merkle,visual interpretation
+P13-10,medium,Electronics,智能手机,,移动端;手机应用;移动触点,,13,10,25.154,5.114,8,Graphic 46,image196.svg,69,image210.svg,Merkle,visual interpretation
+P13-11,medium,Electronics,笔记本电脑,,工作设备;在线工作;数字工具,,13,11,27.69,5.114,51,Graphic 50,image194.svg,59,image207.svg,Merkle,visual interpretation
+P13-12,medium,Electronics,屏幕与无线信号,,网络连接;数字渠道;无线服务,,13,12,30.269,5.114,54,Graphic 53,image195.svg,61,image208.svg,Merkle,visual interpretation
+P14-01,medium,Electronics,电脑与聊天窗口,,在线客服;数字对话;消息触点,,14,1,2.095,5.114,15,Graphic 14,image187.svg,86,image200.svg,Merkle,visual interpretation
+P14-02,medium,Electronics,相机,,摄影;图片内容;视觉素材,,14,2,4.631,5.114,79,Graphic 78,image213.svg,82,image230.svg,Merkle,visual interpretation
+P14-03,medium,Electronics,游戏手柄,,游戏;互动娱乐;游戏体验,,14,3,7.21,5.114,28,Graphic 27,image215.svg,70,image229.svg,Merkle,visual interpretation
+P14-04,medium,Electronics,掌机,,游戏设备;移动游戏;娱乐,,14,4,9.788,5.114,24,Graphic 23,image214.svg,65,image228.svg,Merkle,visual interpretation
+P14-05,medium,Electronics,路由器,,网络连接;家庭网络;无线基础设施,,14,5,12.362,5.114,78,Graphic 77,image212.svg,22,image223.svg,Merkle,visual interpretation
+P14-06,medium,Electronics,电源插头,,电力;接入;设备连接,,14,6,14.936,5.114,53,Graphic 52,image220.svg,8,image221.svg,Merkle,visual interpretation
+P14-07,medium,Electronics,锁与盾牌,,信息安全;数据保护;访问控制,,14,7,17.524,5.114,50,Graphic 49,image219.svg,20,image222.svg,Merkle,visual interpretation
+P14-08,medium,Electronics,键盘,,输入;办公设备;文本输入,,14,8,20.036,5.114,33,Graphic 32,image217.svg,54,image226.svg,Merkle,visual interpretation
+P14-09,medium,Electronics,麦克风,,语音输入;音频内容;播客,,14,9,22.618,5.114,46,Graphic 45,image218.svg,44,image225.svg,Merkle,visual interpretation
+P14-10,medium,Electronics,鼠标,,数字操作;电脑交互;点击,,14,10,25.175,5.114,73,Graphic 72,image211.svg,35,image224.svg,Merkle,visual interpretation
+P14-11,medium,Electronics,耳麦,,客服;音频;远程沟通,,14,11,27.712,5.114,31,Graphic 30,image216.svg,56,image227.svg,Merkle,visual interpretation
+P15-01,medium,Environment,风力发电机,,风能;可再生能源;低碳电力,,15,1,1.925,5.114,8,Graphic 7,image231.svg,80,image240.svg,Merkle,visual interpretation
+P15-02,medium,Environment,石油钻井机,,石油;传统能源;能源生产,,15,2,5.972,5.114,47,Graphic 46,image76.svg,58,image238.svg,Merkle,visual interpretation
+P15-03,medium,Environment,工厂与排放,,工业排放;制造业;环境影响,,15,3,10.018,5.114,9,Graphic 8,image90.svg,49,image237.svg,Merkle,visual interpretation
+P15-04,medium,Environment,绿色房屋,,绿色建筑;居住环境;节能,,15,4,14.064,5.114,39,Graphic 38,image88.svg,70,image239.svg,Merkle,visual interpretation
+P15-05,medium,Environment,树木与景观,,生态环境;自然;户外,,15,5,18.11,5.114,25,Graphic 24,image77.svg,16,image235.svg,Merkle,visual interpretation
+P15-06,medium,Environment,太阳与云,,天气;气候;自然条件,,15,6,22.156,5.114,26,Graphic 25,image89.svg,18,image236.svg,Merkle,visual interpretation
+P15-07,medium,Environment,水滴与水面,,水资源;用水;水环境,,15,7,26.202,5.114,30,Graphic 29,image232.svg,82,image241.svg,Merkle,visual interpretation
+P15-08,medium,Environment,水龙头,,供水;用水管理;节水,,15,8,30.248,5.114,33,Graphic 32,image233.svg,7,image234.svg,Merkle,visual interpretation
+P16-01,medium,Environment,双手托叶,,环保行动;自然保护;可持续发展,,16,1,1.925,5.114,18,Graphic 17,image249.svg,65,image264.svg,Merkle,visual interpretation
+P16-02,medium,Environment,循环灯泡,,节能;绿色创新;循环经济,,16,2,4.504,5.114,15,Graphic 14,image248.svg,40,image259.svg,Merkle,visual interpretation
+P16-03,medium,Environment,地球仪,,全球;国际市场;全球环境,,16,3,7.083,5.114,12,Graphic 11,image247.svg,39,image258.svg,Merkle,visual interpretation
+P16-04,medium,Environment,幼苗生长,,可持续增长;生长;早期培育,,16,4,9.661,5.114,20,Graphic 19,image250.svg,48,image262.svg,Merkle,visual interpretation
+P16-05,medium,Environment,盆栽,,植物;培育;绿色空间,,16,5,12.24,5.114,6,Graphic 5,image246.svg,45,image260.svg,Merkle,visual interpretation
+P16-06,medium,Environment,叶片,,生态;环境友好;自然,,16,6,14.819,5.114,24,Graphic 23,image251.svg,47,image261.svg,Merkle,visual interpretation
+P16-07,medium,Environment,循环与叶片,,回收;循环利用;循环经济,,16,7,17.397,5.114,26,Graphic 25,image252.svg,69,image265.svg,Merkle,visual interpretation
+P16-08,medium,Environment,绿色加油泵,,替代燃料;绿色能源;交通能源,,16,8,19.976,5.114,44,Graphic 43,image245.svg,34,image256.svg,Merkle,visual interpretation
+P16-09,medium,Environment,回收垃圾桶,,垃圾分类;废弃物管理;回收,,16,9,22.554,5.114,29,Graphic 28,image253.svg,52,image263.svg,Merkle,visual interpretation
+P16-10,medium,Environment,闪电,,电力;能源;速度,,16,10,25.133,5.114,42,Graphic 41,image244.svg,37,image257.svg,Merkle,visual interpretation
+P16-11,medium,Environment,环保购物袋,,可持续消费;零售包装;环保采购,,16,11,27.712,5.114,36,Graphic 35,image243.svg,21,image255.svg,Merkle,visual interpretation
+P16-12,medium,Environment,太阳能板,,太阳能;可再生能源;清洁电力,,16,12,30.29,5.114,22,Graphic 21,image242.svg,14,image254.svg,Merkle,visual interpretation
+P17-01,medium,Food & Beverage,餐盘与餐具,,餐饮;用餐;食品服务,,17,1,1.925,5.114,74,Graphic 73,image269.svg,9,image271.svg,Merkle,visual interpretation
+P17-02,medium,Food & Beverage,披萨,,食品;快餐;餐饮选择,,17,2,6.117,5.114,73,Graphic 72,image268.svg,11,image272.svg,Merkle,visual interpretation
+P17-03,medium,Food & Beverage,餐桌,,餐厅;堂食;就餐体验,,17,3,10.181,5.114,72,Graphic 71,image267.svg,7,image270.svg,Merkle,visual interpretation
+P17-04,medium,Food & Beverage,汉堡与饮料,,快餐;食品饮料;餐饮,,17,4,14.16,5.114,70,Graphic 69,image266.svg,13,image273.svg,Merkle,visual interpretation
+P18-01,medium,Finance,银行建筑,,银行;金融机构;金融服务,,18,1,1.925,5.114,6,Graphic 5,image274.svg,106,image296.svg,Merkle,visual interpretation
+P18-02,medium,Finance,公文包,,商务;企业客户;专业服务,,18,2,4.504,5.114,7,Graphic 6,image275.svg,104,image295.svg,Merkle,visual interpretation
+P18-03,medium,Finance,计算器,,计算;预算;成本估算,,18,3,7.083,5.114,42,Graphic 41,image284.svg,102,image294.svg,Merkle,visual interpretation
+P18-04,medium,Finance,银行卡,,支付;信用卡;消费,,18,4,9.661,5.114,10,Graphic 9,image276.svg,100,image293.svg,Merkle,visual interpretation
+P18-05,medium,Finance,一叠纸币,,现金;资金;收入,,18,5,12.24,5.114,12,Graphic 11,image277.svg,98,image292.svg,Merkle,visual interpretation
+P18-06,medium,Finance,美元,,美元;收入;美元计价,,18,6,14.819,5.114,14,Graphic 13,image278.svg,96,image291.svg,Merkle,visual interpretation
+P18-07,medium,Finance,欧元,,欧元;欧洲货币;欧元计价,,18,7,17.397,5.114,16,Graphic 15,image279.svg,94,image290.svg,Merkle,visual interpretation
+P18-08,medium,Finance,英镑,,英镑;英国货币;英镑计价,,18,8,19.976,5.114,20,Graphic 19,image280.svg,92,image289.svg,Merkle,visual interpretation
+P18-09,medium,Finance,日元人民币符号,,日元;人民币;亚洲货币,,18,9,22.554,5.114,22,Graphic 21,image281.svg,84,image287.svg,Merkle,visual interpretation
+P18-10,medium,Finance,硬币与美元,,资金;储蓄;收入,,18,10,25.133,5.114,86,Graphic 85,image285.svg,87,image288.svg,Merkle,visual interpretation
+P18-11,medium,Finance,数字货币钱包,,数字钱包;加密资产;支付,,18,11,27.712,5.114,25,Graphic 24,image282.svg,114,image297.svg,Merkle,visual interpretation
+P18-12,medium,Finance,欧元美元兑换,,汇率;货币兑换;跨境支付,,18,12,30.29,5.114,28,Graphic 27,image283.svg,78,image286.svg,Merkle,visual interpretation
+P19-01,medium,Finance,攀登与货币箭头,,业绩增长;营收目标;增长挑战,,19,1,1.925,5.114,65,Graphic 64,image298.svg,11,image309.svg,Merkle,visual interpretation
+P19-02,medium,Finance,攀登与上升箭头,,增长目标;进步;绩效提升,,19,2,4.504,5.114,79,Graphic 78,image302.svg,15,image312.svg,Merkle,visual interpretation
+P19-03,medium,Finance,信封与钱币,,支付通知;账单邮件;财务沟通,,19,3,7.083,5.114,85,Graphic 84,image304.svg,14,image311.svg,Merkle,visual interpretation
+P19-04,medium,Finance,钱袋,,资金;预算;收入,,19,4,9.661,5.114,91,Graphic 90,image305.svg,17,image314.svg,Merkle,visual interpretation
+P19-05,medium,Finance,柱状图向下,,下降趋势;业绩回落;成本下降,,19,5,12.24,5.114,103,Graphic 102,image306.svg,8,image307.svg,Merkle,visual interpretation
+P19-06,medium,Finance,柱状图向上,,增长趋势;业绩上升;指标提升,,19,6,14.819,5.114,84,Graphic 83,image303.svg,9,image308.svg,Merkle,visual interpretation
+P19-07,medium,Finance,货币向上箭头,,收入增加;价格上涨;资金流入,,19,7,17.397,5.114,73,Graphic 72,image301.svg,13,image310.svg,Merkle,visual interpretation
+P19-08,medium,Finance,货币向下箭头,,支出;成本下降;收入回落,,19,8,19.976,5.114,72,Graphic 71,image300.svg,16,image313.svg,Merkle,visual interpretation
+P19-09,medium,Finance,夹板报告,,财务清单;核对;报告,,19,9,22.565,5.114,70,Graphic 69,image299.svg,25,image315.svg,Merkle,visual interpretation
+P19-10,medium,Finance,手托硬币,,资金支持;投资;支付,,19,10,25.133,5.114,42,Graphic 41,image316.svg,51,image320.svg,Merkle,visual interpretation
+P19-11,medium,Finance,区块链芯片,,数字货币;区块链技术;加密资产,,19,11,27.712,5.114,48,Graphic 79,image318.svg,49,image319.svg,Merkle,visual interpretation
+P19-12,medium,Finance,讲师与屏幕,,培训;财务演示;业务汇报,,19,12,30.29,5.114,46,Graphic 45,image317.svg,50,image172.svg,Merkle,visual interpretation
+P20-01,medium,Finance,靶心与箭,,目标;精准定位;绩效目标,,20,1,1.925,5.114,15,Graphic 14,image321.svg,19,image324.svg,Merkle,visual interpretation
+P20-02,medium,Finance,奖杯,,成果;获奖;认可,,20,2,4.504,5.114,20,Graphic 19,image322.svg,29,image326.svg,Merkle,visual interpretation
+P20-03,medium,Finance,夹板文档,,文件清单;审计;检查,,20,3,7.083,5.114,40,Graphic 39,image299.svg,52,image315.svg,Merkle,visual interpretation
+P20-04,medium,Finance,放大镜与货币,,财务审查;成本分析;投资调研,,20,4,9.661,5.114,49,Graphic 48,image323.svg,25,image325.svg,Merkle,visual interpretation
+P20-05,medium,Finance,欧元美元兑换,,货币兑换;国际支付;汇率,,20,5,12.24,5.114,28,Graphic 27,image283.svg,33,image286.svg,Merkle,visual interpretation
+P21-01,medium,Travel,火车,,铁路;公共交通;通勤,,21,1,1.925,5.114,34,Graphic 33,image336.svg,39,image340.svg,Merkle,visual interpretation
+P21-02,medium,Travel,货运卡车,,货运;配送;物流,,21,2,4.504,5.114,28,Graphic 27,image335.svg,18,image339.svg,Merkle,visual interpretation
+P21-03,medium,Travel,快速货车,,快速配送;履约;运输,,21,3,7.083,5.114,8,Graphic 7,image333.svg,80,image342.svg,Merkle,visual interpretation
+P21-04,medium,Travel,汽车,,汽车出行;交通;乘车,,21,4,9.661,5.114,33,Graphic 32,image329.svg,86,image344.svg,Merkle,visual interpretation
+P21-05,medium,Travel,自行车,,骑行;低碳出行;城市交通,,21,5,12.24,5.114,43,Graphic 17,image337.svg,92,image346.svg,Merkle,visual interpretation
+P21-06,medium,Travel,快艇,,水上出行;游艇;休闲,,21,6,14.819,5.114,25,Graphic 24,image328.svg,141,image347.svg,Merkle,visual interpretation
+P21-07,medium,Travel,客船,,水路交通;渡轮;旅行,,21,7,17.397,5.114,23,Graphic 22,image327.svg,82,image343.svg,Merkle,visual interpretation
+P21-08,medium,Travel,轮船,,海运;远洋旅行;航运,,21,8,19.976,5.114,58,Graphic 57,image331.svg,7,image338.svg,Merkle,visual interpretation
+P21-09,medium,Travel,公交车,,公共交通;公交服务;城市出行,,21,9,22.565,5.114,36,Graphic 35,image330.svg,88,image345.svg,Merkle,visual interpretation
+P21-10,medium,Travel,直升机,,航空;空中救援;交通运输,,21,10,25.133,5.114,75,Graphic 74,image332.svg,65,image341.svg,Merkle,visual interpretation
+P21-11,medium,Travel,飞机,,航空旅行;航班;出差,,21,11,27.712,5.114,11,Graphic 10,image334.svg,143,image348.svg,Merkle,visual interpretation
+P22-01,medium,Travel,床,,酒店;住宿;休息,,22,1,1.925,5.114,34,Graphic 1,image356.svg,27,image360.svg,Merkle,visual interpretation
+P22-02,medium,Travel,楼宇与货币放大镜,,酒店价格;住宿搜索;费用比较,,22,2,4.504,5.114,9,Graphic 8,image349.svg,38,image361.svg,Merkle,visual interpretation
+P22-03,medium,Travel,旗帜,,目的地;里程碑;目标,,22,3,7.083,5.114,11,Graphic 10,image350.svg,46,image365.svg,Merkle,visual interpretation
+P22-04,medium,Travel,指南针,,方向;导航;探索,,22,4,9.661,5.114,69,Graphic 68,image358.svg,41,image363.svg,Merkle,visual interpretation
+P22-05,medium,Travel,多个定位点,,多地点;路线;网点分布,,22,5,12.24,5.114,65,Graphic 64,image357.svg,24,image359.svg,Merkle,visual interpretation
+P22-06,medium,Travel,手机与定位,,移动导航;定位服务;地图应用,,22,6,14.819,5.114,15,Graphic 14,image351.svg,39,image362.svg,Merkle,visual interpretation
+P22-07,medium,Travel,地图与定位标记,,地图;地址;目的地,,22,7,17.397,5.114,21,Graphic 20,image352.svg,51,image368.svg,Merkle,visual interpretation
+P22-08,medium,Travel,图钉,,标记地点;重点标注;位置,,22,8,19.976,5.114,25,Graphic 24,image354.svg,42,image364.svg,Merkle,visual interpretation
+P22-09,medium,Travel,定位标记,,地点;地址;线下网点,,22,9,22.565,5.114,31,Graphic 30,image355.svg,50,image367.svg,Merkle,visual interpretation
+P22-10,medium,Travel,地球,,全球;跨区域;国际旅行,,22,10,25.133,5.114,2,Graphic 1,image353.svg,47,image366.svg,Merkle,visual interpretation
+P24-01,mini_fill,Finance,,piggy-bank,储蓄;存钱;资金管理;资金;现金;支付;银行;金融机构,savings; deposit; money; coins,24,1,1.738,4.269,384,Graphic 383,image415.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-02,mini_fill,Finance,,bank,资金;现金;支付;银行;金融机构,banking; checking; money; savings; deposit; withdraw; places; locations,24,2,4.414,4.269,379,Graphic 378,image413.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-03,mini_fill,Finance,,trend-down,下降;跌幅;负增长,graphs; graphing; charts; statistics; analyze; analysis; decrease; arrows,24,3,7.099,4.269,386,Graphic 385,image417.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-04,mini_fill,Finance,,trend-up,增长;上升;趋势,graphs; graphing; charts; statistics; analyze; analysis; increase; arrows,24,4,9.784,4.269,385,Graphic 384,image416.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-05,mini_fill,Finance,,chart-bar,柱状图;数据比较;绩效分析,graphs; graphing; charts; statistics; histogram; analyze; analysis,24,5,12.469,4.269,373,Graphic 372,image410.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-06,mini_fill,Finance,,chart-bar-horizontal,横向柱状图;对比;数据分析;柱状图;数据比较;绩效分析,graphs; graphing; charts; statistics; histogram; analyze; analysis,24,6,15.154,4.269,371,Graphic 370,image409.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-07,mini_fill,Finance,,calculator,计算;预算;估算;除法;数学;比例,addition; sum; subtraction; difference; multiply; multiplication; product; divide; division; divisor; dividend; quotient; equals; equality; mathematics; arithmetic; +; -; ±; ×; ÷; =,24,7,17.847,4.269,377,Graphic 376,image412.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-08,mini_fill,Finance,,strategy,策略;战术;路径;规划,sports; strategem; plan; tic-tac-toe,24,8,20.532,4.269,387,Graphic 386,image418.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-09,mini_fill,Finance,,chart-donut,环形图;比例;构成,graphs; graphing; charts; statistics; analyze; analysis; circle,24,9,23.216,4.269,369,Graphic 368,image408.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-10,mini_fill,Finance,,chart-line,折线图;趋势分析,graphs; graphing; charts; statistics; analyze; analysis; stocks,24,10,25.901,4.269,367,Graphic 366,image407.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-11,mini_fill,Finance,,chart-line-up,折线上升;增长趋势;折线图;趋势分析,graphs; graphing; charts; statistics; analyze; analysis; stocks,24,11,28.586,4.269,365,Graphic 364,image406.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-12,mini_fill,Finance,,chart-pie-slice,饼图;份额;占比;构成,graphs; graphing; charts; statistics; circle; analyze; analysis,24,12,31.262,4.269,361,Graphic 360,image404.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-13,mini_fill,Finance,,chart-polar,极坐标;数据分析,graphs; graphing; charts; statistics; analyze; analysis; circle,24,13,1.738,6.77,359,Graphic 358,image403.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-14,mini_fill,Finance,,chart-scatter,散点图;分布;相关性,graphs; graphing; charts; statistics; analyze; analysis,24,14,4.414,6.77,357,Graphic 356,image402.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-15,mini_fill,Finance,,coin-vertical,货币;汇率;支付;资金;现金;硬币;零钱,cents; change; money; currency; payment; paying; purchase; price; sell,24,15,7.099,6.77,353,Graphic 352,image400.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-16,mini_fill,Finance,,coin,货币;汇率;支付;资金;现金;硬币;零钱,coins; cents; change; money; currency; payment; paying; purchase; price; sell,24,16,9.784,6.77,355,Graphic 354,image401.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-17,mini_fill,Finance,,coins,货币;汇率;支付;资金;现金,cents; change; money; currency; payment; paying; purchase; price; sell,24,17,12.469,6.77,351,Graphic 350,image399.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-18,mini_fill,Finance,,credit-card,信用卡;银行卡;支付;资金;现金,debit; visa; mastercard; money; payment; paying; purchase; swipe,24,18,15.154,6.77,349,Graphic 348,image398.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-19,mini_fill,Finance,,chart-pie,饼图;占比;构成,graphs; graphing; charts; statistics; circle; analyze; analysis,24,19,17.847,6.77,363,Graphic 362,image405.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-20,mini_fill,Finance,,currency-circle-dollar,货币;汇率;支付;资金;现金,money; usd; payment; paying; purchase,24,20,20.532,6.77,345,Graphic 344,image396.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-21,mini_fill,Finance,,currency-eur,欧元;欧洲货币;欧元计价;货币;汇率;支付;资金;现金,money; euros; payment; paying; purchase,24,21,23.216,6.77,335,Graphic 334,image391.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-22,mini_fill,Finance,,currency-btc,比特币;加密资产;数字货币;货币;汇率;支付;资金;现金,money; btc; bitcoin; crypto; cryptocurrency; payment; paying; purchase,24,22,25.901,6.77,347,Graphic 346,image397.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-23,mini_fill,Finance,,currency-kzt,货币;汇率;支付;资金;现金,money; kazakhstan; tenge; payment; paying; purchase,24,23,28.586,6.77,325,Graphic 324,image386.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-24,mini_fill,Finance,,currency-cny,人民币;中国货币;人民币计价;货币;汇率;支付;资金;现金,money; yuan; payment; paying; purchase,24,24,31.262,6.77,343,Graphic 342,image395.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-25,mini_fill,Finance,,currency-dollar,美元;美国货币;美元计价;货币;汇率;支付;资金;现金,money; usd; payment; paying; purchase,24,25,1.716,9.293,341,Graphic 340,image394.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-26,mini_fill,Finance,,currency-dollar-simple,美元符号;金额;美元计价;美元;美国货币;货币;汇率;支付;资金;现金,money; usd; payment; paying; purchase,24,26,4.392,9.293,339,Graphic 338,image393.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-27,mini_fill,Finance,,currency-gbp,英镑;英国货币;英镑计价;货币;汇率;支付;资金;现金,money; pounds sterling; payment; paying; purchase,24,27,7.077,9.293,333,Graphic 332,image390.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-28,mini_fill,Finance,,currency-inr,印度卢比;印度货币;卢比计价;货币;汇率;支付;资金;现金,money; rupees; payment; paying; purchase,24,28,9.762,9.293,331,Graphic 330,image389.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-29,mini_fill,Finance,,currency-jpy,日元;日本货币;日元计价;货币;汇率;支付;资金;现金,money; yen; payment; paying; purchase,24,29,12.446,9.293,329,Graphic 328,image388.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-30,mini_fill,Finance,,currency-krw,韩元;韩国货币;韩元计价;货币;汇率;支付;资金;现金,money; won; payment; paying; purchase,24,30,15.131,9.293,327,Graphic 326,image387.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-31,mini_fill,Finance,,empty,计算;预算;估算,∅; empty set; member; mathematics; arithmetic; calculator; null,24,31,17.825,9.293,317,Graphic 316,image383.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-32,mini_fill,Finance,,currency-ngn,货币;汇率;支付;资金;现金,money; nigeria; naira; payment; paying; purchase,24,32,20.509,9.293,323,Graphic 322,image385.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-33,mini_fill,Finance,,currency-eth,以太坊;加密资产;数字货币;货币;汇率;支付;资金;现金,money; ethereum; crypto; cryptocurrency; payment; paying; purchase,24,33,23.194,9.293,337,Graphic 336,image392.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-34,mini_fill,Finance,,presentation-chart,汇报;演示;数据图表;演讲,whiteboard; flipchart; graphs; graphing; charts; statistics; analyze; analysis; meeting,24,34,25.879,9.293,395,Graphic 394,image425.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-35,mini_fill,Finance,,currency-rub,货币;汇率;支付;资金;现金,money; rubles; payment; paying; purchase,24,35,28.564,9.293,321,Graphic 320,image384.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-36,mini_fill,Finance,,tip-jar,资金;现金;支付,give; deposit; donation; savings; money,24,36,31.24,9.293,389,Graphic 388,image420.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-37,mini_fill,Finance,,paypal-logo,PayPal;在线支付,payments; paying; purchase; logos,24,37,1.738,11.808,393,Graphic 392,image424.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-38,mini_fill,Finance,,hand-deposit,存款;现金存入;资金转入;手势;操作;触摸;支持,give; insert; donation; atm; emoji,24,38,4.414,11.808,303,Graphic 302,image378.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-39,mini_fill,Finance,,hand-withdraw,取款;现金支取;资金转出;手势;操作;触摸;支持,take; remove; withdrawal; atm; emoji,24,39,7.099,11.808,301,Graphic 300,image377.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-40,mini_fill,Finance,,projector-screen,投影;演示;会议;汇报;演讲,projection; presentation; slideshow; movies; charts; statistics; analyze; analysis,24,40,9.784,11.808,391,Graphic 390,image422.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-41,mini_fill,Finance,,hand-arrow-down,手与向下箭头;领取;资金流入;手势;操作;触摸;支持,take; receive; remove; withdraw; emoji,24,41,12.469,11.808,309,Graphic 308,image381.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-42,mini_fill,Finance,,hand-arrow-up,手与向上箭头;提交;资金流出;手势;操作;触摸;支持,give; insert; deposit; donation; emoji,24,42,15.154,11.808,307,Graphic 306,image380.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-43,mini_fill,Finance,,hand-coins,手托硬币;支付;资金支持;资金;现金;手势;操作;触摸;支持,donation; payment; money; paying; purchase,24,43,17.847,11.808,305,Graphic 304,image379.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-44,mini_fill,Finance,,intersection,计算;预算;估算,∩; intersection; set; member; mathematics; arithmetic; calculator,24,44,20.532,11.808,297,Graphic 296,image375.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-45,mini_fill,Finance,,lectern,汇报;演示;演讲,lecture; podium; pulpit; stand; speech; presentation; keynote,24,45,23.216,11.808,293,Graphic 292,image373.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-46,mini_fill,Finance,,invoice,发票;账单;付款;收据;报销;订单,receipt; expense; bill,24,46,25.901,11.808,295,Graphic 294,image374.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-47,mini_fill,Finance,,wallet,钱包;支付;财务;资金;现金,money; payment; paying; purchase,24,47,28.586,11.808,388,Graphic 387,image419.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-48,mini_fill,Finance,,presentation,汇报;演示;演讲,whiteboard; flipchart; charts; statistics; analyze; analysis; meeting,24,48,31.262,11.808,392,Graphic 391,image423.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-49,mini_fill,Finance,,math-operations,计算;预算;估算;除法;数学;比例;运算,addition; sum; subtraction; difference; multiply; multiplication; product; divide; division; divisor; dividend; quotient; equals; equality; mathematics; arithmetic; calculator; +; -; ±; ×; ÷; =,24,49,1.738,14.331,287,Graphic 286,image372.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-50,mini_fill,Finance,,member-of,计算;预算;估算,∈; is element of; set; member; mathematics; arithmetic; calculator,24,50,4.414,14.331,285,Graphic 284,image371.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-51,mini_fill,Finance,,projector-screen-chart,投影;演示;图表;会议;汇报;演讲,projection; presentation; slideshow; graphs; graphing; charts; statistics; analyze; analysis,24,51,7.099,14.331,390,Graphic 389,image421.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-52,mini_fill,Finance,,presentation-chart,汇报;演示;数据图表;演讲,whiteboard; flipchart; graphs; graphing; charts; statistics; analyze; analysis; meeting,24,52,9.784,14.331,394,Graphic 393,image425.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-53,mini_fill,Finance,,infinity,计算;预算;估算;无限;持续;循环,infinite; lemniscate; figure-eight; mathematics; arithmetic; calculator; ∞,24,53,12.469,14.331,299,Graphic 298,image376.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-54,mini_fill,Finance,,acorn,食品;饮食;餐饮,savings; nut; vegetable; veggies; food; groceries; market,24,54,15.154,14.331,383,Graphic 382,image414.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-55,mini_fill,Finance,,cardholder,钱包;支付;财务;资金;现金,wallet; money; payment; paying; purchase,24,55,17.847,14.331,375,Graphic 374,image411.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-56,mini_fill,Finance,,money,资金;现金;支付,cash; dollars; paper bills; payment; paying; purchase,24,56,20.532,14.331,277,Graphic 276,image370.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-57,mini_fill,Finance,,money-wavy,资金;现金;支付,cash; dollars; paper bills; payment; paying; purchase,24,57,23.216,14.331,275,Graphic 274,image369.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-58,mini_fill,Finance,,less-than-or-equal,计算;预算;估算;小于;比较;限制;等于,≤; less than or equal; lte; comparison; mathematics; arithmetic; calculator,24,58,25.901,14.331,420,Graphic 419,image426.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-59,mini_fill,Finance,,greater-than-or-equal,大于;比较;阈值;计算;预算;估算;等于,≥; greater than or equal; gte; comparison; mathematics; arithmetic; calculator,24,59,28.586,14.331,311,Graphic 310,image382.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P24-60,mini_fill,Finance,,vault,银行;金融机构,safe; bank; security; secured; authentication; authenticated; locked; encrypted; encryption,24,60,31.262,14.331,422,Graphic 421,image427.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-01,mini_fill,Finance,,percent,计算;预算;估算;百分比;比例;增长率,%; percentage; percentile; ratio; delta; mathematics; arithmetic; calculator,25,1,1.736,4.26,147,Graphic 146,image448.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-02,mini_fill,Finance,,divide,计算;预算;估算;除法;数学;比例,division; divisor; dividend; quotient; mathematics; arithmetic; calculator,25,2,4.414,4.26,19,Graphic 18,image458.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-03,mini_fill,Finance,,plus-minus,计算;预算;估算;减少;移除;负值;增加;新增;正值,plus or minus; plus/minus; add/subtract; addition; sum; subtraction; difference; mathematics; arithmetic; calculator; +; -; ±,25,3,7.108,4.26,123,Graphic 122,image444.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-04,mini_fill,Finance,,not-equals,计算;预算;估算,≠; equality; equivalent; equivalence; mathematics; arithmetic; calculator,25,4,9.784,4.26,4,Graphic 3,image450.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-05,mini_fill,Finance,,stripe-logo,Stripe;支付平台,payment,25,5,12.469,4.26,70,Graphic 69,image437.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-06,mini_fill,Finance,,table,表格;数据;信息整理,tables; tabular; spreadsheets; excel; grid; form,25,6,15.154,4.26,50,Graphic 49,image432.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-07,mini_fill,Finance,,pix-logo,Pix;支付方式,payments; paying; purchase; logos,25,7,17.838,4.26,135,Graphic 134,image446.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-08,mini_fill,Finance,,receipt-x,收据;报销;订单;资金;现金;支付,purchase; money; clipping; expense; cancel,25,8,20.523,4.26,91,Graphic 90,image440.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-09,mini_fill,Finance,,sigma,求和;统计;数学,σ; symbol; mathematics; sum,25,9,23.208,4.26,82,Graphic 81,image439.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-10,mini_fill,Finance,,receipt,收据;报销;订单;资金;现金;支付,purchase; money; clipping; expense,25,10,25.893,4.26,95,Graphic 94,image441.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-11,mini_fill,Finance,,plus-circle,计算;预算;估算;增加;新增;正值,addition; sum; mathematics; arithmetic; calculator; round; +,25,11,28.578,4.26,127,Graphic 126,image445.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-12,mini_fill,Finance,,minus-circle,计算;预算;估算;减少;移除;负值,-; subtraction; difference; mathematics; arithmetic; calculator; round,25,12,31.262,4.26,17,Graphic 16,image457.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-13,mini_fill,Finance,,superset-proper-of,计算;预算;估算,⊃; proper superset of; set; member; mathematics; arithmetic; calculator,25,13,1.736,6.761,54,Graphic 53,image433.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-14,mini_fill,Finance,,text-superscript,计算;预算;估算,typography; font; formatting; mathematics; calculator,25,14,4.414,6.761,42,Graphic 41,image430.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-15,mini_fill,Finance,,approximate-equals,近似;估算;计算;预算,≈; is approximately equal to; congruent; equality; equivalent; equivalence; comparison; mathematics; arithmetic; calculator,25,15,7.108,6.761,2,Graphic 1,image449.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-16,mini_fill,Finance,,pi,圆周率;数学,π; symbol; mathematics; circle,25,16,9.784,6.761,143,Graphic 142,image447.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-17,mini_fill,Finance,,superset-of,计算;预算;估算,⊇; superset of; set; member; mathematics; arithmetic; calculator,25,17,12.469,6.761,58,Graphic 57,image434.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-18,mini_fill,Finance,,tilde,计算;预算;估算,~; ∼; proportional; comparison; mathematics; arithmetic; calculator,25,18,15.154,6.761,38,Graphic 37,image429.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-19,mini_fill,Finance,,subset-of,计算;预算;估算,⊆; subset of; set; member; mathematics; arithmetic; calculator,25,19,17.838,6.761,66,Graphic 65,image436.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-20,mini_fill,Finance,,square-logo,Square;支付品牌,squareup; payment,25,20,20.523,6.761,78,Graphic 77,image438.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-21,mini_fill,Finance,,subset-proper-of,计算;预算;估算,⊂; proper subset of; set; member; mathematics; arithmetic; calculator,25,21,23.208,6.761,62,Graphic 61,image435.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-22,mini_fill,Finance,,radical,计算;预算;估算,√; radix; radicand; square root; squareroot; mathematics; arithmetic; calculator,25,22,25.893,6.761,99,Graphic 98,image442.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-23,mini_fill,Finance,,plus-square,计算;预算;估算;增加;新增;正值,addition; sum; mathematics; arithmetic; calculator; +,25,23,28.578,6.761,119,Graphic 118,image443.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-24,mini_fill,Finance,,minus-square,计算;预算;估算;减少;移除;负值,-; subtraction; difference; mathematics; arithmetic; calculator,25,24,31.262,6.761,5,Graphic 4,image451.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-25,mini_fill,Finance,,less-than,计算;预算;估算;小于;比较;限制,<; less than; lt; comparison; mathematics; arithmetic; calculator,25,25,1.736,9.284,15,Graphic 14,image455.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-26,mini_fill,Finance,,greater-than,大于;比较;阈值;计算;预算;估算,>; greater than; gt; comparison; mathematics; arithmetic; calculator,25,26,4.414,9.284,21,Graphic 20,image459.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-27,mini_fill,Finance,,not-subset-of,计算;预算;估算,⊄; not subset of; set; member; mathematics; arithmetic; calculator,25,27,7.108,9.284,11,Graphic 10,image453.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-28,mini_fill,Finance,,equals,计算;预算;估算,=; equality; equivalent; equivalence; mathematics; arithmetic; calculator,25,28,9.784,9.284,16,Graphic 15,image456.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-29,mini_fill,Finance,,union,计算;预算;估算,∪; union; set; member; mathematics; arithmetic; calculator,25,29,12.469,9.284,22,Graphic 21,image428.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-30,mini_fill,Finance,,not-member-of,计算;预算;估算,∉; is not element of; set; member; mathematics; arithmetic; calculator,25,30,15.154,9.284,12,Graphic 11,image454.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-31,mini_fill,Finance,,text-subscript,计算;预算;估算,typography; font; formatting; mathematics; power; exponent; calculator,25,31,17.838,9.284,46,Graphic 45,image431.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P25-32,mini_fill,Finance,,not-superset-of,计算;预算;估算,⊉; not superset of; set; member; mathematics; arithmetic; calculator,25,32,20.523,9.284,9,Graphic 8,image452.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-01,mini_fill,People,,users-four,客户群;团队;用户;人员;客户;员工,user; group; team; department; community; people; profiles; accounts; contacts,26,1,1.693,4.283,176,Graphic 175,image525.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-02,mini_fill,People,,users,客户群;团队;用户;人员;客户;员工,user; group; team; people; profiles; accounts; contacts,26,2,4.414,4.283,178,Graphic 177,image526.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-03,mini_fill,People,,users-three,客户群;团队;用户;人员;客户;员工,user; group; team; community; people; profiles; accounts; contacts,26,3,7.099,4.283,174,Graphic 173,image524.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-04,mini_fill,People,,baby,婴儿;家庭;儿童,infant; child; children; toddler,26,4,9.784,4.283,172,Graphic 171,image523.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-05,mini_fill,People,,baby-carriage,婴儿;家庭;儿童,pram; stroller; infant; child; children; toddler,26,5,12.469,4.283,170,Graphic 169,image522.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-06,mini_fill,People,,hand-deposit,存款;现金存入;资金转入;手势;操作;触摸;支持,give; insert; donation; atm; emoji,26,6,15.154,4.283,142,Graphic 141,image378.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-07,mini_fill,People,,detective,调查;研究;侦查,incognito; police; law enforcement; spy; secret,26,7,17.838,4.283,166,Graphic 165,image520.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-08,mini_fill,People,,eyes,观察;关注;视觉,look; glance,26,8,20.523,4.283,164,Graphic 163,image519.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-09,mini_fill,People,,chalkboard-teacher,培训;讲师;教学;黑板;演示,blackboard; whiteboard; classroom; education; school; college; university,26,9,23.208,4.283,168,Graphic 167,image521.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-10,mini_fill,People,,hand-coins,手托硬币;支付;资金支持;资金;现金;手势;操作;触摸;支持,donation; payment; money; paying; purchase,26,10,25.893,4.283,144,Graphic 143,image379.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-11,mini_fill,People,,gender-female,性别;身份;人群,woman; feminine; venus,26,11,28.578,4.283,162,Graphic 161,image518.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-12,mini_fill,People,,gender-neuter,性别;身份;人群,agender; non-binary; asexual,26,12,31.27,4.283,156,Graphic 155,image515.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-13,mini_fill,People,,gender-nonbinary,性别;身份;人群,intersex; non-binary,26,13,1.693,6.761,154,Graphic 153,image514.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-14,mini_fill,People,,gender-intersex,性别;身份;人群,transgender; non-binary,26,14,4.414,6.761,160,Graphic 159,image517.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-15,mini_fill,People,,gender-male,性别;身份;人群,man; masculine; mars,26,15,7.099,6.761,158,Graphic 157,image516.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-16,mini_fill,People,,gender-transgender,性别;身份;人群,intersex; non-binary,26,16,9.784,6.761,152,Graphic 151,image513.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-17,mini_fill,People,,smiley-melting,情绪;满意度;表情;用户反馈,face; emoji; embarrassment; sarcasm; shame; hot; heat,26,17,12.469,6.761,70,Graphic 69,image477.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-18,mini_fill,People,,hand-pointing,手指指向;提示;选择;手势;操作;触摸;支持,pointers; cursors; emoji; fingers; clicks; mouse,26,18,15.154,6.761,128,Graphic 127,image505.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-19,mini_fill,People,,hand,手势;操作;触摸;支持,pointers; cursors; emoji; backhand,26,19,17.838,6.761,150,Graphic 149,image512.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-20,mini_fill,People,,hand-arrow-down,手与向下箭头;领取;资金流入;手势;操作;触摸;支持,take; receive; remove; withdraw; emoji,26,20,20.523,6.761,148,Graphic 147,image381.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-21,mini_fill,People,,hand-eye,手势;操作;触摸;支持,emoji; hamsa; evil eye,26,21,23.208,6.761,140,Graphic 139,image511.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-22,mini_fill,People,,hand-fist,握拳;力量;手势;操作;触摸;支持,emoji; power; protest; blm,26,22,25.893,6.761,138,Graphic 137,image510.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-23,mini_fill,People,,hand-grabbing,抓取;握持;手势;操作;触摸;支持,pointers; cursors; emoji; drag; hold,26,23,28.578,6.761,136,Graphic 135,image509.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-24,mini_fill,People,,hand-arrow-up,手与向上箭头;提交;资金流出;手势;操作;触摸;支持,give; insert; deposit; donation; emoji,26,24,31.27,6.761,146,Graphic 145,image380.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-25,mini_fill,People,,user-list,人;人员;用户;客户群;团队;客户;员工,person; users; profiles; accounts; members; address book,26,25,1.693,9.307,28,Graphic 27,image462.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-26,mini_fill,People,,hand-heart,关爱;帮助;支持;手势;操作;触摸,donation; care; emoji,26,26,4.414,9.307,134,Graphic 133,image508.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-27,mini_fill,People,,hand-waving,挥手;问候;告别;手势;操作;触摸;支持,emoji; palm; wave; hello; goodbye,26,27,7.099,9.307,120,Graphic 119,image501.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-28,mini_fill,People,,hand-palm,手掌;停止;手势;操作;触摸;支持,pointers; cursors; emoji; palm; stop; wait; hamsa; 5,26,28,9.784,9.307,132,Graphic 131,image507.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-29,mini_fill,People,,hand-peace,手势;和平;胜利;操作;触摸;支持,emoji; victory,26,29,12.469,9.307,130,Graphic 129,image506.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-30,mini_fill,People,,hand-swipe-left,左滑;手势;移动交互;操作;触摸;支持,pointers; cursors; gesture,26,30,15.154,9.307,126,Graphic 125,image504.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-31,mini_fill,People,,hand-swipe-right,右滑;手势;移动交互;操作;触摸;支持,pointers; cursors; gesture,26,31,17.838,9.307,124,Graphic 123,image503.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-32,mini_fill,People,,hands-praying,宗教;文化,emoji; religion; worship; prayer; thanks; thank you,26,32,20.523,9.307,114,Graphic 113,image499.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-33,mini_fill,People,,hand-tap,点击;触摸;互动;手势;操作;支持,pointers; cursors; gesture,26,33,23.208,9.307,122,Graphic 121,image502.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-34,mini_fill,People,,hand-withdraw,取款;现金支取;资金转出;手势;操作;触摸;支持,take; remove; withdrawal; atm; emoji,26,34,25.893,9.307,118,Graphic 117,image377.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-35,mini_fill,People,,hands-clapping,鼓掌;认可;庆祝,emoji; clap; applause,26,35,28.578,9.307,116,Graphic 115,image500.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-36,mini_fill,People,,identification-badge,身份;证件;识别;用户;客户;员工;人员,license; credentials; nametag; user; verification,26,36,31.27,9.307,110,Graphic 109,image497.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-37,mini_fill,People,,identification-card,身份;证件;识别;用户;客户;员工;人员,license; badge; credentials; nametag; user; verification,26,37,1.693,11.808,108,Graphic 107,image496.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-38,mini_fill,People,,handshake,握手;合作;协议,emoji; deal; agreement,26,38,4.414,11.808,112,Graphic 111,image498.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-39,mini_fill,People,,intersect-three,性别;身份;人群,venn-diagram; join; intersection; gender; pronouns,26,39,7.099,11.808,106,Graphic 105,image495.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-40,mini_fill,People,,lego-smiley,情绪;满意度;表情;用户反馈;积木;模块;拼接,face; emoji; toys; blocks; bricks,26,40,9.784,11.808,104,Graphic 103,image494.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-41,mini_fill,People,,person-arms-spread,人;人员;用户,accessibility; vitruvian; stretch; sports,26,41,12.469,11.808,100,Graphic 99,image492.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-42,mini_fill,People,,thumbs-down,不满意;负面反馈;反对,dislike; hate; emoji; no,26,42,15.154,11.808,52,Graphic 51,image468.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-43,mini_fill,People,,person-simple-circle,人;行动;活动;用户;人员,human; accessibility; a11y; vitruvius; vitruvian,26,43,17.838,11.808,94,Graphic 93,image489.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-44,mini_fill,People,,person,人;人员;用户;客户;员工,walking; human; woman; man; body; transit; transportation; travel; commuter; user,26,44,20.523,11.808,102,Graphic 101,image493.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-45,mini_fill,People,,person-simple-run,人;行动;活动;用户;人员;客户;员工,pedestrian; running; human; woman; man; body; transit; transportation; travel; commuter; user; exercise,26,45,23.208,11.808,90,Graphic 89,image487.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-46,mini_fill,People,,person-simple-bike,人;行动;活动;用户;自行车;骑行;交通;人员,pedestrian; biking; bicycle; human; woman; man; body; sports; exercise,26,46,25.893,11.808,96,Graphic 95,image490.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-47,mini_fill,People,,person-simple,人;行动;活动;用户;人员;客户;员工,pedestrian; walking; human; woman; man; body; transit; transportation; travel; commuter; user; exercise,26,47,28.578,11.808,98,Graphic 97,image491.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-48,mini_fill,People,,person-simple-swim,人;行动;活动;用户;人员,pedestrian; swimming; human; woman; man; body; sports; exercise,26,48,31.27,11.808,88,Graphic 87,image486.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-49,mini_fill,People,,person-simple-hike,人;行动;活动;用户;人员,pedestrian; climbing; mountaineering; bouldering,26,49,1.693,14.331,92,Graphic 91,image488.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-50,mini_fill,People,,person-simple-tai-chi,人;行动;活动;用户;人员,mindfulness; martial arts; meditation; sports; exercise; yoga,26,50,4.414,14.331,86,Graphic 85,image485.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-51,mini_fill,People,,smiley,情绪;满意度;表情;用户反馈,face; emoji; happy; grinning; smiling,26,51,7.099,14.331,78,Graphic 77,image481.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-52,mini_fill,People,,person-simple-walk,人;行动;活动;用户;人员;客户;员工,pedestrian; walking; human; woman; man; body; transit; transportation; travel; commuter; user; exercise,26,52,9.784,14.331,82,Graphic 81,image483.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-53,mini_fill,People,,person-simple-throw,人;行动;活动;用户;人员,pedestrian; tennis; human; woman; man; body; sports; exercise,26,53,12.469,14.331,84,Graphic 83,image484.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-54,mini_fill,People,,scan-smiley,情绪;满意度;表情;用户反馈;扫描;识别;感知,facial recognition; face unlock; scanner,26,54,15.154,14.331,80,Graphic 79,image482.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-55,mini_fill,People,,smiley-angry,情绪;满意度;表情;用户反馈,face; emoji; mad; frown,26,55,17.838,14.331,76,Graphic 75,image480.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-56,mini_fill,People,,smiley-blank,情绪;满意度;表情;用户反馈,face; emoji; unimpressed; no face,26,56,20.523,14.331,74,Graphic 73,image479.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-57,mini_fill,People,,star-and-crescent,宗教;文化;星标;收藏;评价,islam; muslim; moon; religion; worship; symbol,26,57,23.208,14.331,58,Graphic 57,image471.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-58,mini_fill,People,,smiley-meh,情绪;满意度;表情;用户反馈,face; emoji; unimpressed; neutral,26,58,25.893,14.331,72,Graphic 71,image478.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-59,mini_fill,People,,smiley-nervous,情绪;满意度;表情;用户反馈,face; emoji; anxious; uncomfortable; uneasy; queasy; sick; ill,26,59,28.578,14.331,68,Graphic 67,image476.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-60,mini_fill,People,,smiley-sad,情绪;满意度;表情;用户反馈,face; emoji; unhappy; frowning,26,60,31.27,14.331,66,Graphic 65,image475.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-61,mini_fill,People,,smiley-sticker,情绪;满意度;表情;用户反馈,face; emoji; happy; grinning; smiling,26,61,1.693,16.449,64,Graphic 63,image474.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-62,mini_fill,People,,thumbs-up,满意;正面反馈;认可,like; love; favorited; favorites; emoji; yes,26,62,4.414,16.449,50,Graphic 49,image467.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-63,mini_fill,People,,smiley-wink,情绪;满意度;表情;用户反馈,face; emoji; winking; flirting; cute,26,63,7.099,16.449,62,Graphic 61,image473.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-64,mini_fill,People,,smiley-x-eyes,情绪;满意度;表情;用户反馈;观察;关注;视觉,face; emoji; dead; killed; unconscious,26,64,9.784,16.449,60,Graphic 59,image472.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-65,mini_fill,People,,user,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; login,26,65,12.469,16.449,48,Graphic 47,image466.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-66,mini_fill,People,,star-of-david,宗教;文化;星标;收藏;评价,judaism; jewish; hexagram; religion; worship; symbol,26,66,15.154,16.449,56,Graphic 55,image470.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-67,mini_fill,People,,user-check,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; login; verified,26,67,17.838,16.449,46,Graphic 45,image465.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-68,mini_fill,People,,video,视频;媒体;远程沟通,training; course; education; tutorial,26,68,20.523,16.449,14,Graphic 13,image460.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-69,mini_fill,People,,student,学生;教育;学习,pupil; graduate; classroom; teacher; education; school; college; university,26,69,23.208,16.449,54,Graphic 53,image469.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-70,mini_fill,People,,user-circle,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; login,26,70,25.893,16.449,44,Graphic 43,image464.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-71,mini_fill,People,,user-circle-check,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; login; verified,26,71,28.578,16.449,42,Graphic 41,image463.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P26-72,mini_fill,People,,user-minus,人;人员;用户;客户群;团队;减少;移除;负值;客户;员工,person; users; profile; account; contact; delete; remove; -,26,72,31.27,16.449,26,Graphic 25,image461.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-01,mini_fill,People,,user-circle-plus,人;人员;用户;客户群;团队;客户;员工;增加;新增;正值,person; users; profile; account; contact; add; create; +,27,1,1.744,4.309,31,Graphic 30,image536.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-02,mini_fill,People,,user-plus,人;人员;用户;客户群;团队;客户;员工;增加;新增;正值,person; users; profile; account; contact; add; create; +,27,2,4.423,4.309,27,Graphic 26,image533.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-03,mini_fill,People,,user-rectangle,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; login,27,3,7.108,4.309,25,Graphic 24,image532.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-04,mini_fill,People,,wheelchair,无障碍;出行;残障支持,handicapped; medical; disabled; differently abled; accessible; accessibility; a11y,27,4,9.792,4.309,21,Graphic 20,image528.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-05,mini_fill,People,,user-sound,人;人员;用户;客户群;团队;客户;员工,person; users; profile; speech; speaking; voice,27,5,12.477,4.309,24,Graphic 23,image531.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-06,mini_fill,People,,user-switch,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; login; logout; signin; signout; settings; preferences,27,6,15.154,4.309,22,Graphic 21,image529.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-07,mini_fill,People,,user-square,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; login,27,7,17.847,4.309,23,Graphic 22,image530.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-08,mini_fill,People,,wheelchair-motion,无障碍;出行;残障支持,handicapped; medical; disabled; differently abled; accessible; accessibility; a11y,27,8,20.532,4.33,20,Graphic 19,image527.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-09,mini_fill,People,,user-focus,身份;证件;识别;人;人员;用户;客户;员工,identification; biometrics; facial recognition; profile; person; account; autofocus,27,9,23.216,4.309,30,Graphic 29,image535.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-10,mini_fill,People,,user-circle-dashed,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; login; pending; missing; removed,27,10,25.901,4.309,34,Graphic 33,image539.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-11,mini_fill,People,,user-circle-gear,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; settings; preferences,27,11,28.586,4.309,33,Graphic 32,image538.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-12,mini_fill,People,,user-gear,人;人员;用户;客户群;团队;客户;员工,person; users; profile; account; contact; settings; preferences,27,12,31.27,4.352,29,Graphic 28,image534.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P27-13,mini_fill,People,,user-circle-minus,人;人员;用户;客户群;团队;减少;移除;负值;客户;员工,person; users; profile; account; contact; delete; remove; -,27,13,1.744,6.787,32,Graphic 31,image537.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-01,mini_fill,Electronics and Devices,,memory,内存;硬件;计算,ram; microchip; computer; circuit; electronics,28,1,1.744,4.283,57,Graphic 56,image564.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-02,mini_fill,Electronics and Devices,,database,数据库;数据存储;数据管理,saved; saving; archived; archiving; archival; hard disk; storage; hdd; servers; databases,28,2,4.423,4.283,37,Graphic 36,image554.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-03,mini_fill,Electronics and Devices,,circuitry,电路;技术;硬件,processor; microchip; computer; circuit; electronics; motherboard,28,3,7.108,4.283,59,Graphic 58,image565.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-04,mini_fill,Electronics and Devices,,cpu,处理器;计算;硬件,processor; microchip; computer; circuit,28,4,9.792,4.283,35,Graphic 34,image553.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-05,mini_fill,Electronics and Devices,,head-circuit,智能;思考;科技,automaton; artificial intelligence; ai,28,5,12.477,4.283,27,Graphic 26,image549.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-06,mini_fill,Electronics and Devices,,rocket-launch,启动;增长;发射,spaceship; flying; blastoff; deployment; rocketship,28,6,15.162,4.283,25,Graphic 24,image548.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-07,mini_fill,Electronics and Devices,,rocket,启动;增长;发射,spaceship; launch; deployment; rocketship,28,7,17.847,4.283,23,Graphic 22,image547.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-08,mini_fill,Electronics and Devices,,solar-panel,太阳能;清洁能源,renewable; energy; power; electricity,28,8,20.532,4.283,21,Graphic 20,image546.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-09,mini_fill,Electronics and Devices,,code-block,代码;开发;软件,angle brackets; angle braces; snippets,28,9,23.216,4.283,29,Graphic 28,image550.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-10,mini_fill,Electronics and Devices,,solar-roof,太阳能;清洁能源,renewable; energy; power; electricity,28,10,25.901,4.283,19,Graphic 18,image545.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-11,mini_fill,Electronics and Devices,,lightning,电力;能源;速度,meteorology; stormy; thunderstorm; thunderbolt; charged; charger; charging; power; electricity; flash,28,11,28.586,4.283,13,Graphic 12,image542.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-12,mini_fill,Electronics and Devices,,lightning-slash,电力;能源;速度,thunderbolt; charged; charger; charging; power; electricity; disabled; flash,28,12,31.278,4.283,11,Graphic 10,image541.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-13,mini_fill,Electronics and Devices,,device-tablet,平板;移动设备;设备;终端,cellphone; cellular; ipad; phablet,28,13,1.744,6.77,43,Graphic 42,image557.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-14,mini_fill,Electronics and Devices,,devices,跨设备;多终端;电脑;桌面端;数字工作台,responsive; cellphone; cellular; tablet; desktop,28,14,4.423,6.77,55,Graphic 54,image563.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-15,mini_fill,Electronics and Devices,,device-tablet-camera,平板;移动设备;设备;终端,cellphone; cellular; ipad; phablet,28,15,7.108,6.77,41,Graphic 40,image556.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-16,mini_fill,Electronics and Devices,,device-mobile,手机;移动端;应用;设备;终端,cellphone; cellular,28,16,9.792,6.77,53,Graphic 52,image562.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-17,mini_fill,Electronics and Devices,,device-mobile-camera,手机;移动端;应用;设备;终端,cellphone; cellular,28,17,12.477,6.77,51,Graphic 50,image561.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-18,mini_fill,Electronics and Devices,,device-mobile-slash,手机;移动端;应用;设备;终端,cellphone; cellular,28,18,15.162,6.77,49,Graphic 48,image560.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-19,mini_fill,Electronics and Devices,,device-mobile-speaker,手机;移动端;应用;设备;终端,cellphone; cellular,28,19,17.847,6.77,47,Graphic 46,image559.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-20,mini_fill,Electronics and Devices,,device-tablet-speaker,平板;移动设备;设备;终端,cellphone; cellular; ipad; phablet,28,20,20.532,6.77,39,Graphic 38,image555.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-21,mini_fill,Electronics and Devices,,desktop,电脑;桌面端;数字工作台,computer; pc; imac; tower,28,21,23.216,6.77,33,Graphic 32,image552.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-22,mini_fill,Electronics and Devices,,desktop-tower,电脑;桌面端;数字工作台,computer; pc; imac,28,22,25.901,6.77,31,Graphic 30,image551.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-23,mini_fill,Electronics and Devices,,atom,原子;科学;研究,atomic; nucleus; nuclear; reactor; science; physics; electron; automation; react,28,23,28.586,6.77,15,Graphic 14,image543.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-24,mini_fill,Electronics and Devices,,device-rotate,设备旋转;屏幕方向;设备;终端,orientation; landscape; portrait; spin; flip,28,24,1.744,9.315,45,Graphic 44,image558.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-25,mini_fill,Electronics and Devices,,nuclear-plant,植物;能源设施;生长,renewable; energy; power; electricity,28,25,4.423,9.315,9,Graphic 8,image540.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P28-26,mini_fill,Electronics and Devices,,usb,设备;终端;USB;设备连接;接口,serial; port; plug; peripheral; device,28,26,7.108,9.315,17,Graphic 16,image544.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-01,mini_fill,Data Analysis,,tree-structure,层级;结构;分类;关系;树木;生态;层级结构,data structures; family tree; genealogy; hierarchy; taxonomy; charts; flowchart,29,1,1.744,4.291,68,Graphic 67,image567.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-02,mini_fill,Data Analysis,,database,数据库;数据存储;数据管理,saved; saving; archived; archiving; archival; hard disk; storage; hdd; servers; databases,29,2,4.423,4.291,5,Graphic 4,image554.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-03,mini_fill,Data Analysis,,chart-bar,柱状图;数据比较;绩效分析,graphs; graphing; charts; statistics; histogram; analyze; analysis,29,3,7.108,4.291,67,Graphic 66,image410.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-04,mini_fill,Data Analysis,,chart-bar-horizontal,横向柱状图;对比;数据分析;柱状图;数据比较;绩效分析,graphs; graphing; charts; statistics; histogram; analyze; analysis,29,4,9.792,4.291,66,Graphic 65,image409.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-05,mini_fill,Data Analysis,,chart-donut,环形图;比例;构成,graphs; graphing; charts; statistics; analyze; analysis; circle,29,5,12.477,4.291,65,Graphic 64,image408.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-06,mini_fill,Data Analysis,,chart-pie-slice,饼图;份额;占比;构成,graphs; graphing; charts; statistics; circle; analyze; analysis,29,6,15.162,4.291,60,Graphic 59,image404.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-07,mini_fill,Data Analysis,,chart-polar,极坐标;数据分析,graphs; graphing; charts; statistics; analyze; analysis; circle,29,7,17.847,4.291,59,Graphic 58,image403.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-08,mini_fill,Data Analysis,,chart-pie,饼图;占比;构成,graphs; graphing; charts; statistics; circle; analyze; analysis,29,8,20.532,4.291,61,Graphic 60,image405.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-09,mini_fill,Data Analysis,,chart-scatter,散点图;分布;相关性,graphs; graphing; charts; statistics; analyze; analysis,29,9,23.216,4.291,58,Graphic 57,image402.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-10,mini_fill,Data Analysis,,chart-line,折线图;趋势分析,graphs; graphing; charts; statistics; analyze; analysis; stocks,29,10,25.901,4.291,64,Graphic 63,image407.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-11,mini_fill,Data Analysis,,chart-line-up,折线上升;增长趋势;折线图;趋势分析,graphs; graphing; charts; statistics; analyze; analysis; stocks,29,11,28.586,4.291,62,Graphic 61,image406.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-12,mini_fill,Data Analysis,,chart-line-down,折线下降;下滑趋势;折线图;趋势分析,graphs; graphing; charts; statistics; analyze; analysis; stocks,29,12,31.278,4.291,63,Graphic 62,image566.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-13,mini_fill,Data Analysis,,file-csv,CSV;数据文件;导出,documents; data,29,13,1.744,6.77,72,Graphic 71,image571.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-14,mini_fill,Data Analysis,,file-sql,数据库;数据存储;数据管理;SQL;数据查询,documents; database,29,14,4.423,6.77,71,Graphic 70,image570.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-15,mini_fill,Data Analysis,,hard-drive,硬盘;存储;数据,saved; saving; archived; archiving; archival; hard disk; storage; hdd; servers; databases,29,15,7.108,6.77,70,Graphic 69,image569.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-16,mini_fill,Data Analysis,,hard-drives,多硬盘;存储设备;数据中心,saved; saving; archived; archiving; archival; hard disk; storage; hdd; servers; databases,29,16,9.792,6.77,69,Graphic 68,image568.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-17,mini_fill,Data Analysis,,presentation,汇报;演示;演讲,whiteboard; flipchart; charts; statistics; analyze; analysis; meeting,29,17,12.477,6.77,57,Graphic 56,image423.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-18,mini_fill,Data Analysis,,presentation-chart,汇报;演示;数据图表;演讲,whiteboard; flipchart; graphs; graphing; charts; statistics; analyze; analysis; meeting,29,18,15.162,6.77,56,Graphic 55,image425.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-19,mini_fill,Data Analysis,,projector-screen,投影;演示;会议;汇报;演讲,projection; presentation; slideshow; movies; charts; statistics; analyze; analysis,29,19,17.847,6.77,55,Graphic 54,image422.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-20,mini_fill,Data Analysis,,projector-screen-chart,投影;演示;图表;会议;汇报;演讲,projection; presentation; slideshow; graphs; graphing; charts; statistics; analyze; analysis,29,20,20.532,6.77,54,Graphic 53,image421.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-21,mini_fill,Data Analysis,,trend-up,增长;上升;趋势,graphs; graphing; charts; statistics; analyze; analysis; increase; arrows,29,21,23.216,6.77,52,Graphic 51,image416.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P29-22,mini_fill,Data Analysis,,trend-down,下降;跌幅;负增长,graphs; graphing; charts; statistics; analyze; analysis; decrease; arrows,29,22,25.901,6.77,53,Graphic 52,image417.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-01,mini_fill,Travel and Navigation,,compass,指南针;导航;方向,navigation; directions; maps; safari; apple,30,1,1.744,4.291,29,Graphic 28,image579.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-02,mini_fill,Travel and Navigation,,compass-rose,指南针;导航;方向,navigation; directions; maps; cardinal; cartography,30,2,4.423,4.291,27,Graphic 26,image578.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-03,mini_fill,Travel and Navigation,,gps,位置;地点;定位;导航,geolocation; location; navigation,30,3,7.108,4.291,25,Graphic 24,image577.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-04,mini_fill,Travel and Navigation,,gps-fix,位置;地点;定位;导航,geolocation; location; navigation,30,4,9.792,4.291,23,Graphic 22,image576.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-05,mini_fill,Travel and Navigation,,gps-slash,位置;地点;定位;导航,geolocation; location; navigation; disabled,30,5,12.477,4.291,21,Graphic 20,image575.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-06,mini_fill,Travel and Navigation,,path,路径;路线;旅程;定位;导航;位置,transit; travel; trail; gps; navigation; route; destination; vector,30,6,15.162,4.291,17,Graphic 16,image573.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-07,mini_fill,Travel and Navigation,,lighthouse,灯塔;导航;指引;楼群;建筑;办公地点,buildings; nautical; navigation; boats; ships; safety,30,7,17.847,4.291,19,Graphic 18,image574.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-08,mini_fill,Travel and Navigation,,navigation-arrow,导航;方向;路径;位置;地点;指南针;定位,location; directions; compass; gps,30,8,20.532,4.291,15,Graphic 14,image572.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-09,mini_fill,Travel and Navigation,,wine,食品;饮食;餐饮;葡萄酒;饮料,drinks; beverages; vineyard; places; locations; bars; restaurants; food; dining,30,9,23.216,4.291,389,Graphic 388,image627.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-10,mini_fill,Travel and Navigation,,wheelchair-motion,无障碍;出行;残障支持,handicapped; medical; disabled; differently abled; accessible; accessibility; a11y,30,10,25.901,4.291,387,Graphic 386,image527.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-11,mini_fill,Travel and Navigation,,washing-machine,洗衣机;洗衣;家电,clothing; laundry; cleaning,30,11,28.586,4.291,383,Graphic 382,image626.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-12,mini_fill,Travel and Navigation,,warehouse,仓库;库存;物流;楼群;建筑;办公地点,storage; industry; manufacture; buildings; places; locations,30,12,31.278,4.291,381,Graphic 380,image625.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-13,mini_fill,Travel and Navigation,,ticket,门票;票据;活动,ticketstub; movie ticket; entry; admissions; events,30,13,1.744,6.77,357,Graphic 356,image613.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-14,mini_fill,Travel and Navigation,,traffic-cone,交通;道路;导航,pylon; safety; transit; transportation,30,14,4.423,6.77,361,Graphic 360,image615.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-15,mini_fill,Travel and Navigation,,traffic-signal,交通;道路;导航,stop light; safety; transit; transportation,30,15,7.108,6.77,365,Graphic 364,image617.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-16,mini_fill,Travel and Navigation,,traffic-sign,交通;道路;导航,road signs; transit; transportation,30,16,9.792,6.77,363,Graphic 362,image616.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-17,mini_fill,Travel and Navigation,,train-regional,火车;铁路;交通,vehicles; subway; railroad; public transit; transportation; commuter; freight; shipping; traveling; places; locations,30,17,12.477,6.77,369,Graphic 368,image619.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-18,mini_fill,Travel and Navigation,,train-simple,火车;铁路;交通,vehicles; subway; light rail; public transit; transportation; commuter; traveling; places; locations,30,18,15.162,6.77,371,Graphic 370,image620.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-19,mini_fill,Travel and Navigation,,train,火车;铁路;交通,vehicles; subway; light rail; public transit; transportation; commuter; traveling; places; locations,30,19,17.847,6.77,367,Graphic 366,image618.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-20,mini_fill,Travel and Navigation,,tram,有轨电车;公共交通,vehicles; subway; railroad; public transit; transportation; commuter; light rail; shipping; traveling; places; locations,30,20,20.532,6.77,373,Graphic 372,image621.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-21,mini_fill,Travel and Navigation,,truck,卡车;货运;物流,trucks; cars; vehicles; automobile; shipping; delivery,30,21,23.216,6.77,375,Graphic 374,image622.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-22,mini_fill,Travel and Navigation,,wheelchair,无障碍;出行;残障支持,handicapped; medical; disabled; differently abled; accessible; accessibility; a11y,30,22,25.901,6.77,385,Graphic 384,image528.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-23,mini_fill,Travel and Navigation,,truck-trailer,卡车;货运;物流,vehicles; automobile; shipping; tractor; semi,30,23,28.586,6.77,377,Graphic 376,image623.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-24,mini_fill,Travel and Navigation,,van,厢式车;配送;运输,westfalia; microbus; vanagon; cars; vehicles; automobile; transit; transportation; traveling,30,24,31.278,6.77,379,Graphic 378,image624.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-25,mini_fill,Travel and Navigation,,tipi,帐篷;露营;户外,teepee; lodge; tent; outdoors; camping; tarp,30,25,1.744,9.315,359,Graphic 358,image614.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-26,mini_fill,Travel and Navigation,,taxi,出租车;打车;出行,vehicles; cars; automobiles; livery; limousine; uber,30,26,4.423,9.315,351,Graphic 350,image610.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-27,mini_fill,Travel and Navigation,,tent,帐篷;露营;户外,camping; outdoors; tarp,30,27,7.108,9.315,355,Graphic 354,image612.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-28,mini_fill,Travel and Navigation,,synagogue,犹太会堂;建筑;宗教;文化,jewish; judaism; temple; religion; worship,30,28,9.792,9.315,347,Graphic 346,image608.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-29,mini_fill,Travel and Navigation,,suitcase-rolling,行李;旅行;出差,suitcase; luggage; travel; transportation,30,29,12.477,9.315,343,Graphic 342,image606.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-30,mini_fill,Travel and Navigation,,tea-bag,食品;饮食;餐饮;茶;饮品,drinks; beverages; sachet; caffeine; places; locations; bars; restaurants; food; dining,30,30,15.162,9.315,353,Graphic 352,image611.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-31,mini_fill,Travel and Navigation,,subway,火车;铁路;交通,vehicles; underground; train; tunnel; metro; light rail; public transit; transportation; commuter; traveling; places; locations,30,31,17.847,9.315,341,Graphic 340,image605.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-32,mini_fill,Travel and Navigation,,storefront,门店;零售;商铺;楼群;建筑;办公地点;购物;消费,shops; shopping; markets; stores; buildings; places; locations,30,32,20.532,9.315,339,Graphic 338,image604.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-33,mini_fill,Travel and Navigation,,target,目标;定位;靶心,bullseye; radar; archery; accuracy; precision,30,33,23.216,9.315,349,Graphic 348,image609.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-34,mini_fill,Travel and Navigation,,swimming-pool,游泳池;运动;休闲,swim; sports; exercise; olympics; aquatics,30,34,25.901,9.315,345,Graphic 344,image607.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-35,mini_fill,Travel and Navigation,,champagne,食品;饮食;餐饮;葡萄酒;饮料,glass; drinks; beverages; wine; places; locations; bars; restaurants; food; dining,30,35,28.586,9.315,111,Graphic 110,image580.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-36,mini_fill,Travel and Navigation,,star,星标;收藏;评价,rate; ratings; favorites; favorited,30,36,31.278,9.315,335,Graphic 334,image602.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-37,mini_fill,Travel and Navigation,,push-pin-simple-slash,图钉;标记;位置,favorites; favorited; pushpin; disabled,30,37,1.744,11.816,303,Graphic 302,image588.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-38,mini_fill,Travel and Navigation,,steering-wheel,方向盘;驾驶;汽车,cars; vehicles; automobiles; driving,30,38,4.423,11.816,337,Graphic 336,image603.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-39,mini_fill,Travel and Navigation,,siren,警报器;紧急服务;警示,alarm; police; lights; warning,30,39,7.108,11.816,333,Graphic 332,image601.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-40,mini_fill,Travel and Navigation,,signpost,路标;方向;选择;交通;道路;导航,direction; traffic; road sign; transit; transportation,30,40,9.792,11.816,331,Graphic 330,image600.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-41,mini_fill,Travel and Navigation,,shopping-cart-simple,购物;零售;消费,ecommerce; market; basket; buying; groceries; checkout; places; locations,30,41,12.477,11.816,329,Graphic 328,image599.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-42,mini_fill,Travel and Navigation,,scooter,滑板车;出行,vehicles; transportation; travel; transit,30,42,15.162,11.816,317,Graphic 316,image593.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-43,mini_fill,Travel and Navigation,,shopping-cart,购物;零售;消费,ecommerce; market; basket; buying; groceries; checkout; places; locations,30,43,17.847,11.816,327,Graphic 326,image598.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-44,mini_fill,Travel and Navigation,,shipping-container,集装箱;货运;物流,shipping; transportation; places; locations,30,44,20.532,11.816,321,Graphic 320,image595.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-45,mini_fill,Travel and Navigation,,shopping-bag-open,购物;零售;消费,ecommerce; market; basket; cart; buying; checkout; places; locations,30,45,23.216,11.816,325,Graphic 324,image597.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-46,mini_fill,Travel and Navigation,,seat,座位;乘坐;座席,chair; car seat; airplane seat; transit; transportation; traveling,30,46,25.901,11.816,319,Graphic 318,image594.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-47,mini_fill,Travel and Navigation,,shopping-bag,购物;零售;消费,ecommerce; market; basket; cart; buying; checkout; places; locations,30,47,28.586,11.816,323,Graphic 322,image596.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-48,mini_fill,Travel and Navigation,,scales,天平;权衡;公平,measure; balance; law; justice; government,30,48,31.278,11.816,315,Graphic 314,image592.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-49,mini_fill,Travel and Navigation,,sailboat,帆船;航行;水上运动,sailing; ship; vehicles; transportation; sports; places; locations,30,49,1.744,14.339,313,Graphic 312,image591.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-50,mini_fill,Travel and Navigation,,rocket-launch,启动;增长;发射,spaceship; flying; blastoff; deployment; rocketship,30,50,4.423,14.339,311,Graphic 310,image548.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-51,mini_fill,Travel and Navigation,,rocket,启动;增长;发射,spaceship; launch; deployment; rocketship,30,51,7.108,14.339,309,Graphic 308,image547.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-52,mini_fill,Travel and Navigation,,road-horizon,道路;前路;路线,trip; drive; road; travel; transportation; highway,30,52,9.792,14.339,307,Graphic 306,image590.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-53,mini_fill,Travel and Navigation,,push-pin-slash,图钉;标记;位置,favorites; favorited; pushpin; disabled,30,53,12.477,14.339,305,Graphic 304,image589.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-54,mini_fill,Travel and Navigation,,globe-stand,全球;国际;地理,world; global; planet; circle; round; internationalization; i18n; languages; country; countries; geography,30,54,15.162,14.339,181,Graphic 180,image581.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-55,mini_fill,Travel and Navigation,,push-pin-simple,图钉;标记;位置,favorites; favorited; pushpin,30,55,17.847,14.339,301,Graphic 300,image587.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-56,mini_fill,Travel and Navigation,,push-pin,图钉;标记;位置,favorites; favorited; pushpin,30,56,20.532,14.339,299,Graphic 298,image586.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-57,mini_fill,Travel and Navigation,,prohibit-inset,禁止;限制;不可用,forbidden; prohibited; cancelled; prevent; stop; do not enter,30,57,23.216,14.339,297,Graphic 296,image585.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-58,mini_fill,Travel and Navigation,,prohibit,禁止;限制;不可用,forbidden; prohibited; cancelled; prevent; stop; do not enter,30,58,25.901,14.339,295,Graphic 294,image584.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-59,mini_fill,Travel and Navigation,,popsicle,食品;饮食;餐饮,ice cream; dessert; summer; food,30,59,28.586,14.339,293,Graphic 292,image583.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P30-60,mini_fill,Travel and Navigation,,police-car,汽车;出行;交通,vehicles; cars; automobiles; law enforcement,30,60,31.278,14.339,289,Graphic 288,image582.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-01,mini_fill,Travel and Navigation,,pizza,披萨;食品;餐饮;饮食,fast food; party; places; locations; restaurants; food; dining,31,1,1.744,4.291,149,Graphic 148,image670.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-02,mini_fill,Travel and Navigation,,picnic-table,表格;数据;信息整理;公园;户外;休闲,bench; park; outdoors,31,2,4.423,4.291,148,Graphic 147,image669.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-03,mini_fill,Travel and Navigation,,popcorn,食品;饮食;餐饮,food; movies; theater,31,3,7.108,4.291,150,Graphic 149,image671.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-04,mini_fill,Travel and Navigation,,paper-plane-tilt,纸飞机;发送;消息,mail; email; send; sent; messages; messaging; toys; games,31,4,9.792,4.291,135,Graphic 134,image667.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-05,mini_fill,Travel and Navigation,,person-simple-swim,人;行动;活动;用户;人员,pedestrian; swimming; human; woman; man; body; sports; exercise,31,5,12.477,4.291,144,Graphic 143,image486.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-06,mini_fill,Travel and Navigation,,person,人;人员;用户;客户;员工,walking; human; woman; man; body; transit; transportation; travel; commuter; user,31,6,15.162,4.291,139,Graphic 138,image493.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-07,mini_fill,Travel and Navigation,,person-simple-throw,人;行动;活动;用户;人员,pedestrian; tennis; human; woman; man; body; sports; exercise,31,7,17.847,4.291,146,Graphic 145,image484.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-08,mini_fill,Travel and Navigation,,person-simple-bike,人;行动;活动;用户;自行车;骑行;交通;人员,pedestrian; biking; bicycle; human; woman; man; body; sports; exercise,31,8,20.532,4.291,140,Graphic 139,image490.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-09,mini_fill,Travel and Navigation,,person-simple-hike,人;行动;活动;用户;人员,pedestrian; climbing; mountaineering; bouldering,31,9,23.216,4.291,142,Graphic 141,image488.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-10,mini_fill,Travel and Navigation,,person-simple-walk,人;行动;活动;用户;人员;客户;员工,pedestrian; walking; human; woman; man; body; transit; transportation; travel; commuter; user; exercise,31,10,25.901,4.291,147,Graphic 146,image483.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-11,mini_fill,Travel and Navigation,,person-simple-tai-chi,人;行动;活动;用户;人员,mindfulness; martial arts; meditation; sports; exercise; yoga,31,11,28.586,4.291,145,Graphic 144,image485.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-12,mini_fill,Travel and Navigation,,park,公园;户外;休闲,bench; outdoors,31,12,31.278,4.291,136,Graphic 135,image668.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-13,mini_fill,Travel and Navigation,,person-simple-run,人;行动;活动;用户;人员;客户;员工,pedestrian; running; human; woman; man; body; transit; transportation; travel; commuter; user; exercise,31,13,1.744,6.77,143,Graphic 142,image487.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-14,mini_fill,Travel and Navigation,,person-simple,人;行动;活动;用户;人员;客户;员工,pedestrian; walking; human; woman; man; body; transit; transportation; travel; commuter; user; exercise,31,14,4.423,6.77,141,Graphic 140,image491.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-15,mini_fill,Travel and Navigation,,person-arms-spread,人;人员;用户,accessibility; vitruvian; stretch; sports,31,15,7.108,6.77,138,Graphic 137,image492.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-16,mini_fill,Travel and Navigation,,paper-plane-right,纸飞机;发送;消息,mail; email; send; sent; messages; messaging; toys; games,31,16,9.792,6.77,134,Graphic 133,image666.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-17,mini_fill,Travel and Navigation,,paper-plane,纸飞机;发送;消息,mail; email; send; sent; messages; messaging; toys; games,31,17,12.477,6.77,133,Graphic 132,image665.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-18,mini_fill,Travel and Navigation,,path,路径;路线;旅程;定位;导航;位置,transit; travel; trail; gps; navigation; route; destination; vector,31,18,15.162,6.77,137,Graphic 136,image573.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-19,mini_fill,Travel and Navigation,,onigiri,食品;饮食;餐饮,rice ball; japanese; food; restaurant,31,19,17.847,6.77,131,Graphic 130,image663.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-20,mini_fill,Travel and Navigation,,orange-slice,食品;饮食;餐饮,food; fruit; juice; citrus; groceries; market,31,20,20.532,6.77,132,Graphic 131,image664.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-21,mini_fill,Travel and Navigation,,navigation-arrow,导航;方向;路径;位置;地点;指南针;定位,location; directions; compass; gps,31,21,23.216,6.77,130,Graphic 129,image572.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-22,mini_fill,Travel and Navigation,,moped-front,滑板车;出行;轻便摩托,scooter; vehicles; vespa; transportation; travel,31,22,25.901,6.77,126,Graphic 125,image659.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-23,mini_fill,Travel and Navigation,,motorcycle,摩托车;交通;出行,vehicles; motorbike; transportation; travel,31,23,28.586,6.77,128,Graphic 127,image661.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-24,mini_fill,Travel and Navigation,,mountains,山峰;自然;户外,hills; outdoors; terrain; geology; adventure,31,24,31.278,6.77,129,Graphic 128,image662.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-25,mini_fill,Travel and Navigation,,mosque,宗教;文化;清真寺;建筑,islam; muslim; religion; worship,31,25,1.744,9.315,127,Graphic 126,image660.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-26,mini_fill,Travel and Navigation,,martini,食品;饮食;餐饮,glass; drinks; beverages; cocktails; places; locations; bars; restaurants; food; dining,31,26,4.423,9.315,124,Graphic 123,image657.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-27,mini_fill,Travel and Navigation,,map-trifold,地图;地点;区域,maps; places; locations; cartography; geography,31,27,7.108,9.315,123,Graphic 122,image656.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-28,mini_fill,Travel and Navigation,,moped,滑板车;出行;轻便摩托,scooter; vehicles; vespa; transportation; travel,31,28,9.792,9.315,125,Graphic 124,image658.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-29,mini_fill,Travel and Navigation,,map-pin-plus,定位;地点;网点;增加;新增;正值;地图;区域,maps; places; markers; pins; locations; add; point of interest,31,29,12.477,9.315,119,Graphic 118,image652.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-30,mini_fill,Travel and Navigation,,map-pin-simple-line,定位;地点;网点;地图;区域,maps; places; markers; pins; locations; poi; point of interest,31,30,15.162,9.315,122,Graphic 121,image655.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-31,mini_fill,Travel and Navigation,,map-pin-simple,定位;地点;网点;地图;区域,maps; places; markers; pins; locations; poi; point of interest,31,31,17.847,9.315,121,Graphic 120,image654.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-32,mini_fill,Travel and Navigation,,map-pin-line,定位;地点;网点;地图;区域,maps; places; markers; pins; locations; poi; point of interest,31,32,20.532,9.315,118,Graphic 117,image651.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-33,mini_fill,Travel and Navigation,,map-pin-simple-area,定位;地点;网点;地图;区域,maps; places; markers; pins; locations; poi; point of interest,31,33,23.216,9.315,120,Graphic 119,image653.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-34,mini_fill,Travel and Navigation,,mailbox,邮箱;邮件;收件,email; letters; messaging; post,31,34,25.901,9.315,115,Graphic 114,image648.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-35,mini_fill,Travel and Navigation,,lockers,储物柜;物品存放;设施,locker room; gym; storage,31,35,28.586,9.315,114,Graphic 113,image647.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-36,mini_fill,Travel and Navigation,,headlights,车灯;照明;汽车,brights; high beams,31,36,31.278,9.315,102,Graphic 101,image637.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-37,mini_fill,Travel and Navigation,,map-pin,定位;地点;网点;地图;区域,maps; places; markers; pins; locations; poi; point of interest,31,37,1.744,11.816,117,Graphic 116,image650.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-38,mini_fill,Travel and Navigation,,letter-circle-p,停车标识;停车;地点,parking lot; valet; vehicles; letter; glyph; character,31,38,4.423,11.816,112,Graphic 111,image646.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-39,mini_fill,Travel and Navigation,,lighthouse,灯塔;导航;指引;楼群;建筑;办公地点,buildings; nautical; navigation; boats; ships; safety,31,39,7.108,11.816,113,Graphic 112,image574.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-40,mini_fill,Travel and Navigation,,letter-circle-h,H 标识;地点;标记;医院;医疗;健康,hospital; letter; glyph; character,31,40,9.792,11.816,110,Graphic 109,image645.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-41,mini_fill,Travel and Navigation,,jeep,吉普车;越野;出行,vehicles; automobile; suv; cars; trucks; wrangler; off-road; transit; transportation; traveling,31,41,12.477,11.816,109,Graphic 108,image644.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-42,mini_fill,Travel and Navigation,,map-pin-area,定位;地点;网点;地图;区域,maps; places; markers; pins; locations; poi; point of interest,31,42,15.162,11.816,116,Graphic 115,image649.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-43,mini_fill,Travel and Navigation,,ice-cream,食品;饮食;餐饮,food; dessert; cone,31,43,17.847,11.816,107,Graphic 106,image642.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-44,mini_fill,Travel and Navigation,,island,岛屿;旅行;度假,geography; beach; ocean; tropical; palm; vacation; trip; locations; places,31,44,20.532,11.816,108,Graphic 107,image643.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-45,mini_fill,Travel and Navigation,,house-simple,楼群;建筑;办公地点;房屋;居住;家庭,homes; buildings; places; locations,31,45,23.216,11.816,106,Graphic 105,image641.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-46,mini_fill,Travel and Navigation,,house-line,楼群;建筑;办公地点;房屋;居住;家庭,homes; buildings; places; locations,31,46,25.901,11.816,105,Graphic 104,image640.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-47,mini_fill,Travel and Navigation,,house,楼群;建筑;办公地点;房屋;居住;家庭,homes; buildings; places; locations,31,47,28.586,11.816,104,Graphic 103,image639.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-48,mini_fill,Travel and Navigation,,gps-slash,位置;地点;定位;导航,geolocation; location; navigation; disabled,31,48,31.278,11.816,99,Graphic 98,image575.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-49,mini_fill,Travel and Navigation,,hamburger,汉堡;快餐;食品;饮食;餐饮,fast food; party; places; locations; restaurants; food; dining,31,49,1.744,14.339,101,Graphic 100,image636.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-50,mini_fill,Travel and Navigation,,gps-fix,位置;地点;定位;导航,geolocation; location; navigation,31,50,4.423,14.339,98,Graphic 97,image576.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-51,mini_fill,Travel and Navigation,,hospital,楼群;建筑;办公地点;医院;医疗;健康,places; locations; medical; medicine; emergency; doctor; buildings,31,51,7.108,14.339,103,Graphic 102,image638.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-52,mini_fill,Travel and Navigation,,graduation-cap,学位帽;教育;毕业;培训,classroom; teacher; education; school; college; university; degree; graduate; hat,31,52,9.792,14.339,100,Graphic 99,image635.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-53,mini_fill,Travel and Navigation,,gps,位置;地点;定位;导航,geolocation; location; navigation,31,53,12.477,14.339,97,Graphic 96,image577.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-54,mini_fill,Travel and Navigation,,globe-hemisphere-west,全球;国际;地理,world; earth; global; planet; circle; round; internationalization; i18n; languages; country; countries; geography; north america; south america,31,54,15.162,14.339,93,Graphic 92,image631.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-55,mini_fill,Travel and Navigation,,globe-x,全球;国际;地理,world; earth; global; planet; circle; round; internationalization; i18n; languages; country; countries; geography; internet,31,55,17.847,14.339,96,Graphic 95,image634.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-56,mini_fill,Travel and Navigation,,gas-pump,加油站;燃油;出行,gas station; petrol; fuel; gasoline,31,56,20.532,14.339,90,Graphic 89,image629.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-57,mini_fill,Travel and Navigation,,globe-hemisphere-east,全球;国际;地理,world; earth; global; planet; circle; round; internationalization; i18n; languages; country; countries; geography; europe; africa; asia; australia,31,57,23.216,14.339,92,Graphic 91,image630.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-58,mini_fill,Travel and Navigation,,globe-simple,全球;国际;地理,world; earth; global; planet; circle; round; internationalization; i18n; languages; country; countries; geography,31,58,25.901,14.339,94,Graphic 93,image632.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-59,mini_fill,Travel and Navigation,,gas-can,油桶;燃料;能源,jerrycan; petrol; fuel; gasoline,31,59,28.586,14.339,89,Graphic 88,image628.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P31-60,mini_fill,Travel and Navigation,,globe-simple-x,全球;国际;地理,world; earth; global; planet; circle; round; internationalization; i18n; languages; country; countries; geography; internet,31,60,31.278,14.339,95,Graphic 94,image633.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-01,mini_fill,Travel and Navigation,,garage,楼群;建筑;办公地点;车库;停车;汽车,vehicles; automobile; buildings; transportation,32,1,1.744,4.269,80,Graphic 79,image726.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-02,mini_fill,Travel and Navigation,,fork-knife,餐具;就餐;餐饮;食品;饮食,food; meal; eating; restaurants; dining; utensils,32,2,4.423,4.269,79,Graphic 78,image725.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-03,mini_fill,Travel and Navigation,,footprints,路径;路线;旅程,path; trail; walk; route; hike; hiking,32,3,7.108,4.269,78,Graphic 77,image724.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-04,mini_fill,Travel and Navigation,,globe,全球;国际;地理,world; earth; global; planet; circle; round; internationalization; i18n; languages; country; countries; geography; internet,32,4,9.792,4.269,81,Graphic 80,image727.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-05,mini_fill,Travel and Navigation,,flag,旗帜;目标;里程碑,country; countries; finished; completed; flags,32,5,12.477,4.269,76,Graphic 75,image722.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-06,mini_fill,Travel and Navigation,,flag-checkered,旗帜;目标;里程碑,flags; race; racing; finish line,32,6,15.162,4.269,75,Graphic 74,image721.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-07,mini_fill,Travel and Navigation,,flag-banner-fold,旗帜;目标;里程碑,ribbon; country; countries; finished; completed; flags; swallowtail,32,7,17.847,4.269,74,Graphic 73,image720.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-08,mini_fill,Travel and Navigation,,farm,农场;农业;生产,farmer; field; farming; agriculture,32,8,20.532,4.269,72,Graphic 71,image718.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-09,mini_fill,Travel and Navigation,,flag-banner,旗帜;目标;里程碑,ribbon; country; countries; finished; completed; flags; swallowtail,32,9,23.216,4.269,73,Graphic 72,image719.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-10,mini_fill,Travel and Navigation,,factory,楼群;建筑;办公地点;工厂;制造;产业,industry; manufacture; buildings; places; locations,32,10,25.901,4.269,71,Graphic 70,image717.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-11,mini_fill,Travel and Navigation,,escalator-down,自动扶梯;垂直交通;出行,stairs,32,11,28.586,4.269,69,Graphic 68,image715.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-12,mini_fill,Travel and Navigation,,flag-pennant,旗帜;目标;里程碑,flags; race; sports; team,32,12,31.278,4.269,77,Graphic 76,image723.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-13,mini_fill,Travel and Navigation,,escalator-up,自动扶梯;垂直交通;出行,stairs,32,13,1.744,6.77,70,Graphic 69,image716.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-14,mini_fill,Travel and Navigation,,engine,发动机;机械;汽车,motor; repair; vehicles; automobile,32,14,4.423,6.77,68,Graphic 67,image714.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-15,mini_fill,Travel and Navigation,,disco-ball,迪斯科球;娱乐;活动,danging; club; 70s,32,15,7.108,6.77,66,Graphic 65,image712.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-16,mini_fill,Travel and Navigation,,crosshair-simple,定位;导航;位置,geolocation; gps; aiming; targeting,32,16,9.792,6.77,65,Graphic 64,image711.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-17,mini_fill,Travel and Navigation,,crosshair,定位;导航;位置,geolocation; gps; aiming; targeting,32,17,12.477,6.77,64,Graphic 63,image710.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-18,mini_fill,Travel and Navigation,,court-basketball,篮球场;运动;场馆,sports; nba,32,18,15.162,6.77,63,Graphic 62,image709.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-19,mini_fill,Travel and Navigation,,cookie,食品;饮食;餐饮,privacy; dessert; food; dining,32,19,17.847,6.77,62,Graphic 61,image708.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-20,mini_fill,Travel and Navigation,,compass,指南针;导航;方向,navigation; directions; maps; safari; apple,32,20,20.532,6.77,60,Graphic 59,image579.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-21,mini_fill,Travel and Navigation,,coffee,咖啡;饮品;餐饮;食品;饮食;茶,tea; java; beverages; drinks; cafe; cup; mug; espresso; cappuccino; latte; places; locations; bars; restaurants; food; dining,32,21,23.216,6.77,59,Graphic 58,image707.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-22,mini_fill,Travel and Navigation,,coffee-bean,咖啡;饮品;餐饮;食品;饮食;茶,tea; java; beverages; drinks; cafe; cup; mug; espresso; cappuccino; latte; places; locations; bars; restaurants; food; dining,32,22,25.901,6.77,58,Graphic 57,image706.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-23,mini_fill,Travel and Navigation,,city,楼群;建筑;办公地点;城市;城市服务;区域,skyline; skyscrapers; places; locations; buildings,32,23,28.586,6.77,57,Graphic 56,image705.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-24,mini_fill,Travel and Navigation,,compass-rose,指南针;导航;方向,navigation; directions; maps; cardinal; cartography,32,24,31.278,6.77,61,Graphic 60,image578.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-25,mini_fill,Travel and Navigation,,elevator,电梯;垂直交通;建筑,lift,32,25,1.744,9.293,67,Graphic 66,image713.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-26,mini_fill,Travel and Navigation,,charging-station,充电;能源;设备,ev; charge; fuel; pump,32,26,4.423,9.293,54,Graphic 53,image702.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-27,mini_fill,Travel and Navigation,,church,宗教;文化;教堂;建筑,christ; christianity; cathedral; religion; worship,32,27,7.108,9.293,56,Graphic 55,image704.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-28,mini_fill,Travel and Navigation,,cheers,食品;饮食;餐饮,glass; drinks; beverages; champagne; toast; places; locations; bars; restaurants; food; dining,32,28,9.792,9.293,55,Graphic 54,image703.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-29,mini_fill,Travel and Navigation,,castle-turret,城堡;历史建筑;旅游,chess; rook,32,29,12.477,9.293,50,Graphic 49,image699.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-30,mini_fill,Travel and Navigation,,chalkboard-teacher,培训;讲师;教学;黑板;演示,blackboard; whiteboard; classroom; education; school; college; university,32,30,15.162,9.293,53,Graphic 52,image521.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-31,mini_fill,Travel and Navigation,,chalkboard-simple,黑板;教学;演示,blackboard; whiteboard; classroom; teacher; education; school; college; university,32,31,17.847,9.293,52,Graphic 51,image701.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-32,mini_fill,Travel and Navigation,,chalkboard,黑板;教学;演示,blackboard; whiteboard; classroom; teacher; education; school; college; university,32,32,20.532,9.293,51,Graphic 50,image700.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-33,mini_fill,Travel and Navigation,,car-simple,汽车;出行;交通,cars; vehicles; automobile; transit; transportation; traveling,32,33,23.216,9.293,49,Graphic 48,image698.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-34,mini_fill,Travel and Navigation,,car-profile,汽车;出行;交通,cars; vehicles; automobile; transit; transportation; traveling,32,34,25.901,9.293,48,Graphic 47,image697.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-35,mini_fill,Travel and Navigation,,car,汽车;出行;交通,cars; vehicles; automobile; transit; transportation; traveling,32,35,28.586,9.293,47,Graphic 46,image696.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-36,mini_fill,Travel and Navigation,,call-bell,服务铃;服务请求;接待,service bell; reception; attendant; concierge bell,32,36,31.278,9.293,46,Graphic 45,image695.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-37,mini_fill,Travel and Navigation,,cable-car,山峰;自然;户外;汽车;出行;交通,vehicles; gondola; skiing; mountains; public transit; transportation; commuter; traveling; places; locations,32,37,1.744,11.816,45,Graphic 44,image694.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-38,mini_fill,Travel and Navigation,,bus,公交;公共交通,vehicles; automobile; public transit; transportation; commuter; traveling; places; locations,32,38,4.423,11.816,44,Graphic 43,image693.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-39,mini_fill,Travel and Navigation,,buildings,楼群;建筑;办公地点,places; locations; company; business,32,39,7.108,11.816,43,Graphic 42,image692.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-40,mini_fill,Travel and Navigation,,building-office,楼群;建筑;办公地点;设施,places; locations; company; business; buildings,32,40,9.792,11.816,42,Graphic 41,image691.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-41,mini_fill,Travel and Navigation,,building-apartment,楼群;建筑;办公地点;设施,places; locations; buildings,32,41,12.477,11.816,40,Graphic 39,image689.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-42,mini_fill,Travel and Navigation,,building,楼群;建筑;办公地点;设施,places; locations; company; business; buildings,32,42,15.162,11.816,41,Graphic 40,image690.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-43,mini_fill,Travel and Navigation,,bread,食品;饮食;餐饮,food; meal; bakery; sandwich; gluten; loaf; toast; slice,32,43,17.847,11.816,38,Graphic 37,image687.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-44,mini_fill,Travel and Navigation,,brandy,食品;饮食;餐饮,drinks; beverages; whiskey; cocktail; places; locations; bars; restaurants; food; dining,32,44,20.532,11.816,37,Graphic 36,image686.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-45,mini_fill,Travel and Navigation,,bicycle,自行车;骑行;交通,bikers; bicycling; cyclists; transit; transportation; commuter; exercises; fitness,32,45,23.216,11.816,30,Graphic 29,image679.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-46,mini_fill,Travel and Navigation,,bridge,桥梁;连接;交通,travel; transportation; infrastucture,32,46,25.901,11.816,39,Graphic 38,image688.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-47,mini_fill,Travel and Navigation,,bowl-steam,食品;饮食;餐饮,food; meal; eating; restaurants; dining; locations,32,47,28.586,11.816,36,Graphic 35,image685.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-48,mini_fill,Travel and Navigation,,bowl-food,食品;饮食;餐饮,ramen; food; meal; eating; restaurants; dining; locations,32,48,31.278,11.816,35,Graphic 34,image684.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-49,mini_fill,Travel and Navigation,,books,书籍;阅读;知识,reading; reader; bookshelf; library; places; locations,32,49,1.744,14.339,34,Graphic 33,image683.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-50,mini_fill,Travel and Navigation,,book-open-text,打开的书;阅读;知识;学习,reading; reader; novel; story; library,32,50,4.423,14.339,33,Graphic 32,image682.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-51,mini_fill,Travel and Navigation,,boat,船;水路;出行,ferry; ship; cruise; vehicles; public transit; transportation; commuter; traveling; sailing; places; locations,32,51,7.108,14.339,32,Graphic 31,image681.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-52,mini_fill,Travel and Navigation,,binoculars,双筒望远镜;观察;探索,telescope; glasses; search; find; explore,32,52,9.792,14.339,31,Graphic 30,image680.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-53,mini_fill,Travel and Navigation,,beer-stein,食品;饮食;餐饮;啤酒;饮品,drinks; beverages; places; locations; bars; restaurants; food; dining,32,53,12.477,14.339,29,Graphic 28,image678.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-54,mini_fill,Travel and Navigation,,barricade,路障;封路;施工,construction; safety; gate,32,54,15.162,14.339,26,Graphic 25,image675.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-55,mini_fill,Travel and Navigation,,bed,医院;医疗;健康;床;住宿;休息,hotels; accommodations; sleeping; places; locations; medical; hospital,32,55,17.847,14.339,27,Graphic 26,image676.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-56,mini_fill,Travel and Navigation,,barn,楼群;建筑;办公地点;谷仓;农业;农场,animals; livestock; buildings; farming; agriculture,32,56,20.532,14.339,25,Graphic 24,image674.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-57,mini_fill,Travel and Navigation,,beer-bottle,食品;饮食;餐饮;啤酒;饮品,drinks; beverages; places; locations; bars; restaurants; food; dining,32,57,23.216,14.339,28,Graphic 27,image677.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-58,mini_fill,Travel and Navigation,,bank,资金;现金;支付;银行;金融机构,banking; checking; money; savings; deposit; withdraw; places; locations,32,58,25.901,14.339,24,Graphic 23,image413.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-59,mini_fill,Travel and Navigation,,ambulance,救护车;医疗;紧急服务,first-aid; emt; medical; medicine; injury; safety; emergency; doctor; vehicles,32,59,28.586,14.339,21,Graphic 20,image672.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P32-60,mini_fill,Travel and Navigation,,anchor-simple,船锚;航行;港口,nautical; boats; ships; hope; safety; insurance,32,60,31.278,14.339,23,Graphic 22,image673.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-01,mini_fill,Travel and Navigation,,anchor,船锚;航行;港口,nautical; boats; ships; hope; safety; insurance,33,1,1.744,4.291,22,Graphic 21,image735.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-02,mini_fill,Travel and Navigation,,airplane-tilt,飞机;航班;航空旅行,vehicles; airports; flights; flying; planes; transit; transportation; traveling; departure,33,2,4.423,4.291,20,Graphic 19,image734.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-03,mini_fill,Travel and Navigation,,airplane,飞机;航班;航空旅行,vehicles; airports; flights; flying; planes; transit; transportation; traveling,33,3,7.108,4.291,15,Graphic 14,image729.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-04,mini_fill,Travel and Navigation,,airplane-taxiing,飞机;航班;航空旅行,vehicles; airports; flights; flying; planes; transit; transportation; traveling; arrival,33,4,9.792,4.291,19,Graphic 18,image733.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-05,mini_fill,Travel and Navigation,,airplane-takeoff,飞机;航班;航空旅行,vehicles; airports; flights; flying; planes; transit; transportation; traveling; departure,33,5,12.477,4.291,18,Graphic 17,image732.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-06,mini_fill,Travel and Navigation,,airplane-landing,飞机;航班;航空旅行,vehicles; airports; flights; flying; planes; transit; transportation; traveling; arrival,33,6,15.162,4.291,17,Graphic 16,image731.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-07,mini_fill,Travel and Navigation,,airplane-in-flight,飞机;航班;航空旅行,vehicles; airports; flights; flying; planes; transit; transportation; traveling; arrival,33,7,17.838,4.291,16,Graphic 15,image730.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-08,mini_fill,Travel and Navigation,,air-traffic-control,空中交通;航空管理;机场;楼群;建筑;办公地点;交通;道路;导航;航空,airport; travel; transportation; buildings,33,8,20.523,4.291,14,Graphic 13,image728.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-09,mini_fill,Environment,,flower,花;自然;植物,plants; green; environmental,33,9,1.744,11.811,49,Graphic 48,image743.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-10,mini_fill,Environment,,flower-lotus,花;自然;植物,plants; green; environmental; spirituality,33,10,4.423,11.811,48,Graphic 47,image742.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-11,mini_fill,Environment,,leaf,叶片;自然;可持续发展,plants; trees; branches; leaves; nodes; green; environmental,33,11,7.108,11.811,46,Graphic 45,image740.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-12,mini_fill,Environment,,flower-tulip,花;自然;植物,plants; green; environmental,33,12,9.792,11.811,47,Graphic 46,image741.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-13,mini_fill,Environment,,tree-evergreen,树木;生态;层级结构,plants; branches; leaves; pine; conifer; green; environmental,33,13,12.477,11.811,43,Graphic 42,image737.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-14,mini_fill,Environment,,recycle,回收;循环;可持续发展,recycling; trash; environmental; green,33,14,15.162,11.811,45,Graphic 44,image739.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-15,mini_fill,Environment,,tree-palm,树木;生态;层级结构,tropical; beach; plants; branches; leaves; green; environmental,33,15,17.847,11.811,42,Graphic 41,image736.svg,,,Phosphor,exact graphic match; scenarios are keywords
+P33-16,mini_fill,Environment,,tree,树木;生态;层级结构,plants; branches; leaves; green; environmental,33,16,20.532,11.811,44,Graphic 43,image738.svg,,,Phosphor,exact graphic match; scenarios are keywords

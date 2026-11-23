@@ -2,7 +2,13 @@
 
 Start by naming the information relationship. Use flat type and space for a statement; aligned columns or a shared axis for comparison; a time scale for actual timing; a path or swimlane for real sequence; nesting for ownership; overlap only for genuine intersections. A card is useful when it groups information, not as the default carrier for every point.
 
-The examples below are design references. The user also highlighted four [content-page compositions](user-curated-layouts.md#preferred-content-page-examples-from-the-2026-demo) for solution details, timeline and milestones, summary with evidence, and deliverable previews. Consider these during page planning and adapt them to the content. Original file and page numbers are documented in the source workspace's `reference-gallery/README.md` and the curated reference.
+For substantive content pages, search the [139-page slide library](slide-library-usage.md) as the primary reference pool. Match the page's communication goal, information relationship, content density, and evidence needs to relevant candidates; compare their structures and inspect the source pages and any green or gray notes before adapting the best fit. The library is a set of adaptable references, not a mandate to copy a page unchanged.
+
+For case studies, case portfolios, and client project stories, also consult the [case library](case-library-usage.md) for short-form, additional-detail and multi-page flagship compositions.
+
+For technical architecture, ownership zones and data-flow diagrams, use the [diagram library](diagram-library-usage.md) for native element styles, connection conventions and example compositions; consult the broader slide library for other diagram types.
+
+The user also highlighted four earlier [content-page compositions](user-curated-layouts.md#preferred-content-page-examples-from-the-2026-demo) for solution details, timeline and milestones, summary with evidence, and deliverable previews. They remain useful choices when appropriate, rather than a fixed or exhaustive list. Preserve the user's confirmed geometry and design rules when applying the relevant specific composition. Original file and page numbers are documented in the source workspace's `reference-gallery/README.md` and the curated reference.
 
 | Page task | Organize information | Useful form | Watch for | Reference image |
 |---|---|---|---|---|

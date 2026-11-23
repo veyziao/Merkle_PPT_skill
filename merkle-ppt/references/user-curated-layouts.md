@@ -4,7 +4,7 @@ The user selected these eight screenshots on 2026-11-20 as preferred visual exam
 
 ## Preferred content-page examples from the 2026 DEMO
 
-The user highlighted these as useful references for substantive content slides. Refer to them when selecting a page composition and adapt their structure to the material. The pages are illustrative, and their sample business content is not evidence. Use the official template's title area, margins, and body start as the page grid. When the composition needs free placement, select the official `自定义版式` and create editable content objects while preserving the inherited footer.
+The user highlighted these as useful references for substantive content slides. They complement the [slide library](slide-library-usage.md), the primary reference pool for selecting content-page compositions; use them when their structure fits the material. The pages are illustrative, and their sample business content is not evidence. Use the official template's title area, margins, and body start as the page grid. When the composition needs free placement, select the official `自定义版式` and create editable content objects while preserving the inherited footer.
 
 | DEMO page | Page purpose and composition | Reference |
 | --- | --- | --- |

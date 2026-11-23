@@ -11,6 +11,8 @@
 | `../assets/Merkle_M_logo_black.svg` | Dark vector M mark and the default lower-left avatar for general light-background content slides. Use the exact box in [content-page-footer.md](content-page-footer.md). |
 | `../assets/Merkle_M_logo_white.svg` | White M mark for dark backgrounds. |
 | `../assets/footer/dentsu.svg` | Optional centered footer mark for general light-background content slides. Use only when explicitly requested. |
+| [Merkle_icon.pptx](../assets/Merkle_icon.pptx) | Supplied 33-slide icon library with Merkle Medium and selected Phosphor Mini Fill icons. Search the [icon index](merkle-icon-index.json) and check the [usage guide](icon-usage.md). |
+| [Slide Library for ai.pptx](../assets/Slide%20Library%20for%20ai.pptx) | User-provided 139-page slide library. Search the [page index](slide-library-index.json) and follow the [usage guide](slide-library-usage.md). |
 | [`../assets/agenda-right-artwork.png`](../assets/agenda-right-artwork.png) | User-supplied transparent faceted artwork for the right side of Agenda slides. |
 | `../assets/examples/` | Ten research screenshots plus eight user-selected layout screenshots in `user-curated/`. Use them to understand design decisions; never paste a screenshot as a new slide. |
 

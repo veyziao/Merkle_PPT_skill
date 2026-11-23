@@ -1,0 +1,3033 @@
+{
+  "source_file": "Slide Library for ai.pptx",
+  "source_slide_count": 139,
+  "interpretation": "Descriptions and scenarios interpret the original slide as a reusable layout. Reference client names, data and images are not new-project facts.",
+  "instructions_scope": "Green and gray annotation boxes are source usage guidance. Apply current user instructions and validated brand requirements to new work.",
+  "slides": [
+    {
+      "id": "SL-001",
+      "page": 1,
+      "category": "导航与规范",
+      "title": "版式库总览",
+      "composition": "标题与多个页面缩略示例",
+      "scenarios": [
+        "快速浏览版式方向"
+      ],
+      "application": "作为索引页使用，按后续章节选择具体版式",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE": 6,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-002",
+      "page": 2,
+      "category": "导航与规范",
+      "title": "视觉规范示意",
+      "composition": "颜色、线条、形状、文字层级及浅灰黑背景上的示例",
+      "scenarios": [
+        "查看颜色和版式组件"
+      ],
+      "application": "结合当前用户确认的字体、字号和页脚规则",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE": 59,
+        "TEXT_BOX": 24,
+        "TEXT_CONTENT": 35,
+        "PLACEHOLDER": 1,
+        "LINE": 10,
+        "GROUP": 5,
+        "PICTURE": 2,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-003",
+      "page": 3,
+      "category": "封面",
+      "title": "黑底棱镜封面一",
+      "composition": "左侧标题、副标题、日期，右下蓝黑棱镜",
+      "scenarios": [
+        "方案封面",
+        "项目汇报"
+      ],
+      "application": "替换标题和日期，保留留白",
+      "source_notes": [],
+      "source_layout": "Title Page - Texture",
+      "source_object_counts": {
+        "PLACEHOLDER": 3,
+        "TEXT_CONTENT": 3
+      }
+    },
+    {
+      "id": "SL-004",
+      "page": 4,
+      "category": "封面",
+      "title": "黑底棱镜封面二",
+      "composition": "左侧标题、副标题、日期，右侧竖向棱镜",
+      "scenarios": [
+        "正式方案封面",
+        "章节入口"
+      ],
+      "application": "按标题长度控制换行",
+      "source_notes": [],
+      "source_layout": "Title Page - Texture 2",
+      "source_object_counts": {
+        "PLACEHOLDER": 3,
+        "TEXT_CONTENT": 3
+      }
+    },
+    {
+      "id": "SL-005",
+      "page": 5,
+      "category": "封面",
+      "title": "会议照片全幅封面",
+      "composition": "满版人物照片与左侧标题、副标题、日期",
+      "scenarios": [
+        "客户提案",
+        "项目介绍"
+      ],
+      "application": "按项目替换背景图并检查文字对比度",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Image Example: Please update image for your specific need.",
+          "interpretation": "示例图片需要根据具体项目更换。"
+        }
+      ],
+      "source_layout": "Title Page - Full Bleed Image",
+      "source_object_counts": {
+        "PLACEHOLDER": 4,
+        "AUTO_SHAPE": 2,
+        "TEXT_CONTENT": 4,
+        "PICTURE": 1
+      }
+    },
+    {
+      "id": "SL-006",
+      "page": 6,
+      "category": "封面",
+      "title": "团队会议全幅封面",
+      "composition": "满版会议场景与左侧标题、副标题、日期",
+      "scenarios": [
+        "协作项目",
+        "工作坊方案"
+      ],
+      "application": "按项目替换照片，注意文字与背景的对比",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Image Example: Please update image for your specific need.",
+          "interpretation": "示例图片需要根据具体项目更换。"
+        }
+      ],
+      "source_layout": "Title Page - Full Bleed Image",
+      "source_object_counts": {
+        "PLACEHOLDER": 4,
+        "AUTO_SHAPE": 2,
+        "TEXT_CONTENT": 4,
+        "PICTURE": 1
+      }
+    },
+    {
+      "id": "SL-007",
+      "page": 7,
+      "category": "封面",
+      "title": "人物全幅封面",
+      "composition": "满版人物照片与左侧标题、副标题、日期",
+      "scenarios": [
+        "客户体验",
+        "服务主题封面"
+      ],
+      "application": "按项目替换照片并保留可读空间",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Image Example: Please update image for your specific need.",
+          "interpretation": "示例图片需要根据具体项目更换。"
+        }
+      ],
+      "source_layout": "Title Page - Full Bleed Image",
+      "source_object_counts": {
+        "PICTURE": 2,
+        "AUTO_SHAPE": 2,
+        "PLACEHOLDER": 3,
+        "TEXT_CONTENT": 4
+      }
+    },
+    {
+      "id": "SL-008",
+      "page": 8,
+      "category": "封面",
+      "title": "左黑右图封面",
+      "composition": "左侧黑底标题，右侧可替换人物照片",
+      "scenarios": [
+        "客户方案",
+        "品牌介绍"
+      ],
+      "application": "替换图片并使用 Merkle 标志",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Cover / Merkle logo only / Replace image as needed",
+          "interpretation": "该封面示例仅使用 Merkle 标志，按需要替换图片。"
+        }
+      ],
+      "source_layout": "Title Page + Image",
+      "source_object_counts": {
+        "FREEFORM": 1,
+        "PLACEHOLDER": 4,
+        "TEXT_CONTENT": 4,
+        "PICTURE": 1,
+        "AUTO_SHAPE": 1
+      }
+    },
+    {
+      "id": "SL-009",
+      "page": 9,
+      "category": "封面",
+      "title": "双品牌左黑右图封面",
+      "composition": "左侧标题、右侧照片，底部并列 Merkle 与客户标志",
+      "scenarios": [
+        "联合方案",
+        "客户提案"
+      ],
+      "application": "按实际客户替换图片和客户标志",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Cover / Image option / Example with client logo / Replace image as needed",
+          "interpretation": "这是包含客户标志的图片封面示例，按需要替换图片和客户标志。"
+        }
+      ],
+      "source_layout": "Title Page + Image 2",
+      "source_object_counts": {
+        "AUTO_SHAPE": 2,
+        "GROUP": 2,
+        "PICTURE": 2,
+        "TEXT_BOX": 1,
+        "TEXT_CONTENT": 5,
+        "LINE": 3,
+        "PLACEHOLDER": 4
+      }
+    },
+    {
+      "id": "SL-010",
+      "page": 10,
+      "category": "议程",
+      "title": "黑底棱镜短议程",
+      "composition": "左侧章节与页码，右侧大幅棱镜",
+      "scenarios": [
+        "短议程",
+        "章节导航"
+      ],
+      "application": "按实际章节与页码填写",
+      "source_notes": [],
+      "source_layout": "Agenda - Texture",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1,
+        "TEXT_BOX": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-011",
+      "page": 11,
+      "category": "议程",
+      "title": "黑底棱镜长议程",
+      "composition": "左侧多行章节，右侧棱镜背景",
+      "scenarios": [
+        "多章节议程"
+      ],
+      "application": "保持章节层级和行距",
+      "source_notes": [],
+      "source_layout": "Agenda - Texture",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1,
+        "TEXT_BOX": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-012",
+      "page": 12,
+      "category": "议程",
+      "title": "黑底配右侧图片议程",
+      "composition": "左侧深色议程，右侧图片区域",
+      "scenarios": [
+        "图文议程",
+        "品牌演示"
+      ],
+      "application": "替换右侧图片并填写章节",
+      "source_notes": [],
+      "source_layout": "Agenda Slide - Image Dark",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2,
+        "TEXT_BOX": 1
+      }
+    },
+    {
+      "id": "SL-013",
+      "page": 13,
+      "category": "议程",
+      "title": "浅色短议程一",
+      "composition": "左侧四项带页码，右侧浅灰图片区",
+      "scenarios": [
+        "短议程",
+        "会议结构"
+      ],
+      "application": "按需替换右侧图案",
+      "source_notes": [],
+      "source_layout": "Agenda Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 3,
+        "TABLE": 2,
+        "TEXT_BOX": 2
+      }
+    },
+    {
+      "id": "SL-014",
+      "page": 14,
+      "category": "议程",
+      "title": "浅色多项议程",
+      "composition": "左侧多项紧凑列表，右侧浅灰图片区",
+      "scenarios": [
+        "较多章节",
+        "快速目录"
+      ],
+      "application": "控制列表密度",
+      "source_notes": [],
+      "source_layout": "Agenda Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2,
+        "TEXT_BOX": 1
+      }
+    },
+    {
+      "id": "SL-015",
+      "page": 15,
+      "category": "议程",
+      "title": "带子章节议程",
+      "composition": "章节主项、缩进子项与页码，右侧浅灰图片区",
+      "scenarios": [
+        "复杂议程",
+        "长文档导航"
+      ],
+      "application": "保持主次层级",
+      "source_notes": [],
+      "source_layout": "Agenda Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2,
+        "TEXT_BOX": 1
+      }
+    },
+    {
+      "id": "SL-016",
+      "page": 16,
+      "category": "议程",
+      "title": "浅色短议程二",
+      "composition": "左侧章节与页码列表，右侧浅灰图片区",
+      "scenarios": [
+        "短议程",
+        "会议导航"
+      ],
+      "application": "依据实际章节调整行数",
+      "source_notes": [],
+      "source_layout": "Agenda Slide - Image Light",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-017",
+      "page": 17,
+      "category": "团队与组织",
+      "title": "议程与团队简介并列",
+      "composition": "左侧议程，右侧多名团队成员及简介",
+      "scenarios": [
+        "会议议程",
+        "团队介绍"
+      ],
+      "application": "为每名成员填写姓名和职务",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Agenda + Bios",
+          "interpretation": "适合将议程与团队简介放在同一页。"
+        }
+      ],
+      "source_layout": "Agenda Slide - Team",
+      "source_object_counts": {
+        "AUTO_SHAPE": 2,
+        "PLACEHOLDER": 10,
+        "TEXT_CONTENT": 13,
+        "TEXT_BOX": 10,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-018",
+      "page": 18,
+      "category": "团队与组织",
+      "title": "少量成员头像展示",
+      "composition": "左侧团队标题，右侧头像、姓名与职务网格",
+      "scenarios": [
+        "团队介绍",
+        "核心成员"
+      ],
+      "application": "适用于头像人数较少的情况，按原说明可能需要设计支持",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Agenda: when you only have a few headshots to include",
+          "interpretation": "适合仅有少数团队头像的情况。"
+        },
+        {
+          "type": "灰色",
+          "source_summary": "Layout: Design Support Recommended",
+          "interpretation": "原页在画布上方另有一条建议寻求设计支持的说明。"
+        }
+      ],
+      "source_layout": "Statement Slide - Light Image",
+      "source_object_counts": {
+        "PICTURE": 11,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 15,
+        "AUTO_SHAPE": 8,
+        "TEXT_BOX": 12
+      }
+    },
+    {
+      "id": "SL-019",
+      "page": 19,
+      "category": "议程",
+      "title": "短议程与封面同图",
+      "composition": "左侧短议程，右侧照片",
+      "scenarios": [
+        "简短议程",
+        "封面视觉延续"
+      ],
+      "application": "原说明建议沿用封面图片",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Agenda: short / Use the same image as the cover, so they match",
+          "interpretation": "适合短议程，示例建议与封面使用相同图片。"
+        }
+      ],
+      "source_layout": "Agenda Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "GROUP": 1,
+        "FREEFORM": 1,
+        "PICTURE": 1,
+        "TEXT_CONTENT": 2,
+        "AUTO_SHAPE": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-020",
+      "page": 20,
+      "category": "结束页",
+      "title": "左右分栏图片结束页",
+      "composition": "左侧黑底，右侧图片",
+      "scenarios": [
+        "演示结束",
+        "封面视觉呼应"
+      ],
+      "application": "默认去除页面主体文字并保留模板版权",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Image matches the cover",
+          "interpretation": "示例建议结束页图片与封面一致。"
+        }
+      ],
+      "source_layout": "Title Page + Image",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "AUTO_SHAPE": 1,
+        "TEXT_CONTENT": 2,
+        "GROUP": 1,
+        "FREEFORM": 1,
+        "PICTURE": 1
+      }
+    },
+    {
+      "id": "SL-021",
+      "page": 21,
+      "category": "章节过渡",
+      "title": "黑底章节分隔",
+      "composition": "深色背景与大标题",
+      "scenarios": [
+        "章节切换",
+        "主题过渡"
+      ],
+      "application": "按章节替换标题",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-022",
+      "page": 22,
+      "category": "章节过渡",
+      "title": "带子章节导航的分隔页",
+      "composition": "章节名、标题及子章节列表",
+      "scenarios": [
+        "长文档",
+        "RFP章节切换"
+      ],
+      "application": "将当前子章节加粗，其他弱化",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Sample Sub- Divider / Bold the section you are about to start. / This is good for a long document or RFP.",
+          "interpretation": "适用于长文档或 RFP 的子章节分隔页，加粗即将开始的子章节。"
+        }
+      ],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 2,
+        "AUTO_SHAPE": 2
+      }
+    },
+    {
+      "id": "SL-023",
+      "page": 23,
+      "category": "章节过渡",
+      "title": "黑色留白分隔页",
+      "composition": "黑色背景与页脚",
+      "scenarios": [
+        "视觉过渡",
+        "章节留白"
+      ],
+      "application": "按实际需要添加标题或保留留白",
+      "source_notes": [],
+      "source_layout": "Divider Slide + EYEBROW, Dark",
+      "source_object_counts": {
+        "PLACEHOLDER": 2
+      }
+    },
+    {
+      "id": "SL-024",
+      "page": 24,
+      "category": "章节过渡",
+      "title": "黑底棱镜分隔页",
+      "composition": "深色章节标题与右侧蓝黑棱镜",
+      "scenarios": [
+        "章节切换",
+        "方案分段"
+      ],
+      "application": "保持文字与图案的对比",
+      "source_notes": [],
+      "source_layout": "Divider Slide - Texture, Dark",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-025",
+      "page": 25,
+      "category": "章节过渡",
+      "title": "内容版式章节页",
+      "composition": "深色背景与内容版式标题",
+      "scenarios": [
+        "内容版式章节导航"
+      ],
+      "application": "作为章节页使用",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-026",
+      "page": 26,
+      "category": "正文布局",
+      "title": "标题与单栏正文",
+      "composition": "页首标题，下方子标题、段落与多级列表",
+      "scenarios": [
+        "背景说明",
+        "概念解释"
+      ],
+      "application": "按内容重组正文层级并保留自然换行",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 2
+      }
+    },
+    {
+      "id": "SL-027",
+      "page": 27,
+      "category": "正文布局",
+      "title": "带眉题的单栏正文",
+      "composition": "眉题、标题与单栏段落、列表",
+      "scenarios": [
+        "主题背景",
+        "结构化说明"
+      ],
+      "application": "替换眉题并组织正文层级",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 3,
+        "TEXT_CONTENT": 3
+      }
+    },
+    {
+      "id": "SL-028",
+      "page": 28,
+      "category": "正文布局",
+      "title": "三栏并列文本",
+      "composition": "标题与辅助说明，下方三个平行栏",
+      "scenarios": [
+        "三项能力",
+        "三类观点",
+        "比较"
+      ],
+      "application": "保持列间对齐，控制字数",
+      "source_notes": [],
+      "source_layout": "Title & Body 3 Column",
+      "source_object_counts": {
+        "PLACEHOLDER": 4,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 1
+      }
+    },
+    {
+      "id": "SL-029",
+      "page": 29,
+      "category": "正文布局",
+      "title": "两栏并列文本",
+      "composition": "标题与辅助说明，下方两栏",
+      "scenarios": [
+        "双方案比较",
+        "两类观点"
+      ],
+      "application": "平衡两栏内容量",
+      "source_notes": [],
+      "source_layout": "Title & Body 2 Column",
+      "source_object_counts": {
+        "PLACEHOLDER": 3,
+        "TEXT_CONTENT": 4,
+        "TEXT_BOX": 1
+      }
+    },
+    {
+      "id": "SL-030",
+      "page": 30,
+      "category": "正文布局",
+      "title": "仅标题内容页",
+      "composition": "左上标题与大面积空白正文区",
+      "scenarios": [
+        "自由图表",
+        "图文组合"
+      ],
+      "application": "以母版边距为基础自由组织",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-031",
+      "page": 31,
+      "category": "正文布局",
+      "title": "推荐方案与右侧图片",
+      "composition": "左侧按方法、原因、结果分段，右侧带文字的图片",
+      "scenarios": [
+        "方案说明",
+        "建议摘要"
+      ],
+      "application": "替换照片和说明，保留必要对比",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PICTURE": 1,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 4,
+        "AUTO_SHAPE": 1,
+        "TEXT_BOX": 3
+      }
+    },
+    {
+      "id": "SL-032",
+      "page": 32,
+      "category": "正文布局",
+      "title": "四栏密集正文",
+      "composition": "标题、辅助行和四个等宽文字栏",
+      "scenarios": [
+        "多维内容",
+        "信息密集型比较"
+      ],
+      "application": "优先控制每栏内容并保证留白",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 6,
+        "TEXT_BOX": 5
+      }
+    },
+    {
+      "id": "SL-033",
+      "page": 33,
+      "category": "正文布局",
+      "title": "四栏与浅灰侧栏",
+      "composition": "四栏正文，右侧为浅色侧区",
+      "scenarios": [
+        "多主题解读",
+        "要点与辅助信息"
+      ],
+      "application": "根据内容调整侧栏信息",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 6,
+        "TEXT_BOX": 5,
+        "AUTO_SHAPE": 1
+      }
+    },
+    {
+      "id": "SL-034",
+      "page": 34,
+      "category": "正文布局",
+      "title": "四栏与灰色强调侧栏",
+      "composition": "四栏文本，末栏放在较深灰色侧区",
+      "scenarios": [
+        "多维比较",
+        "突出最后一项"
+      ],
+      "application": "让侧栏承担有意义的重点",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 1,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 6,
+        "TEXT_BOX": 5
+      }
+    },
+    {
+      "id": "SL-035",
+      "page": 35,
+      "category": "正文布局",
+      "title": "双卡片内容对照",
+      "composition": "两张白色卡片，黑色卡头和分层正文",
+      "scenarios": [
+        "双方案",
+        "两个模块"
+      ],
+      "application": "标题和正文按需替换",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 6,
+        "TEXT_BOX": 3,
+        "AUTO_SHAPE": 4
+      }
+    },
+    {
+      "id": "SL-036",
+      "page": 36,
+      "category": "正文布局",
+      "title": "三卡片并列",
+      "composition": "三张白卡及黑色卡头，每卡含分层正文",
+      "scenarios": [
+        "三项服务",
+        "三类能力"
+      ],
+      "application": "保持卡片等高与文字对齐",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 8,
+        "TEXT_BOX": 4,
+        "AUTO_SHAPE": 6
+      }
+    },
+    {
+      "id": "SL-037",
+      "page": 37,
+      "category": "正文布局",
+      "title": "四卡片并列",
+      "composition": "四张白卡及黑色卡头",
+      "scenarios": [
+        "四个主题",
+        "四个模块对照"
+      ],
+      "application": "控制每卡信息密度",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 8,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 10,
+        "TEXT_BOX": 5
+      }
+    },
+    {
+      "id": "SL-038",
+      "page": 38,
+      "category": "正文布局",
+      "title": "右侧集中四卡片",
+      "composition": "左侧保留空白，四张窄卡从中部向右排列",
+      "scenarios": [
+        "左侧摘要加四项明细",
+        "紧凑模块"
+      ],
+      "application": "按内容利用左侧空间并检查可读性",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 10,
+        "TEXT_BOX": 5,
+        "AUTO_SHAPE": 8
+      }
+    },
+    {
+      "id": "SL-039",
+      "page": 39,
+      "category": "正文布局",
+      "title": "四步骤文字卡片",
+      "composition": "四个带步骤标签的白色卡片，附段落和项目符号",
+      "scenarios": [
+        "流程分步",
+        "四阶段交付"
+      ],
+      "application": "步骤序列需符合实际业务",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 4,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 10,
+        "TEXT_BOX": 9,
+        "LINE": 4
+      }
+    },
+    {
+      "id": "SL-040",
+      "page": 40,
+      "category": "正文布局",
+      "title": "四图片卡片",
+      "composition": "四列图片卡头与文本说明",
+      "scenarios": [
+        "四项能力",
+        "四类方案",
+        "阶段概览"
+      ],
+      "application": "更换图片并保持图文关系",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 8,
+        "PICTURE": 4,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 10,
+        "TEXT_BOX": 9
+      }
+    },
+    {
+      "id": "SL-041",
+      "page": 41,
+      "category": "章节过渡",
+      "title": "方法与流程章节页",
+      "composition": "深色背景与章节标题",
+      "scenarios": [
+        "方法论章节"
+      ],
+      "application": "用作章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-042",
+      "page": 42,
+      "category": "观点表达",
+      "title": "黑底中心定位陈述",
+      "composition": "中心大标题、简短分类与说明文字",
+      "scenarios": [
+        "核心受众",
+        "定位陈述"
+      ],
+      "application": "以真实受众和描述替换示例",
+      "source_notes": [],
+      "source_layout": "Statement Slide 1",
+      "source_object_counts": {
+        "TEXT_BOX": 1,
+        "TEXT_CONTENT": 1,
+        "LINE": 1
+      }
+    },
+    {
+      "id": "SL-043",
+      "page": 43,
+      "category": "观点表达",
+      "title": "白底中心定位陈述",
+      "composition": "居中大标题、分类及简短说明",
+      "scenarios": [
+        "核心观点",
+        "受众定位"
+      ],
+      "application": "按需求保留简洁文字",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TEXT_BOX": 1,
+        "TEXT_CONTENT": 1,
+        "LINE": 1
+      }
+    },
+    {
+      "id": "SL-044",
+      "page": 44,
+      "category": "分析与评估",
+      "title": "五级成熟度矩阵",
+      "composition": "五个成熟度阶段横列，多个评估维度纵列",
+      "scenarios": [
+        "成熟度诊断",
+        "能力评估"
+      ],
+      "application": "依据实际评价标准填充",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE": 21,
+        "TABLE": 2,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 19,
+        "TEXT_BOX": 6,
+        "GROUP": 3,
+        "PICTURE": 4,
+        "FREEFORM": 5
+      }
+    },
+    {
+      "id": "SL-045",
+      "page": 45,
+      "category": "分析与评估",
+      "title": "多方案生态比较矩阵",
+      "composition": "左侧结论，右侧方案列与关注点、局限、价值行",
+      "scenarios": [
+        "平台比较",
+        "能力对照",
+        "市场生态"
+      ],
+      "application": "替换历史品牌和判断",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 10,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 17,
+        "PICTURE": 14,
+        "TEXT_BOX": 9,
+        "LINE": 4,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-046",
+      "page": 46,
+      "category": "案例与结果",
+      "title": "三案例结果对比",
+      "composition": "三张案例卡，包含图片、挑战、方案和指标",
+      "scenarios": [
+        "案例集锦",
+        "结果比较"
+      ],
+      "application": "使用已核实的客户授权及数据",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE": 8,
+        "PICTURE": 6,
+        "TEXT_BOX": 13,
+        "TEXT_CONTENT": 15,
+        "LINE": 2
+      }
+    },
+    {
+      "id": "SL-047",
+      "page": 47,
+      "category": "章节过渡",
+      "title": "Why Merkle 章节页",
+      "composition": "黑底大标题",
+      "scenarios": [
+        "公司能力章节"
+      ],
+      "application": "按实际章节标题替换",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-048",
+      "page": 48,
+      "category": "能力与资质",
+      "title": "能力宣言与证据网格",
+      "composition": "左侧公司定位，右侧指标，下方品牌标志",
+      "scenarios": [
+        "公司介绍",
+        "能力与业绩"
+      ],
+      "application": "只使用已确认且可披露的数字和标志",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE": 16,
+        "TEXT_BOX": 8,
+        "TEXT_CONTENT": 22,
+        "LINE": 2,
+        "PICTURE": 35
+      }
+    },
+    {
+      "id": "SL-049",
+      "page": 49,
+      "category": "能力与资质",
+      "title": "业绩指标与交付展示",
+      "composition": "左侧多项指标，右侧示意图与案例摘要",
+      "scenarios": [
+        "成果概览",
+        "品牌业绩"
+      ],
+      "application": "以可验证的项目数据替换示例",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 2,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 8,
+        "PICTURE": 12,
+        "TEXT_BOX": 7,
+        "LINE": 6,
+        "GROUP": 1
+      }
+    },
+    {
+      "id": "SL-050",
+      "page": 50,
+      "category": "目标与需求",
+      "title": "目标列表与场景图片",
+      "composition": "左侧目标要点，右侧大图",
+      "scenarios": [
+        "会议目标",
+        "项目目标"
+      ],
+      "application": "替换图片和目标",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "FREEFORM": 1,
+        "TEXT_BOX": 2,
+        "TEXT_CONTENT": 3,
+        "AUTO_SHAPE": 1
+      }
+    },
+    {
+      "id": "SL-051",
+      "page": 51,
+      "category": "目标与需求",
+      "title": "听取反馈四卡片",
+      "composition": "左侧大标题，右侧四张文本卡",
+      "scenarios": [
+        "客户反馈",
+        "需求归纳"
+      ],
+      "application": "用实际反馈替换占位内容",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 13,
+        "TEXT_BOX": 6,
+        "TEXT_CONTENT": 10
+      }
+    },
+    {
+      "id": "SL-052",
+      "page": 52,
+      "category": "目标与需求",
+      "title": "会议目标与双方分工",
+      "composition": "左侧目标列表，右侧双方交付与配合表",
+      "scenarios": [
+        "工作坊目标",
+        "双方责任"
+      ],
+      "application": "仅填实际约定的责任",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE": 2,
+        "TEXT_BOX": 2,
+        "TEXT_CONTENT": 3,
+        "TABLE": 2,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-053",
+      "page": 53,
+      "category": "目标与需求",
+      "title": "客户需求与方案回应",
+      "composition": "左右两块，对应客户诉求与回应",
+      "scenarios": [
+        "需求回应",
+        "方案开场"
+      ],
+      "application": "按客户内容定制信息设计",
+      "source_notes": [
+        {
+          "type": "灰色",
+          "source_summary": "Your Ask/Our Answer, Opt 1. Image FPO. Info design to customize per client.",
+          "interpretation": "这是客户需求与方案回应的第一种选项，图片为占位，信息设计应按客户定制。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "FREEFORM": 1,
+        "TEXT_BOX": 6,
+        "TEXT_CONTENT": 6,
+        "AUTO_SHAPE": 1
+      }
+    },
+    {
+      "id": "SL-054",
+      "page": 54,
+      "category": "目标与需求",
+      "title": "需求回应与图片",
+      "composition": "左右需求回应结构，左侧加入图片",
+      "scenarios": [
+        "问题与建议",
+        "图文对照"
+      ],
+      "application": "根据具体客户替换图片",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE": 1,
+        "FREEFORM": 1,
+        "TEXT_BOX": 5,
+        "TEXT_CONTENT": 5
+      }
+    },
+    {
+      "id": "SL-055",
+      "page": 55,
+      "category": "目标与需求",
+      "title": "需求回应文字详版",
+      "composition": "白底需求与黑底回应两栏",
+      "scenarios": [
+        "客户诉求",
+        "方案定位"
+      ],
+      "application": "用事实和建议分栏呈现",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "FREEFORM": 1,
+        "TEXT_BOX": 5,
+        "TEXT_CONTENT": 5
+      }
+    },
+    {
+      "id": "SL-056",
+      "page": 56,
+      "category": "目标与需求",
+      "title": "客户目标与预期成果",
+      "composition": "左侧背景与需求，右侧预期成果分栏",
+      "scenarios": [
+        "需求理解",
+        "成果对齐"
+      ],
+      "application": "替换历史客户语境并明确成果依据",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "FREEFORM": 1,
+        "TEXT_BOX": 7,
+        "TEXT_CONTENT": 9,
+        "AUTO_SHAPE": 2,
+        "LINE": 4
+      }
+    },
+    {
+      "id": "SL-057",
+      "page": 57,
+      "category": "目标与需求",
+      "title": "需求与方案详细列表",
+      "composition": "左侧客户诉求，右侧方案回应与列表",
+      "scenarios": [
+        "方案回应",
+        "目标拆解"
+      ],
+      "application": "重写示例内容以匹配项目",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "FREEFORM": 1,
+        "TEXT_BOX": 14,
+        "TEXT_CONTENT": 14,
+        "LINE": 9
+      }
+    },
+    {
+      "id": "SL-058",
+      "page": 58,
+      "category": "目标与需求",
+      "title": "客户总目标与四项重点",
+      "composition": "背景图片，上层总目标、下层四项支柱",
+      "scenarios": [
+        "战略目标",
+        "需求框架"
+      ],
+      "application": "按客户替换图片和目标",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Change image per client",
+          "interpretation": "根据具体客户更换图片。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE": 1,
+        "AUTO_SHAPE": 8,
+        "TEXT_BOX": 9,
+        "TEXT_CONTENT": 9
+      }
+    },
+    {
+      "id": "SL-059",
+      "page": 59,
+      "category": "目标与需求",
+      "title": "背景图与三项关键目标",
+      "composition": "大背景图片，标题下排列三项目标",
+      "scenarios": [
+        "项目目标",
+        "方向对齐"
+      ],
+      "application": "避免示例客户表述，确保文字可读",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PICTURE": 1,
+        "AUTO_SHAPE": 2,
+        "TEXT_BOX": 8,
+        "TEXT_CONTENT": 8,
+        "LINE": 3,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-060",
+      "page": 60,
+      "category": "团队与组织",
+      "title": "议程与三人团队",
+      "composition": "左侧议程，右侧头像及职务",
+      "scenarios": [
+        "会议议程",
+        "介绍参会成员"
+      ],
+      "application": "更新为实际参会人",
+      "source_notes": [],
+      "source_layout": "Agenda Slide 1",
+      "source_object_counts": {
+        "AUTO_SHAPE": 1,
+        "TEXT_BOX": 6,
+        "TEXT_CONTENT": 7,
+        "PLACEHOLDER": 1,
+        "PICTURE": 4,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-061",
+      "page": 61,
+      "category": "团队与组织",
+      "title": "团队分组展示",
+      "composition": "左侧标题，右侧两组团队头像",
+      "scenarios": [
+        "较大团队",
+        "跨团队协作"
+      ],
+      "application": "按照实际团队分组和成员替换",
+      "source_notes": [
+        {
+          "type": "灰色",
+          "source_summary": "Team Slide Opt 2, bigger team",
+          "interpretation": "这是适合较大团队的团队页选项。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 9,
+        "TEXT_CONTENT": 11,
+        "TEXT_BOX": 3,
+        "PICTURE": 6,
+        "LINE": 2
+      }
+    },
+    {
+      "id": "SL-062",
+      "page": 62,
+      "category": "团队与组织",
+      "title": "四名成员介绍卡",
+      "composition": "四张竖卡展示头像、姓名、职责",
+      "scenarios": [
+        "核心团队",
+        "人员简介"
+      ],
+      "application": "简写职务和职责",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE": 16,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 13,
+        "PICTURE": 4,
+        "LINE": 4
+      }
+    },
+    {
+      "id": "SL-063",
+      "page": 63,
+      "category": "团队与组织",
+      "title": "多职能团队清单",
+      "composition": "按职能分区展示多位成员与职位",
+      "scenarios": [
+        "跨职能团队",
+        "责任分工"
+      ],
+      "application": "按组织结构增减分组",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 22,
+        "TEXT_CONTENT": 25,
+        "TEXT_BOX": 3,
+        "PLACEHOLDER": 1,
+        "PICTURE": 13,
+        "LINE": 5
+      }
+    },
+    {
+      "id": "SL-064",
+      "page": 64,
+      "category": "团队与组织",
+      "title": "核心团队与扩展团队",
+      "composition": "按核心、扩展、赞助人分组展示",
+      "scenarios": [
+        "治理结构",
+        "团队组成"
+      ],
+      "application": "根据实际关系组织人员",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 17,
+        "PICTURE": 13,
+        "LINE": 3,
+        "AUTO_SHAPE": 16
+      }
+    },
+    {
+      "id": "SL-065",
+      "page": 65,
+      "category": "团队与组织",
+      "title": "双人详细简介",
+      "composition": "两栏头像、姓名、职位及履历",
+      "scenarios": [
+        "关键人物介绍",
+        "领导简介"
+      ],
+      "application": "保持个人简介准确",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 10,
+        "TEXT_BOX": 2,
+        "AUTO_SHAPE": 6,
+        "PICTURE": 2,
+        "LINE": 2
+      }
+    },
+    {
+      "id": "SL-066",
+      "page": 66,
+      "category": "团队与组织",
+      "title": "三人详细简介",
+      "composition": "三栏人物头像与履历",
+      "scenarios": [
+        "管理团队",
+        "专家介绍"
+      ],
+      "application": "适当控制履历长度",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 8,
+        "TEXT_BOX": 3,
+        "AUTO_SHAPE": 3,
+        "PICTURE": 3
+      }
+    },
+    {
+      "id": "SL-067",
+      "page": 67,
+      "category": "团队与组织",
+      "title": "四人简介清单",
+      "composition": "两列多行头像与简介",
+      "scenarios": [
+        "团队背景",
+        "专家名册"
+      ],
+      "application": "替换人物资料并检查字数",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 10,
+        "TEXT_BOX": 4,
+        "AUTO_SHAPE": 4,
+        "PICTURE": 4
+      }
+    },
+    {
+      "id": "SL-068",
+      "page": 68,
+      "category": "团队与组织",
+      "title": "六人简介清单",
+      "composition": "两列多行，多个头像与简介",
+      "scenarios": [
+        "扩展专家团队",
+        "人员简介"
+      ],
+      "application": "保持足够字号与行距",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 14,
+        "TEXT_BOX": 6,
+        "AUTO_SHAPE": 6,
+        "PICTURE": 6
+      }
+    },
+    {
+      "id": "SL-069",
+      "page": 69,
+      "category": "团队与组织",
+      "title": "职能团队结构",
+      "composition": "三列业务职能卡，下方横向支持职能",
+      "scenarios": [
+        "职能分工",
+        "团队能力"
+      ],
+      "application": "反映真实组织和职责",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "TEXT_BOX": 19,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 22,
+        "AUTO_SHAPE": 8,
+        "LINE": 5,
+        "PICTURE": 11,
+        "GROUP": 3
+      }
+    },
+    {
+      "id": "SL-070",
+      "page": 70,
+      "category": "团队与组织",
+      "title": "层级组织图",
+      "composition": "上级节点与下级节点的树状关系",
+      "scenarios": [
+        "组织架构",
+        "汇报关系"
+      ],
+      "application": "只绘制已确认的组织关系",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 10,
+        "LINE": 11,
+        "TEXT_BOX": 3,
+        "AUTO_SHAPE": 9
+      }
+    },
+    {
+      "id": "SL-071",
+      "page": 71,
+      "category": "章节过渡",
+      "title": "表格与汇报章节页",
+      "composition": "黑底大标题",
+      "scenarios": [
+        "数据汇报章节"
+      ],
+      "application": "作为章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-072",
+      "page": 72,
+      "category": "表格与汇报",
+      "title": "问答表格",
+      "composition": "标题下两行问题与回答",
+      "scenarios": [
+        "RFP回应",
+        "问答汇总"
+      ],
+      "application": "保持问题与回答清晰对应",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "TABLE": 2,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 2
+      }
+    },
+    {
+      "id": "SL-073",
+      "page": 73,
+      "category": "表格与汇报",
+      "title": "基础数据表",
+      "composition": "多列标题与斑马纹行",
+      "scenarios": [
+        "数据明细",
+        "指标表"
+      ],
+      "application": "替换列名、数值和单位",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-074",
+      "page": 74,
+      "category": "表格与汇报",
+      "title": "层级指标表",
+      "composition": "黑色汇总行、灰色明细与多列比较",
+      "scenarios": [
+        "业绩汇总",
+        "财务明细"
+      ],
+      "application": "按实际层级填充数值",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-075",
+      "page": 75,
+      "category": "表格与汇报",
+      "title": "执行摘要与指标表",
+      "composition": "左侧密集绩效表，右侧摘要",
+      "scenarios": [
+        "管理层汇报",
+        "结果与洞察"
+      ],
+      "application": "优先保留关键行和有依据的洞察",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TABLE": 2,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 4,
+        "TEXT_BOX": 2,
+        "AUTO_SHAPE": 14,
+        "GROUP": 1,
+        "LINE": 2
+      }
+    },
+    {
+      "id": "SL-076",
+      "page": 76,
+      "category": "案例与结果",
+      "title": "活动总结与截图",
+      "composition": "左侧目标、受众、方案及指标，右侧叠放截图",
+      "scenarios": [
+        "营销活动复盘",
+        "项目结果"
+      ],
+      "application": "用实际截图和核实指标替换",
+      "source_notes": [
+        {
+          "type": "灰色",
+          "source_summary": "Screenshot here. Use format painter to copy shadow and rounded corners.",
+          "interpretation": "截图占位处建议使用格式刷复制阴影与圆角。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 18,
+        "TEXT_BOX": 10,
+        "AUTO_SHAPE": 8,
+        "LINE": 5
+      }
+    },
+    {
+      "id": "SL-077",
+      "page": 77,
+      "category": "正文布局",
+      "title": "右侧双摘要面板",
+      "composition": "大面积主体区，右侧上下两块短文字",
+      "scenarios": [
+        "主体内容加侧栏",
+        "补充要点"
+      ],
+      "application": "右侧只保留两类相关信息",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 3,
+        "AUTO_SHAPE": 2,
+        "TEXT_BOX": 2
+      }
+    },
+    {
+      "id": "SL-078",
+      "page": 78,
+      "category": "正文布局",
+      "title": "底部关键学习",
+      "composition": "上方大面积正文区，下方一条关键学习",
+      "scenarios": [
+        "图表加总结",
+        "分析结论"
+      ],
+      "application": "用正文主体支撑底部结论",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 2,
+        "TEXT_BOX": 1,
+        "AUTO_SHAPE": 1
+      }
+    },
+    {
+      "id": "SL-079",
+      "page": 79,
+      "category": "正文布局",
+      "title": "顶部关键学习",
+      "composition": "上方关键学习，下方大面积主体区",
+      "scenarios": [
+        "结论先行",
+        "分析图表"
+      ],
+      "application": "保持结论与正文证据一致",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 2,
+        "TEXT_BOX": 1,
+        "AUTO_SHAPE": 1
+      }
+    },
+    {
+      "id": "SL-080",
+      "page": 80,
+      "category": "正文布局",
+      "title": "双列顶部学习与主体",
+      "composition": "顶部双列要点，下方主体空间",
+      "scenarios": [
+        "两项核心结论",
+        "对照分析"
+      ],
+      "application": "对齐两列并保留正文空间",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 3,
+        "TEXT_BOX": 2,
+        "AUTO_SHAPE": 1,
+        "LINE": 1
+      }
+    },
+    {
+      "id": "SL-081",
+      "page": 81,
+      "category": "正文布局",
+      "title": "三列顶部学习与主体",
+      "composition": "顶部三列要点，下方主体空间",
+      "scenarios": [
+        "三项发现",
+        "三维对比"
+      ],
+      "application": "按内容调整列宽",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 4,
+        "AUTO_SHAPE": 1,
+        "LINE": 2
+      }
+    },
+    {
+      "id": "SL-082",
+      "page": 82,
+      "category": "章节过渡",
+      "title": "报价章节页",
+      "composition": "黑底报价标题",
+      "scenarios": [
+        "商务报价章节"
+      ],
+      "application": "作为章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-083",
+      "page": 83,
+      "category": "报价与范围",
+      "title": "分项报价清单",
+      "composition": "按设置费、持续服务和总额分区",
+      "scenarios": [
+        "分项报价",
+        "费用说明"
+      ],
+      "application": "仅填已确认金额和范围",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-084",
+      "page": 84,
+      "category": "报价与范围",
+      "title": "五张指标和报价卡",
+      "composition": "五张黑色标题卡，突出金额、周期或其他数值",
+      "scenarios": [
+        "方案关键数字",
+        "商业摘要"
+      ],
+      "application": "使用真实数值并解释单位",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 12,
+        "AUTO_SHAPE": 12,
+        "TEXT_BOX": 5
+      }
+    },
+    {
+      "id": "SL-085",
+      "page": 85,
+      "category": "报价与范围",
+      "title": "三方案勾选对照",
+      "composition": "功能行、三列方案及预算行",
+      "scenarios": [
+        "报价档位",
+        "功能范围对比"
+      ],
+      "application": "明确每列方案和价格",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2,
+        "GROUP": 16,
+        "AUTO_SHAPE": 16,
+        "FREEFORM": 16
+      }
+    },
+    {
+      "id": "SL-086",
+      "page": 86,
+      "category": "报价与范围",
+      "title": "三档服务范围比较表",
+      "composition": "三种档位与发现、参与、交付、周期等行",
+      "scenarios": [
+        "服务套餐",
+        "合作模式对照"
+      ],
+      "application": "填写真实交付、周期、费用",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 2,
+        "TEXT_BOX": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-087",
+      "page": 87,
+      "category": "报价与范围",
+      "title": "按阶段范围与报价表",
+      "composition": "阶段、周期、范围、资源、会议、交付列",
+      "scenarios": [
+        "项目范围",
+        "工作说明",
+        "报价"
+      ],
+      "application": "逐项写清项目范围与金额",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "TABLE": 2,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 2,
+        "TEXT_BOX": 1
+      }
+    },
+    {
+      "id": "SL-088",
+      "page": 88,
+      "category": "章节过渡",
+      "title": "时间轴与阶段章节页",
+      "composition": "黑底章节标题",
+      "scenarios": [
+        "项目计划章节"
+      ],
+      "application": "作为章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-089",
+      "page": 89,
+      "category": "时间与阶段",
+      "title": "年度活动日历",
+      "composition": "月份横轴、活动分行与跨期色条",
+      "scenarios": [
+        "年度计划",
+        "渠道活动排期"
+      ],
+      "application": "按真实日期和持续时间调整",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TABLE": 2,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 3,
+        "TEXT_BOX": 2
+      }
+    },
+    {
+      "id": "SL-090",
+      "page": 90,
+      "category": "时间与阶段",
+      "title": "六个月阶段日历表",
+      "composition": "月份横轴、阶段分行与每月任务",
+      "scenarios": [
+        "半年路线图",
+        "阶段计划"
+      ],
+      "application": "保留月份与任务的对应关系",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-091",
+      "page": 91,
+      "category": "时间与阶段",
+      "title": "四阶段文字说明",
+      "composition": "四个阶段横向排列，附周期和任务",
+      "scenarios": [
+        "阶段方法",
+        "工作安排"
+      ],
+      "application": "阶段数量和时长按项目调整",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE": 14,
+        "LINE": 2,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 11,
+        "TEXT_BOX": 2
+      }
+    },
+    {
+      "id": "SL-092",
+      "page": 92,
+      "category": "时间与阶段",
+      "title": "时间轴与阶段摘要",
+      "composition": "上方跨期甘特与里程碑，下方阶段说明和商业信息框",
+      "scenarios": [
+        "项目计划",
+        "交付阶段"
+      ],
+      "application": "按真实时间和范围重建",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "TABLE": 2,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 21,
+        "AUTO_SHAPE": 24,
+        "TEXT_BOX": 1,
+        "LINE": 1,
+        "PICTURE": 7
+      }
+    },
+    {
+      "id": "SL-093",
+      "page": 93,
+      "category": "时间与阶段",
+      "title": "详细甘特计划",
+      "composition": "按周横轴、阶段任务行、条形与里程碑",
+      "scenarios": [
+        "项目排期",
+        "阶段依赖"
+      ],
+      "application": "使用真实时点与持续时间",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "TABLE": 2,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 12,
+        "AUTO_SHAPE": 11,
+        "PICTURE": 11
+      }
+    },
+    {
+      "id": "SL-094",
+      "page": 94,
+      "category": "时间与阶段",
+      "title": "阶段说明与产出",
+      "composition": "左侧当前阶段及导航，右侧活动与产出",
+      "scenarios": [
+        "单阶段工作说明",
+        "活动与交付"
+      ],
+      "application": "正确标记当前阶段",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "TEXT_BOX": 3,
+        "TEXT_CONTENT": 11,
+        "AUTO_SHAPE": 13,
+        "LINE": 2,
+        "GROUP": 1
+      }
+    },
+    {
+      "id": "SL-095",
+      "page": 95,
+      "category": "时间与阶段",
+      "title": "阶段说明与交付视觉",
+      "composition": "左侧阶段摘要，中间示意图，右侧产出",
+      "scenarios": [
+        "阶段成果",
+        "交付说明"
+      ],
+      "application": "使用相关图像及准确产出",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "GROUP": 3,
+        "PICTURE": 4,
+        "AUTO_SHAPE": 12,
+        "TEXT_CONTENT": 9,
+        "TEXT_BOX": 3,
+        "LINE": 1
+      }
+    },
+    {
+      "id": "SL-096",
+      "page": 96,
+      "category": "章节过渡",
+      "title": "示例交付物章节页",
+      "composition": "深色背景与章节标题",
+      "scenarios": [
+        "交付物章节"
+      ],
+      "application": "作为章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-097",
+      "page": 97,
+      "category": "交付物与工具",
+      "title": "文字加叠放交付物截图",
+      "composition": "左侧方案与包含内容，右侧叠放截图",
+      "scenarios": [
+        "交付物预览",
+        "服务介绍"
+      ],
+      "application": "替换所有示例图片与占位文字",
+      "source_notes": [
+        {
+          "type": "占位提示",
+          "source_summary": "REPLACE IMAGE",
+          "interpretation": "三张交付物示例图片需要替换。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PICTURE": 3,
+        "AUTO_SHAPE": 10,
+        "TEXT_CONTENT": 11,
+        "TEXT_BOX": 2,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-098",
+      "page": 98,
+      "category": "交付物与工具",
+      "title": "带标签的交付物截图",
+      "composition": "左侧说明与包含内容，右侧三张截图及标签",
+      "scenarios": [
+        "多项交付",
+        "成果预览"
+      ],
+      "application": "替换截图并让关键内容可读",
+      "source_notes": [
+        {
+          "type": "占位提示",
+          "source_summary": "REPLACE IMAGE",
+          "interpretation": "三张示例截图需要替换，旁边标签按内容填写。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 12,
+        "TEXT_CONTENT": 13,
+        "TEXT_BOX": 2,
+        "PICTURE": 3,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-099",
+      "page": 99,
+      "category": "交付物与工具",
+      "title": "工具说明与截图",
+      "composition": "左侧工具名称、价值和说明，右侧截图叠放",
+      "scenarios": [
+        "工具介绍",
+        "能力演示"
+      ],
+      "application": "使用实际工具资料",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 2,
+        "TEXT_CONTENT": 4,
+        "PICTURE": 3,
+        "TEXT_BOX": 3,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-100",
+      "page": 100,
+      "category": "章节过渡",
+      "title": "市场扫描章节页",
+      "composition": "黑底章节标题",
+      "scenarios": [
+        "竞品与市场章节"
+      ],
+      "application": "作为章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-101",
+      "page": 101,
+      "category": "市场与竞品",
+      "title": "市场扫描方法与品牌范围",
+      "composition": "目标、方法及分组品牌标志",
+      "scenarios": [
+        "竞品研究",
+        "市场扫描方法"
+      ],
+      "application": "替换实际品牌与研究方法",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE": 14,
+        "TEXT_BOX": 5,
+        "TEXT_CONTENT": 18,
+        "LINE": 2,
+        "PLACEHOLDER": 2
+      }
+    },
+    {
+      "id": "SL-102",
+      "page": 102,
+      "category": "市场与竞品",
+      "title": "竞品权益矩阵",
+      "composition": "品牌横列，权益项目纵列与勾选",
+      "scenarios": [
+        "竞品功能对比",
+        "权益扫描"
+      ],
+      "application": "核实各品牌项目和适用范围",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 13,
+        "TABLE": 2,
+        "AUTO_SHAPE": 10,
+        "TEXT_BOX": 1
+      }
+    },
+    {
+      "id": "SL-103",
+      "page": 103,
+      "category": "市场与竞品",
+      "title": "竞品洞察与对比卡",
+      "composition": "左侧主要发现，右侧多品牌对比表",
+      "scenarios": [
+        "竞品结论",
+        "市场机会"
+      ],
+      "application": "用证据支撑结论并更新品牌",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE": 6,
+        "TEXT_BOX": 14,
+        "TEXT_CONTENT": 21,
+        "LINE": 3,
+        "PLACEHOLDER": 2
+      }
+    },
+    {
+      "id": "SL-104",
+      "page": 104,
+      "category": "市场与竞品",
+      "title": "单一竞品项目拆解",
+      "composition": "项目规则、视觉截图和突出特点",
+      "scenarios": [
+        "竞品案例",
+        "会员项目研究"
+      ],
+      "application": "使用准确来源和最新资料",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "GROUP": 1,
+        "AUTO_SHAPE": 2,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 7,
+        "PICTURE": 3,
+        "TEXT_BOX": 6,
+        "LINE": 1
+      }
+    },
+    {
+      "id": "SL-105",
+      "page": 105,
+      "category": "市场与竞品",
+      "title": "多页面示例与说明",
+      "composition": "多张网站或界面截图横排，各附文字",
+      "scenarios": [
+        "竞品页面比较",
+        "内容审核"
+      ],
+      "application": "替换为获准使用的截图",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PICTURE": 5,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 6,
+        "AUTO_SHAPE": 1,
+        "TEXT_BOX": 5
+      }
+    },
+    {
+      "id": "SL-106",
+      "page": 106,
+      "category": "市场与竞品",
+      "title": "五品牌并列卡",
+      "composition": "五个品牌标志及说明卡",
+      "scenarios": [
+        "五方竞品比较",
+        "供应商比较"
+      ],
+      "application": "统一比较维度",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 11,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 16,
+        "TEXT_BOX": 10,
+        "LINE": 5
+      }
+    },
+    {
+      "id": "SL-107",
+      "page": 107,
+      "category": "市场与竞品",
+      "title": "四品牌多维对比卡",
+      "composition": "四列品牌，各列分多个说明模块",
+      "scenarios": [
+        "竞品能力",
+        "权益比较"
+      ],
+      "application": "按实际品牌和维度填充",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 19,
+        "AUTO_SHAPE": 8,
+        "TEXT_BOX": 14,
+        "LINE": 2
+      }
+    },
+    {
+      "id": "SL-108",
+      "page": 108,
+      "category": "市场与竞品",
+      "title": "三趋势图片卡",
+      "composition": "三张图片叠加趋势标题与简述",
+      "scenarios": [
+        "趋势概览",
+        "三个洞察"
+      ],
+      "application": "以真实来源支撑趋势",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 4,
+        "PICTURE": 3,
+        "AUTO_SHAPE": 6,
+        "LINE": 3
+      }
+    },
+    {
+      "id": "SL-109",
+      "page": 109,
+      "category": "市场与竞品",
+      "title": "深色趋势详解",
+      "composition": "大背景图，上方主题说明，下方分两组内容",
+      "scenarios": [
+        "趋势解释",
+        "人群需求"
+      ],
+      "application": "使用有依据的趋势信息",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PICTURE": 1,
+        "AUTO_SHAPE": 3,
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 2,
+        "LINE": 1,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-110",
+      "page": 110,
+      "category": "市场与竞品",
+      "title": "趋势案例与结论一",
+      "composition": "左侧案例说明，中间产品图，右侧关键结论",
+      "scenarios": [
+        "市场趋势案例",
+        "案例解读"
+      ],
+      "application": "替换案例、图片和出处",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PICTURE": 1,
+        "GROUP": 1,
+        "AUTO_SHAPE": 2,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 4,
+        "TEXT_BOX": 2
+      }
+    },
+    {
+      "id": "SL-111",
+      "page": 111,
+      "category": "市场与竞品",
+      "title": "趋势案例与结论二",
+      "composition": "左侧案例说明，中间图片，右侧关键结论",
+      "scenarios": [
+        "产品案例",
+        "会员案例"
+      ],
+      "application": "核查实际内容及出处",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "GROUP": 2,
+        "AUTO_SHAPE": 3,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 2,
+        "PICTURE": 3
+      }
+    },
+    {
+      "id": "SL-112",
+      "page": 112,
+      "category": "市场与竞品",
+      "title": "趋势案例与结论三",
+      "composition": "左侧案例和引述，中间照片，右侧结论",
+      "scenarios": [
+        "品牌案例",
+        "社会趋势"
+      ],
+      "application": "引用可核实的材料",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PICTURE": 2,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 2,
+        "GROUP": 1,
+        "AUTO_SHAPE": 3,
+        "LINE": 1
+      }
+    },
+    {
+      "id": "SL-113",
+      "page": 113,
+      "category": "市场与竞品",
+      "title": "趋势案例与结论四",
+      "composition": "左侧案例正文，中间手机截图，右侧结论",
+      "scenarios": [
+        "营销案例",
+        "本地化实践"
+      ],
+      "application": "替换例子与截图并标注来源",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 2,
+        "GROUP": 2,
+        "AUTO_SHAPE": 3,
+        "LINE": 1,
+        "PICTURE": 3
+      }
+    },
+    {
+      "id": "SL-114",
+      "page": 114,
+      "category": "问答与技术",
+      "title": "长问题与三栏回答",
+      "composition": "上方问题带，下方三栏说明",
+      "scenarios": [
+        "RFP回应",
+        "技术方案解答"
+      ],
+      "application": "控制段落长度，保证可读",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE": 1,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 5,
+        "TEXT_BOX": 3
+      }
+    },
+    {
+      "id": "SL-115",
+      "page": 115,
+      "category": "问答与技术",
+      "title": "三张数据流截图",
+      "composition": "上方问题带，下方三张编号示意图",
+      "scenarios": [
+        "数据流说明",
+        "多案例架构"
+      ],
+      "application": "图中细节可读，必要时拆页",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE": 7,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 5,
+        "PICTURE": 3
+      }
+    },
+    {
+      "id": "SL-116",
+      "page": 116,
+      "category": "问答与技术",
+      "title": "用例说明与移动端示例",
+      "composition": "左侧人物和文字，中间手机示例，右侧工具与文案",
+      "scenarios": [
+        "AI用例",
+        "内容生成演示"
+      ],
+      "application": "替换示例，视频链接按需验证",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE": 3,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 4,
+        "PICTURE": 4,
+        "MEDIA": 1,
+        "TEXT_BOX": 2,
+        "LINE": 1,
+        "GROUP": 1
+      }
+    },
+    {
+      "id": "SL-117",
+      "page": 117,
+      "category": "问答与技术",
+      "title": "问题背景与双栏回应",
+      "composition": "上方问题带，背景说明，下方两栏要点",
+      "scenarios": [
+        "RFP答复",
+        "挑战与回应"
+      ],
+      "application": "保持答复与问题对应",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 4,
+        "TABLE": 2,
+        "TEXT_BOX": 3
+      }
+    },
+    {
+      "id": "SL-118",
+      "page": 118,
+      "category": "章节过渡",
+      "title": "单页案例章节页",
+      "composition": "黑底大标题",
+      "scenarios": [
+        "案例研究章节"
+      ],
+      "application": "作为章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-119",
+      "page": 119,
+      "category": "案例与结果",
+      "title": "四案例并列",
+      "composition": "黑底四块案例摘要，每块含标志与两个指标",
+      "scenarios": [
+        "多案例概览",
+        "客户案例合集"
+      ],
+      "application": "替换为真实授权案例和数据",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "4 up",
+          "interpretation": "每页展示四个案例摘要。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE": 8,
+        "LINE": 2,
+        "TEXT_BOX": 5,
+        "TEXT_CONTENT": 9,
+        "TABLE": 8
+      }
+    },
+    {
+      "id": "SL-120",
+      "page": 120,
+      "category": "案例与结果",
+      "title": "单案例摘要组件",
+      "composition": "标志、短文及最多两个指标，带灰色说明文字",
+      "scenarios": [
+        "案例摘要",
+        "复用案例模块"
+      ],
+      "application": "按原说明控制文字行数和指标字符长度",
+      "source_notes": [
+        {
+          "type": "灰色",
+          "source_summary": "Copy: 10 pt / Length: Limit to 4 lines and do not flow past the top line / Optional Call-out: Use Italic and suitable accent color to give emphasis",
+          "interpretation": "原页建议正文不超过四行，强调语可使用斜体与强调色。字号遵循当前已确认的正文规则。"
+        },
+        {
+          "type": "灰色",
+          "source_summary": "Results: No min, 2 max. Remember to remove unused tables. Numeral: 8 characters max / Description: Two lines of copy maximum",
+          "interpretation": "原页建议最多两个结果指标、数字最多八个字符、说明最多两行，未用表格应移除。"
+        },
+        {
+          "type": "灰色",
+          "source_summary": "Use an all-white SVG version or png with a transparent background.",
+          "interpretation": "深色案例模块上的标志建议使用白色 SVG 或透明背景 PNG。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE": 2,
+        "TEXT_BOX": 4,
+        "TEXT_CONTENT": 5,
+        "TABLE": 2,
+        "GROUP": 4,
+        "LINE": 5
+      }
+    },
+    {
+      "id": "SL-121",
+      "page": 121,
+      "category": "案例与结果",
+      "title": "全背景单页案例",
+      "composition": "满版图片与左侧标题、摘要和指标",
+      "scenarios": [
+        "单页案例",
+        "视觉主导案例"
+      ],
+      "application": "使用真实授权素材和结果",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "1 Slide Simple / Full Background Image",
+          "interpretation": "单页精简案例，使用全背景图片。"
+        }
+      ],
+      "source_layout": "Statement Slide - Dark Image",
+      "source_object_counts": {
+        "PICTURE": 2,
+        "TEXT_BOX": 4,
+        "TEXT_CONTENT": 4,
+        "TABLE": 2,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-122",
+      "page": 122,
+      "category": "案例与结果",
+      "title": "带截图的精简单页案例",
+      "composition": "左侧标题、摘要、指标，右侧截图",
+      "scenarios": [
+        "单页案例",
+        "产品成果展示"
+      ],
+      "application": "原说明建议最多2–3张截图",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "1 Slide Simple / With screenshots",
+          "interpretation": "单页精简案例，使用截图。"
+        },
+        {
+          "type": "绿色",
+          "source_summary": "Max of 2-3 screenshots. If more are required use one of the additional slide options. Reference the full Case Study Layout Guide.",
+          "interpretation": "原页建议最多使用 2–3 张截图，更多截图可使用附加页面。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "TEXT_BOX": 7,
+        "TEXT_CONTENT": 7,
+        "TABLE": 2,
+        "AUTO_SHAPE": 5
+      }
+    },
+    {
+      "id": "SL-123",
+      "page": 123,
+      "category": "案例与结果",
+      "title": "带裁切图片的详细案例",
+      "composition": "左侧挑战、方案与结果，右侧竖幅图片",
+      "scenarios": [
+        "详细案例",
+        "挑战与解决方案"
+      ],
+      "application": "更换图片，核实结果",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "1 Slide Detailed / With a cropped Image",
+          "interpretation": "单页详细案例，使用裁切图片。"
+        },
+        {
+          "type": "灰色",
+          "source_summary": "REPLACE IMAGE",
+          "interpretation": "替换示例图片。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE": 1,
+        "TEXT_BOX": 6,
+        "TEXT_CONTENT": 9,
+        "AUTO_SHAPE": 5,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-124",
+      "page": 124,
+      "category": "案例与结果",
+      "title": "带截图的详细案例",
+      "composition": "左侧挑战、方案与结果，右侧叠放截图",
+      "scenarios": [
+        "详细案例",
+        "解决方案成果"
+      ],
+      "application": "原说明建议最多2–3张截图",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "1 Slide Detailed / With screenshots",
+          "interpretation": "单页详细案例，使用截图。"
+        },
+        {
+          "type": "绿色",
+          "source_summary": "Max of 2-3 screenshots. If more are required use one of the additional slide options. Reference the full Case Study Layout Guide.",
+          "interpretation": "原页建议最多使用 2–3 张截图，更多截图可使用附加页面。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "TEXT_BOX": 7,
+        "TEXT_CONTENT": 9,
+        "AUTO_SHAPE": 7,
+        "TABLE": 2
+      }
+    },
+    {
+      "id": "SL-125",
+      "page": 125,
+      "category": "章节过渡",
+      "title": "下一步章节页",
+      "composition": "黑底标题",
+      "scenarios": [
+        "后续工作章节"
+      ],
+      "application": "作为章节分隔",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER": 1,
+        "TEXT_CONTENT": 1
+      }
+    },
+    {
+      "id": "SL-126",
+      "page": 126,
+      "category": "后续步骤",
+      "title": "当前与下一阶段",
+      "composition": "左侧标题，右侧并列今天和下一阶段卡片",
+      "scenarios": [
+        "会议收尾",
+        "下一阶段安排"
+      ],
+      "application": "填写真实负责人和工作",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TEXT_BOX": 3,
+        "TEXT_CONTENT": 5,
+        "LINE": 1,
+        "AUTO_SHAPE": 4
+      }
+    },
+    {
+      "id": "SL-127",
+      "page": 127,
+      "category": "后续步骤",
+      "title": "下一步横向节点",
+      "composition": "左侧背景说明，右侧按时间排列节点",
+      "scenarios": [
+        "下一步计划",
+        "项目启动"
+      ],
+      "application": "使用真实日期和活动",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 17,
+        "LINE": 3,
+        "GROUP": 6,
+        "TEXT_CONTENT": 12,
+        "TEXT_BOX": 3,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-128",
+      "page": 128,
+      "category": "后续步骤",
+      "title": "项目进度与决策点",
+      "composition": "左侧项目状态，右侧时间节点和决策区",
+      "scenarios": [
+        "项目状态",
+        "决策节点"
+      ],
+      "application": "使用经确认的状态和决策",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 16,
+        "TEXT_BOX": 4,
+        "TEXT_CONTENT": 13,
+        "LINE": 2,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-129",
+      "page": 129,
+      "category": "结束页",
+      "title": "黑底中央 M 结束页",
+      "composition": "黑色背景、中央 M 及底部版权",
+      "scenarios": [
+        "正式结束页"
+      ],
+      "application": "保留模板版权，主体默认不加文字",
+      "source_notes": [],
+      "source_layout": "Closing",
+      "source_object_counts": {}
+    },
+    {
+      "id": "SL-130",
+      "page": 130,
+      "category": "结束页",
+      "title": "左右分栏图片结束页一",
+      "composition": "左侧黑底，右侧照片",
+      "scenarios": [
+        "结束页",
+        "封面呼应"
+      ],
+      "application": "移除主体 Thank You，按需匹配封面图片",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Image matches the cover",
+          "interpretation": "示例建议结束页图片与封面一致。"
+        }
+      ],
+      "source_layout": "Title Page + Image",
+      "source_object_counts": {
+        "PLACEHOLDER": 2,
+        "FREEFORM": 1,
+        "TEXT_CONTENT": 2,
+        "AUTO_SHAPE": 1,
+        "PICTURE": 1
+      }
+    },
+    {
+      "id": "SL-131",
+      "page": 131,
+      "category": "结束页",
+      "title": "左右分栏图片结束页二",
+      "composition": "左侧黑底，右侧照片",
+      "scenarios": [
+        "结束页",
+        "封面呼应"
+      ],
+      "application": "移除主体 Thank You，按需匹配封面图片",
+      "source_notes": [
+        {
+          "type": "绿色",
+          "source_summary": "Image matches the cover",
+          "interpretation": "示例建议结束页图片与封面一致。"
+        }
+      ],
+      "source_layout": "Title Page + Image",
+      "source_object_counts": {
+        "FREEFORM": 1,
+        "PICTURE": 1,
+        "PLACEHOLDER": 2,
+        "TEXT_CONTENT": 2,
+        "AUTO_SHAPE": 1
+      }
+    },
+    {
+      "id": "SL-132",
+      "page": 132,
+      "category": "方法与流程",
+      "title": "四阶段体验设计流程",
+      "composition": "左侧简介，右侧从发散收敛到冲刺、发布和规模化",
+      "scenarios": [
+        "设计交付方法",
+        "阶段流程"
+      ],
+      "application": "按项目实际阶段和时长改写",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 26,
+        "GROUP": 7,
+        "TEXT_CONTENT": 24,
+        "TEXT_BOX": 18,
+        "LINE": 15,
+        "PICTURE": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-133",
+      "page": 133,
+      "category": "方法与流程",
+      "title": "评估、构想、演进",
+      "composition": "左侧服务设计说明，右侧发散收敛与持续演进",
+      "scenarios": [
+        "服务设计",
+        "探索与收敛"
+      ],
+      "application": "按实际活动替换阶段与持续时间",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 9,
+        "LINE": 9,
+        "TEXT_BOX": 13,
+        "TEXT_CONTENT": 13,
+        "GROUP": 3,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-134",
+      "page": 134,
+      "category": "方法与流程",
+      "title": "社交内容循环",
+      "composition": "左侧方法说明，右侧简报、创建、审核、发布与衡量循环",
+      "scenarios": [
+        "内容运营",
+        "持续优化"
+      ],
+      "application": "展示实际反馈闭环",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 25,
+        "TEXT_BOX": 12,
+        "TEXT_CONTENT": 22,
+        "GROUP": 3,
+        "LINE": 7,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-135",
+      "page": 135,
+      "category": "方法与流程",
+      "title": "内容与媒介并行规划",
+      "composition": "左侧方法说明，右侧策略后内容、媒介并行阶段",
+      "scenarios": [
+        "营销活动",
+        "跨团队规划"
+      ],
+      "application": "保持真实并行关系与阶段门",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 23,
+        "TEXT_BOX": 18,
+        "TEXT_CONTENT": 23,
+        "LINE": 18,
+        "GROUP": 4,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-136",
+      "page": 136,
+      "category": "方法与流程",
+      "title": "CRM 消息迭代循环",
+      "composition": "左侧方法说明，右侧策略与消息计划、部署、衡量循环",
+      "scenarios": [
+        "CRM",
+        "消息运营",
+        "测试优化"
+      ],
+      "application": "根据真实流程调整循环",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 24,
+        "TEXT_BOX": 13,
+        "TEXT_CONTENT": 19,
+        "LINE": 6,
+        "GROUP": 2,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-137",
+      "page": 137,
+      "category": "方法与流程",
+      "title": "三阶段产品服务创新",
+      "composition": "左侧简介，右侧试验、试点、规模化和循环节点",
+      "scenarios": [
+        "产品创新",
+        "服务创新",
+        "试点"
+      ],
+      "application": "区分实际阶段与预期",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 32,
+        "TEXT_CONTENT": 26,
+        "TEXT_BOX": 16,
+        "PICTURE": 1,
+        "LINE": 5,
+        "GROUP": 1,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-138",
+      "page": 138,
+      "category": "方法与流程",
+      "title": "创新团队多周期排期",
+      "composition": "左侧标题，右侧阶段、连续周期和团队泳道",
+      "scenarios": [
+        "创新计划",
+        "并行团队排期"
+      ],
+      "application": "按真实周期与团队分工填写",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE": 17,
+        "LINE": 12,
+        "TEXT_BOX": 10,
+        "TEXT_CONTENT": 13,
+        "PICTURE": 1,
+        "GROUP": 2,
+        "FREEFORM": 2
+      }
+    },
+    {
+      "id": "SL-139",
+      "page": 139,
+      "category": "方法与流程",
+      "title": "设计执行与交付流程",
+      "composition": "左侧简介，右侧启动、开发冲刺和规模化阶段",
+      "scenarios": [
+        "设计交付",
+        "敏捷项目"
+      ],
+      "application": "以真实阶段和节奏调整",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE": 25,
+        "GROUP": 8,
+        "TEXT_CONTENT": 21,
+        "TEXT_BOX": 18,
+        "LINE": 7,
+        "PICTURE": 1,
+        "FREEFORM": 2
+      }
+    }
+  ]
+}

@@ -15,6 +15,17 @@ Merkle PPT Skill 帮助 Codex 根据 Merkle 的模板和版式参考，制作、
 
 Skill 会根据内容选择合适的版式。已有的客户模板和当前任务要求优先。
 
+### 四个参考库
+
+| 参考库 | GitHub 在线查阅 | 交互式离线版本 | 原始资料 |
+| --- | --- | --- | --- |
+| ICON Library | [图标目录及预览](libraries/icon-library.md) | [下载 HTML](libraries/icon-offline.html) | [ICON PPT](merkle-ppt/assets/Merkle_icon.pptx) |
+| Slide Library | [页面版式及预览](libraries/slide-library.md) | [下载 HTML](libraries/slide-offline.html) | [Slide PPT](merkle-ppt/assets/Slide%20Library%20for%20ai.pptx) |
+| Case Library | [案例版式及预览](libraries/case-library.md) | [下载 HTML](libraries/case-offline.html) | [Case PPT](merkle-ppt/assets/case%20library%20-%20Case%20Study%20Layout%20Types.pptx) |
+| Diagram Library | [图形与架构及预览](libraries/diagram-library.md) | [下载 HTML](libraries/diagram-offline.html) | [Diagram PPT](merkle-ppt/assets/Diagram%20library%20-%20Diagram%20Elements.pptx) |
+
+离线 HTML 请先在 GitHub 文件页面选择下载，再用浏览器打开；GitHub 页面不会直接运行其搜索功能。[Slide](libraries/slide-object-styles.csv)、[Case](libraries/case-object-styles.csv) 和 [Diagram](libraries/diagram-object-styles.csv) 的对象样式索引也可查阅；详细原始样式记录见 [说明](merkle-ppt/references/source-object-styles.md)。源案例中的客户、数据和素材仅供参考。ICON 优先使用原始 PPT 图形或经核对完全一致的版本。
+
 ### 安装
 
 本仓库为私有仓库。使用前请确保已接受仓库邀请，并在 Codex 所在环境配置有权访问该仓库的 GitHub 凭据。
@@ -68,6 +79,17 @@ Merkle PPT Skill helps Codex create, edit and review editable PowerPoint present
 
 Codex selects layouts to suit the content. The current task and any supplied client template take priority.
 
+### Reference libraries
+
+| Library | Browse on GitHub | Offline interactive version | Source |
+| --- | --- | --- | --- |
+| ICON | [Icon catalog and previews](libraries/icon-library.md) | [Download HTML](libraries/icon-offline.html) | [ICON PPT](merkle-ppt/assets/Merkle_icon.pptx) |
+| Slide | [Slide layouts and previews](libraries/slide-library.md) | [Download HTML](libraries/slide-offline.html) | [Slide PPT](merkle-ppt/assets/Slide%20Library%20for%20ai.pptx) |
+| Case | [Case layouts and previews](libraries/case-library.md) | [Download HTML](libraries/case-offline.html) | [Case PPT](merkle-ppt/assets/case%20library%20-%20Case%20Study%20Layout%20Types.pptx) |
+| Diagram | [Diagrams and previews](libraries/diagram-library.md) | [Download HTML](libraries/diagram-offline.html) | [Diagram PPT](merkle-ppt/assets/Diagram%20library%20-%20Diagram%20Elements.pptx) |
+
+Download the HTML file from GitHub and open it locally for interactive search; GitHub does not run it in the file view. Object-level style indexes for [Slide](libraries/slide-object-styles.csv), [Case](libraries/case-object-styles.csv) and [Diagram](libraries/diagram-object-styles.csv) are available with the [style reference guide](merkle-ppt/references/source-object-styles.md). Source clients, data and materials are examples, not evidence for a new project. Use the source ICON artwork or a verified visually identical version.
+
 ### Installation
 
 This repository is private. Before installation, accept the repository invitation and configure GitHub credentials with read access in the environment where Codex runs.
@@ -114,3 +136,4 @@ If the repository cannot be accessed, confirm that you accepted the GitHub invit
 - [Skill instructions](merkle-ppt/SKILL.md)
 - [Official layout guide](merkle-ppt/references/official-layouts.md)
 - [Content-page references](merkle-ppt/references/user-curated-layouts.md)
+

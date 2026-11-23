@@ -1,0 +1,140 @@
+﻿id,page,category,title,composition,scenarios,application,source_notes,source_layout,source_object_counts
+SL-001,1,导航与规范,版式库总览,标题与多个页面缩略示例,快速浏览版式方向,作为索引页使用，按后续章节选择具体版式,,仅标题,PICTURE: 6; PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-002,2,导航与规范,视觉规范示意,颜色、线条、形状、文字层级及浅灰黑背景上的示例,查看颜色和版式组件,结合当前用户确认的字体、字号和页脚规则,,仅标题,AUTO_SHAPE: 59; FREEFORM: 2; GROUP: 5; LINE: 10; PICTURE: 2; PLACEHOLDER: 1; TEXT_BOX: 24; TEXT_CONTENT: 35
+SL-003,3,封面,黑底棱镜封面一,左侧标题、副标题、日期，右下蓝黑棱镜,方案封面; 项目汇报,替换标题和日期，保留留白,,Title Page - Texture,PLACEHOLDER: 3; TEXT_CONTENT: 3
+SL-004,4,封面,黑底棱镜封面二,左侧标题、副标题、日期，右侧竖向棱镜,正式方案封面; 章节入口,按标题长度控制换行,,Title Page - Texture 2,PLACEHOLDER: 3; TEXT_CONTENT: 3
+SL-005,5,封面,会议照片全幅封面,满版人物照片与左侧标题、副标题、日期,客户提案; 项目介绍,按项目替换背景图并检查文字对比度,绿色：示例图片需要根据具体项目更换。,Title Page - Full Bleed Image,AUTO_SHAPE: 2; PICTURE: 1; PLACEHOLDER: 4; TEXT_CONTENT: 4
+SL-006,6,封面,团队会议全幅封面,满版会议场景与左侧标题、副标题、日期,协作项目; 工作坊方案,按项目替换照片，注意文字与背景的对比,绿色：示例图片需要根据具体项目更换。,Title Page - Full Bleed Image,AUTO_SHAPE: 2; PICTURE: 1; PLACEHOLDER: 4; TEXT_CONTENT: 4
+SL-007,7,封面,人物全幅封面,满版人物照片与左侧标题、副标题、日期,客户体验; 服务主题封面,按项目替换照片并保留可读空间,绿色：示例图片需要根据具体项目更换。,Title Page - Full Bleed Image,AUTO_SHAPE: 2; PICTURE: 2; PLACEHOLDER: 3; TEXT_CONTENT: 4
+SL-008,8,封面,左黑右图封面,左侧黑底标题，右侧可替换人物照片,客户方案; 品牌介绍,替换图片并使用 Merkle 标志,绿色：该封面示例仅使用 Merkle 标志，按需要替换图片。,Title Page + Image,AUTO_SHAPE: 1; FREEFORM: 1; PICTURE: 1; PLACEHOLDER: 4; TEXT_CONTENT: 4
+SL-009,9,封面,双品牌左黑右图封面,左侧标题、右侧照片，底部并列 Merkle 与客户标志,联合方案; 客户提案,按实际客户替换图片和客户标志,绿色：这是包含客户标志的图片封面示例，按需要替换图片和客户标志。,Title Page + Image 2,AUTO_SHAPE: 2; GROUP: 2; LINE: 3; PICTURE: 2; PLACEHOLDER: 4; TEXT_BOX: 1; TEXT_CONTENT: 5
+SL-010,10,议程,黑底棱镜短议程,左侧章节与页码，右侧大幅棱镜,短议程; 章节导航,按实际章节与页码填写,,Agenda - Texture,PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 1
+SL-011,11,议程,黑底棱镜长议程,左侧多行章节，右侧棱镜背景,多章节议程,保持章节层级和行距,,Agenda - Texture,PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 1
+SL-012,12,议程,黑底配右侧图片议程,左侧深色议程，右侧图片区域,图文议程; 品牌演示,替换右侧图片并填写章节,,Agenda Slide - Image Dark,PLACEHOLDER: 2; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 1
+SL-013,13,议程,浅色短议程一,左侧四项带页码，右侧浅灰图片区,短议程; 会议结构,按需替换右侧图案,,Agenda Slide 1,PLACEHOLDER: 2; TABLE: 2; TEXT_BOX: 2; TEXT_CONTENT: 3
+SL-014,14,议程,浅色多项议程,左侧多项紧凑列表，右侧浅灰图片区,较多章节; 快速目录,控制列表密度,,Agenda Slide 1,PLACEHOLDER: 2; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 1
+SL-015,15,议程,带子章节议程,章节主项、缩进子项与页码，右侧浅灰图片区,复杂议程; 长文档导航,保持主次层级,,Agenda Slide 1,PLACEHOLDER: 2; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 1
+SL-016,16,议程,浅色短议程二,左侧章节与页码列表，右侧浅灰图片区,短议程; 会议导航,依据实际章节调整行数,,Agenda Slide - Image Light,PLACEHOLDER: 2; TABLE: 2; TEXT_CONTENT: 1
+SL-017,17,团队与组织,议程与团队简介并列,左侧议程，右侧多名团队成员及简介,会议议程; 团队介绍,为每名成员填写姓名和职务,绿色：适合将议程与团队简介放在同一页。,Agenda Slide - Team,AUTO_SHAPE: 2; PLACEHOLDER: 10; TABLE: 2; TEXT_BOX: 10; TEXT_CONTENT: 13
+SL-018,18,团队与组织,少量成员头像展示,左侧团队标题，右侧头像、姓名与职务网格,团队介绍; 核心成员,适用于头像人数较少的情况，按原说明可能需要设计支持,绿色：适合仅有少数团队头像的情况。 | 灰色：原页在画布上方另有一条建议寻求设计支持的说明。,Statement Slide - Light Image,AUTO_SHAPE: 8; PICTURE: 11; PLACEHOLDER: 1; TEXT_BOX: 12; TEXT_CONTENT: 15
+SL-019,19,议程,短议程与封面同图,左侧短议程，右侧照片,简短议程; 封面视觉延续,原说明建议沿用封面图片,绿色：适合短议程，示例建议与封面使用相同图片。,Agenda Slide 1,AUTO_SHAPE: 1; FREEFORM: 1; GROUP: 1; PICTURE: 1; PLACEHOLDER: 2; TABLE: 2; TEXT_CONTENT: 2
+SL-020,20,结束页,左右分栏图片结束页,左侧黑底，右侧图片,演示结束; 封面视觉呼应,默认去除页面主体文字并保留模板版权,绿色：示例建议结束页图片与封面一致。,Title Page + Image,AUTO_SHAPE: 1; FREEFORM: 1; GROUP: 1; PICTURE: 1; PLACEHOLDER: 2; TEXT_CONTENT: 2
+SL-021,21,章节过渡,黑底章节分隔,深色背景与大标题,章节切换; 主题过渡,按章节替换标题,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-022,22,章节过渡,带子章节导航的分隔页,章节名、标题及子章节列表,长文档; RFP章节切换,将当前子章节加粗，其他弱化,绿色：适用于长文档或 RFP 的子章节分隔页，加粗即将开始的子章节。,Divider Slide 1,AUTO_SHAPE: 2; PLACEHOLDER: 1; TEXT_BOX: 2; TEXT_CONTENT: 5
+SL-023,23,章节过渡,黑色留白分隔页,黑色背景与页脚,视觉过渡; 章节留白,按实际需要添加标题或保留留白,,"Divider Slide + EYEBROW, Dark",PLACEHOLDER: 2
+SL-024,24,章节过渡,黑底棱镜分隔页,深色章节标题与右侧蓝黑棱镜,章节切换; 方案分段,保持文字与图案的对比,,"Divider Slide - Texture, Dark",PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-025,25,章节过渡,内容版式章节页,深色背景与内容版式标题,内容版式章节导航,作为章节页使用,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-026,26,正文布局,标题与单栏正文,页首标题，下方子标题、段落与多级列表,背景说明; 概念解释,按内容重组正文层级并保留自然换行,,Title & Body,PLACEHOLDER: 2; TEXT_CONTENT: 2
+SL-027,27,正文布局,带眉题的单栏正文,眉题、标题与单栏段落、列表,主题背景; 结构化说明,替换眉题并组织正文层级,,Title & Body + EYEBROW,PLACEHOLDER: 3; TEXT_CONTENT: 3
+SL-028,28,正文布局,三栏并列文本,标题与辅助说明，下方三个平行栏,三项能力; 三类观点; 比较,保持列间对齐，控制字数,,Title & Body 3 Column,PLACEHOLDER: 4; TEXT_BOX: 1; TEXT_CONTENT: 5
+SL-029,29,正文布局,两栏并列文本,标题与辅助说明，下方两栏,双方案比较; 两类观点,平衡两栏内容量,,Title & Body 2 Column,PLACEHOLDER: 3; TEXT_BOX: 1; TEXT_CONTENT: 4
+SL-030,30,正文布局,仅标题内容页,左上标题与大面积空白正文区,自由图表; 图文组合,以母版边距为基础自由组织,,仅标题,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-031,31,正文布局,推荐方案与右侧图片,左侧按方法、原因、结果分段，右侧带文字的图片,方案说明; 建议摘要,替换照片和说明，保留必要对比,,Title & Body,AUTO_SHAPE: 1; PICTURE: 1; PLACEHOLDER: 1; TEXT_BOX: 3; TEXT_CONTENT: 4
+SL-032,32,正文布局,四栏密集正文,标题、辅助行和四个等宽文字栏,多维内容; 信息密集型比较,优先控制每栏内容并保证留白,,Title & Body,PLACEHOLDER: 1; TEXT_BOX: 5; TEXT_CONTENT: 6
+SL-033,33,正文布局,四栏与浅灰侧栏,四栏正文，右侧为浅色侧区,多主题解读; 要点与辅助信息,根据内容调整侧栏信息,,Title & Body,AUTO_SHAPE: 1; PLACEHOLDER: 1; TEXT_BOX: 5; TEXT_CONTENT: 6
+SL-034,34,正文布局,四栏与灰色强调侧栏,四栏文本，末栏放在较深灰色侧区,多维比较; 突出最后一项,让侧栏承担有意义的重点,,Title & Body,AUTO_SHAPE: 1; PLACEHOLDER: 1; TEXT_BOX: 5; TEXT_CONTENT: 6
+SL-035,35,正文布局,双卡片内容对照,两张白色卡片，黑色卡头和分层正文,双方案; 两个模块,标题和正文按需替换,,Title & Body,AUTO_SHAPE: 4; PLACEHOLDER: 1; TEXT_BOX: 3; TEXT_CONTENT: 6
+SL-036,36,正文布局,三卡片并列,三张白卡及黑色卡头，每卡含分层正文,三项服务; 三类能力,保持卡片等高与文字对齐,,Title & Body,AUTO_SHAPE: 6; PLACEHOLDER: 1; TEXT_BOX: 4; TEXT_CONTENT: 8
+SL-037,37,正文布局,四卡片并列,四张白卡及黑色卡头,四个主题; 四个模块对照,控制每卡信息密度,,Title & Body,AUTO_SHAPE: 8; PLACEHOLDER: 1; TEXT_BOX: 5; TEXT_CONTENT: 10
+SL-038,38,正文布局,右侧集中四卡片,左侧保留空白，四张窄卡从中部向右排列,左侧摘要加四项明细; 紧凑模块,按内容利用左侧空间并检查可读性,,Title & Body,AUTO_SHAPE: 8; PLACEHOLDER: 1; TEXT_BOX: 5; TEXT_CONTENT: 10
+SL-039,39,正文布局,四步骤文字卡片,四个带步骤标签的白色卡片，附段落和项目符号,流程分步; 四阶段交付,步骤序列需符合实际业务,,Title & Body,AUTO_SHAPE: 4; LINE: 4; PLACEHOLDER: 1; TEXT_BOX: 9; TEXT_CONTENT: 10
+SL-040,40,正文布局,四图片卡片,四列图片卡头与文本说明,四项能力; 四类方案; 阶段概览,更换图片并保持图文关系,,Title & Body,AUTO_SHAPE: 8; PICTURE: 4; PLACEHOLDER: 1; TEXT_BOX: 9; TEXT_CONTENT: 10
+SL-041,41,章节过渡,方法与流程章节页,深色背景与章节标题,方法论章节,用作章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-042,42,观点表达,黑底中心定位陈述,中心大标题、简短分类与说明文字,核心受众; 定位陈述,以真实受众和描述替换示例,,Statement Slide 1,LINE: 1; TEXT_BOX: 1; TEXT_CONTENT: 1
+SL-043,43,观点表达,白底中心定位陈述,居中大标题、分类及简短说明,核心观点; 受众定位,按需求保留简洁文字,,Title & Body,LINE: 1; TEXT_BOX: 1; TEXT_CONTENT: 1
+SL-044,44,分析与评估,五级成熟度矩阵,五个成熟度阶段横列，多个评估维度纵列,成熟度诊断; 能力评估,依据实际评价标准填充,,Title & Body + EYEBROW,AUTO_SHAPE: 21; FREEFORM: 5; GROUP: 3; PICTURE: 4; PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 6; TEXT_CONTENT: 19
+SL-045,45,分析与评估,多方案生态比较矩阵,左侧结论，右侧方案列与关注点、局限、价值行,平台比较; 能力对照; 市场生态,替换历史品牌和判断,,Title & Body,AUTO_SHAPE: 10; FREEFORM: 2; GROUP: 1; LINE: 4; PICTURE: 14; PLACEHOLDER: 1; TEXT_BOX: 9; TEXT_CONTENT: 17
+SL-046,46,案例与结果,三案例结果对比,三张案例卡，包含图片、挑战、方案和指标,案例集锦; 结果比较,使用已核实的客户授权及数据,,自定义版式,AUTO_SHAPE: 8; LINE: 2; PICTURE: 6; TEXT_BOX: 13; TEXT_CONTENT: 15
+SL-047,47,章节过渡,Why Merkle 章节页,黑底大标题,公司能力章节,按实际章节标题替换,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-048,48,能力与资质,能力宣言与证据网格,左侧公司定位，右侧指标，下方品牌标志,公司介绍; 能力与业绩,只使用已确认且可披露的数字和标志,,自定义版式,AUTO_SHAPE: 16; LINE: 2; PICTURE: 35; TEXT_BOX: 8; TEXT_CONTENT: 22
+SL-049,49,能力与资质,业绩指标与交付展示,左侧多项指标，右侧示意图与案例摘要,成果概览; 品牌业绩,以可验证的项目数据替换示例,,Title & Body,AUTO_SHAPE: 2; GROUP: 1; LINE: 6; PICTURE: 12; PLACEHOLDER: 1; TEXT_BOX: 7; TEXT_CONTENT: 8
+SL-050,50,目标与需求,目标列表与场景图片,左侧目标要点，右侧大图,会议目标; 项目目标,替换图片和目标,,自定义版式,AUTO_SHAPE: 1; FREEFORM: 1; TEXT_BOX: 2; TEXT_CONTENT: 3
+SL-051,51,目标与需求,听取反馈四卡片,左侧大标题，右侧四张文本卡,客户反馈; 需求归纳,用实际反馈替换占位内容,,Title & Body,AUTO_SHAPE: 13; TEXT_BOX: 6; TEXT_CONTENT: 10
+SL-052,52,目标与需求,会议目标与双方分工,左侧目标列表，右侧双方交付与配合表,工作坊目标; 双方责任,仅填实际约定的责任,,自定义版式,AUTO_SHAPE: 2; FREEFORM: 2; GROUP: 1; TABLE: 2; TEXT_BOX: 2; TEXT_CONTENT: 3
+SL-053,53,目标与需求,客户需求与方案回应,左右两块，对应客户诉求与回应,需求回应; 方案开场,按客户内容定制信息设计,灰色：这是客户需求与方案回应的第一种选项，图片为占位，信息设计应按客户定制。,自定义版式,AUTO_SHAPE: 1; FREEFORM: 1; TEXT_BOX: 6; TEXT_CONTENT: 6
+SL-054,54,目标与需求,需求回应与图片,左右需求回应结构，左侧加入图片,问题与建议; 图文对照,根据具体客户替换图片,,自定义版式,FREEFORM: 1; PICTURE: 1; TEXT_BOX: 5; TEXT_CONTENT: 5
+SL-055,55,目标与需求,需求回应文字详版,白底需求与黑底回应两栏,客户诉求; 方案定位,用事实和建议分栏呈现,,自定义版式,FREEFORM: 1; TEXT_BOX: 5; TEXT_CONTENT: 5
+SL-056,56,目标与需求,客户目标与预期成果,左侧背景与需求，右侧预期成果分栏,需求理解; 成果对齐,替换历史客户语境并明确成果依据,,自定义版式,AUTO_SHAPE: 2; FREEFORM: 1; LINE: 4; TEXT_BOX: 7; TEXT_CONTENT: 9
+SL-057,57,目标与需求,需求与方案详细列表,左侧客户诉求，右侧方案回应与列表,方案回应; 目标拆解,重写示例内容以匹配项目,,自定义版式,FREEFORM: 1; LINE: 9; TEXT_BOX: 14; TEXT_CONTENT: 14
+SL-058,58,目标与需求,客户总目标与四项重点,背景图片，上层总目标、下层四项支柱,战略目标; 需求框架,按客户替换图片和目标,绿色：根据具体客户更换图片。,自定义版式,AUTO_SHAPE: 8; PICTURE: 1; TEXT_BOX: 9; TEXT_CONTENT: 9
+SL-059,59,目标与需求,背景图与三项关键目标,大背景图片，标题下排列三项目标,项目目标; 方向对齐,避免示例客户表述，确保文字可读,,Title & Body,AUTO_SHAPE: 2; FREEFORM: 2; GROUP: 1; LINE: 3; PICTURE: 1; TEXT_BOX: 8; TEXT_CONTENT: 8
+SL-060,60,团队与组织,议程与三人团队,左侧议程，右侧头像及职务,会议议程; 介绍参会成员,更新为实际参会人,,Agenda Slide 1,AUTO_SHAPE: 1; PICTURE: 4; PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 6; TEXT_CONTENT: 7
+SL-061,61,团队与组织,团队分组展示,左侧标题，右侧两组团队头像,较大团队; 跨团队协作,按照实际团队分组和成员替换,灰色：这是适合较大团队的团队页选项。,Title & Body,AUTO_SHAPE: 9; LINE: 2; PICTURE: 6; TEXT_BOX: 3; TEXT_CONTENT: 11
+SL-062,62,团队与组织,四名成员介绍卡,四张竖卡展示头像、姓名、职责,核心团队; 人员简介,简写职务和职责,,仅标题,AUTO_SHAPE: 16; LINE: 4; PICTURE: 4; PLACEHOLDER: 1; TEXT_CONTENT: 13
+SL-063,63,团队与组织,多职能团队清单,按职能分区展示多位成员与职位,跨职能团队; 责任分工,按组织结构增减分组,,Title & Body,AUTO_SHAPE: 22; LINE: 5; PICTURE: 13; PLACEHOLDER: 1; TEXT_BOX: 3; TEXT_CONTENT: 25
+SL-064,64,团队与组织,核心团队与扩展团队,按核心、扩展、赞助人分组展示,治理结构; 团队组成,根据实际关系组织人员,,Title & Body,AUTO_SHAPE: 16; LINE: 3; PICTURE: 13; PLACEHOLDER: 1; TEXT_CONTENT: 17
+SL-065,65,团队与组织,双人详细简介,两栏头像、姓名、职位及履历,关键人物介绍; 领导简介,保持个人简介准确,,Title & Body + EYEBROW,AUTO_SHAPE: 6; LINE: 2; PICTURE: 2; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 10
+SL-066,66,团队与组织,三人详细简介,三栏人物头像与履历,管理团队; 专家介绍,适当控制履历长度,,Title & Body + EYEBROW,AUTO_SHAPE: 3; PICTURE: 3; PLACEHOLDER: 2; TEXT_BOX: 3; TEXT_CONTENT: 8
+SL-067,67,团队与组织,四人简介清单,两列多行头像与简介,团队背景; 专家名册,替换人物资料并检查字数,,Title & Body + EYEBROW,AUTO_SHAPE: 4; PICTURE: 4; PLACEHOLDER: 2; TEXT_BOX: 4; TEXT_CONTENT: 10
+SL-068,68,团队与组织,六人简介清单,两列多行，多个头像与简介,扩展专家团队; 人员简介,保持足够字号与行距,,Title & Body + EYEBROW,AUTO_SHAPE: 6; PICTURE: 6; PLACEHOLDER: 2; TEXT_BOX: 6; TEXT_CONTENT: 14
+SL-069,69,团队与组织,职能团队结构,三列业务职能卡，下方横向支持职能,职能分工; 团队能力,反映真实组织和职责,,仅标题,AUTO_SHAPE: 8; GROUP: 3; LINE: 5; PICTURE: 11; PLACEHOLDER: 1; TEXT_BOX: 19; TEXT_CONTENT: 22
+SL-070,70,团队与组织,层级组织图,上级节点与下级节点的树状关系,组织架构; 汇报关系,只绘制已确认的组织关系,,Title & Body,AUTO_SHAPE: 9; LINE: 11; PLACEHOLDER: 1; TEXT_BOX: 3; TEXT_CONTENT: 10
+SL-071,71,章节过渡,表格与汇报章节页,黑底大标题,数据汇报章节,作为章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-072,72,表格与汇报,问答表格,标题下两行问题与回答,RFP回应; 问答汇总,保持问题与回答清晰对应,,Title & Body + EYEBROW,PLACEHOLDER: 2; TABLE: 2; TEXT_CONTENT: 2
+SL-073,73,表格与汇报,基础数据表,多列标题与斑马纹行,数据明细; 指标表,替换列名、数值和单位,,Title & Body,PLACEHOLDER: 1; TABLE: 2; TEXT_CONTENT: 1
+SL-074,74,表格与汇报,层级指标表,黑色汇总行、灰色明细与多列比较,业绩汇总; 财务明细,按实际层级填充数值,,Title & Body,PLACEHOLDER: 1; TABLE: 2; TEXT_CONTENT: 1
+SL-075,75,表格与汇报,执行摘要与指标表,左侧密集绩效表，右侧摘要,管理层汇报; 结果与洞察,优先保留关键行和有依据的洞察,,Title & Body,AUTO_SHAPE: 14; GROUP: 1; LINE: 2; PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 2; TEXT_CONTENT: 4
+SL-076,76,案例与结果,活动总结与截图,左侧目标、受众、方案及指标，右侧叠放截图,营销活动复盘; 项目结果,用实际截图和核实指标替换,灰色：截图占位处建议使用格式刷复制阴影与圆角。,Title & Body,AUTO_SHAPE: 8; LINE: 5; PLACEHOLDER: 1; TEXT_BOX: 10; TEXT_CONTENT: 18
+SL-077,77,正文布局,右侧双摘要面板,大面积主体区，右侧上下两块短文字,主体内容加侧栏; 补充要点,右侧只保留两类相关信息,,Title & Body,AUTO_SHAPE: 2; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 3
+SL-078,78,正文布局,底部关键学习,上方大面积正文区，下方一条关键学习,图表加总结; 分析结论,用正文主体支撑底部结论,,Title & Body,AUTO_SHAPE: 1; PLACEHOLDER: 1; TEXT_BOX: 1; TEXT_CONTENT: 2
+SL-079,79,正文布局,顶部关键学习,上方关键学习，下方大面积主体区,结论先行; 分析图表,保持结论与正文证据一致,,Title & Body,AUTO_SHAPE: 1; PLACEHOLDER: 1; TEXT_BOX: 1; TEXT_CONTENT: 2
+SL-080,80,正文布局,双列顶部学习与主体,顶部双列要点，下方主体空间,两项核心结论; 对照分析,对齐两列并保留正文空间,,Title & Body,AUTO_SHAPE: 1; LINE: 1; PLACEHOLDER: 1; TEXT_BOX: 2; TEXT_CONTENT: 3
+SL-081,81,正文布局,三列顶部学习与主体,顶部三列要点，下方主体空间,三项发现; 三维对比,按内容调整列宽,,Title & Body,AUTO_SHAPE: 1; LINE: 2; PLACEHOLDER: 1; TEXT_BOX: 4; TEXT_CONTENT: 5
+SL-082,82,章节过渡,报价章节页,黑底报价标题,商务报价章节,作为章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-083,83,报价与范围,分项报价清单,按设置费、持续服务和总额分区,分项报价; 费用说明,仅填已确认金额和范围,,Title & Body,PLACEHOLDER: 1; TABLE: 2; TEXT_CONTENT: 1
+SL-084,84,报价与范围,五张指标和报价卡,五张黑色标题卡，突出金额、周期或其他数值,方案关键数字; 商业摘要,使用真实数值并解释单位,,仅标题,AUTO_SHAPE: 12; PLACEHOLDER: 1; TEXT_BOX: 5; TEXT_CONTENT: 12
+SL-085,85,报价与范围,三方案勾选对照,功能行、三列方案及预算行,报价档位; 功能范围对比,明确每列方案和价格,,仅标题,AUTO_SHAPE: 16; FREEFORM: 16; GROUP: 16; PLACEHOLDER: 1; TABLE: 2; TEXT_CONTENT: 1
+SL-086,86,报价与范围,三档服务范围比较表,三种档位与发现、参与、交付、周期等行,服务套餐; 合作模式对照,填写真实交付、周期、费用,,仅标题,PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 2
+SL-087,87,报价与范围,按阶段范围与报价表,阶段、周期、范围、资源、会议、交付列,项目范围; 工作说明; 报价,逐项写清项目范围与金额,,仅标题,PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 2
+SL-088,88,章节过渡,时间轴与阶段章节页,黑底章节标题,项目计划章节,作为章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-089,89,时间与阶段,年度活动日历,月份横轴、活动分行与跨期色条,年度计划; 渠道活动排期,按真实日期和持续时间调整,,Title & Body,PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 2; TEXT_CONTENT: 3
+SL-090,90,时间与阶段,六个月阶段日历表,月份横轴、阶段分行与每月任务,半年路线图; 阶段计划,保留月份与任务的对应关系,,Title & Body,PLACEHOLDER: 1; TABLE: 2; TEXT_CONTENT: 1
+SL-091,91,时间与阶段,四阶段文字说明,四个阶段横向排列，附周期和任务,阶段方法; 工作安排,阶段数量和时长按项目调整,,Title & Body + EYEBROW,AUTO_SHAPE: 14; LINE: 2; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 11
+SL-092,92,时间与阶段,时间轴与阶段摘要,上方跨期甘特与里程碑，下方阶段说明和商业信息框,项目计划; 交付阶段,按真实时间和范围重建,,Title & Body + EYEBROW,AUTO_SHAPE: 24; LINE: 1; PICTURE: 7; PLACEHOLDER: 2; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 21
+SL-093,93,时间与阶段,详细甘特计划,按周横轴、阶段任务行、条形与里程碑,项目排期; 阶段依赖,使用真实时点与持续时间,,仅标题,AUTO_SHAPE: 11; PICTURE: 11; PLACEHOLDER: 1; TABLE: 2; TEXT_CONTENT: 12
+SL-094,94,时间与阶段,阶段说明与产出,左侧当前阶段及导航，右侧活动与产出,单阶段工作说明; 活动与交付,正确标记当前阶段,,自定义版式,AUTO_SHAPE: 13; GROUP: 1; LINE: 2; TEXT_BOX: 3; TEXT_CONTENT: 11
+SL-095,95,时间与阶段,阶段说明与交付视觉,左侧阶段摘要，中间示意图，右侧产出,阶段成果; 交付说明,使用相关图像及准确产出,,自定义版式,AUTO_SHAPE: 12; GROUP: 3; LINE: 1; PICTURE: 4; TEXT_BOX: 3; TEXT_CONTENT: 9
+SL-096,96,章节过渡,示例交付物章节页,深色背景与章节标题,交付物章节,作为章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-097,97,交付物与工具,文字加叠放交付物截图,左侧方案与包含内容，右侧叠放截图,交付物预览; 服务介绍,替换所有示例图片与占位文字,占位提示：三张交付物示例图片需要替换。,Title & Body,AUTO_SHAPE: 10; FREEFORM: 2; GROUP: 1; PICTURE: 3; TEXT_BOX: 2; TEXT_CONTENT: 11
+SL-098,98,交付物与工具,带标签的交付物截图,左侧说明与包含内容，右侧三张截图及标签,多项交付; 成果预览,替换截图并让关键内容可读,占位提示：三张示例截图需要替换，旁边标签按内容填写。,Title & Body,AUTO_SHAPE: 12; FREEFORM: 2; GROUP: 1; PICTURE: 3; TEXT_BOX: 2; TEXT_CONTENT: 13
+SL-099,99,交付物与工具,工具说明与截图,左侧工具名称、价值和说明，右侧截图叠放,工具介绍; 能力演示,使用实际工具资料,,Title & Body,AUTO_SHAPE: 2; FREEFORM: 2; GROUP: 1; PICTURE: 3; TEXT_BOX: 3; TEXT_CONTENT: 4
+SL-100,100,章节过渡,市场扫描章节页,黑底章节标题,竞品与市场章节,作为章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-101,101,市场与竞品,市场扫描方法与品牌范围,目标、方法及分组品牌标志,竞品研究; 市场扫描方法,替换实际品牌与研究方法,,Title & Body + EYEBROW,AUTO_SHAPE: 14; LINE: 2; PLACEHOLDER: 2; TEXT_BOX: 5; TEXT_CONTENT: 18
+SL-102,102,市场与竞品,竞品权益矩阵,品牌横列，权益项目纵列与勾选,竞品功能对比; 权益扫描,核实各品牌项目和适用范围,,Title & Body + EYEBROW,AUTO_SHAPE: 10; PLACEHOLDER: 2; TABLE: 2; TEXT_BOX: 1; TEXT_CONTENT: 13
+SL-103,103,市场与竞品,竞品洞察与对比卡,左侧主要发现，右侧多品牌对比表,竞品结论; 市场机会,用证据支撑结论并更新品牌,,Title & Body + EYEBROW,AUTO_SHAPE: 6; LINE: 3; PLACEHOLDER: 2; TEXT_BOX: 14; TEXT_CONTENT: 21
+SL-104,104,市场与竞品,单一竞品项目拆解,项目规则、视觉截图和突出特点,竞品案例; 会员项目研究,使用准确来源和最新资料,,Title & Body + EYEBROW,AUTO_SHAPE: 2; GROUP: 1; LINE: 1; PICTURE: 3; PLACEHOLDER: 1; TEXT_BOX: 6; TEXT_CONTENT: 7
+SL-105,105,市场与竞品,多页面示例与说明,多张网站或界面截图横排，各附文字,竞品页面比较; 内容审核,替换为获准使用的截图,,Title & Body,AUTO_SHAPE: 1; PICTURE: 5; PLACEHOLDER: 1; TEXT_BOX: 5; TEXT_CONTENT: 6
+SL-106,106,市场与竞品,五品牌并列卡,五个品牌标志及说明卡,五方竞品比较; 供应商比较,统一比较维度,,Title & Body,AUTO_SHAPE: 11; LINE: 5; PLACEHOLDER: 1; TEXT_BOX: 10; TEXT_CONTENT: 16
+SL-107,107,市场与竞品,四品牌多维对比卡,四列品牌，各列分多个说明模块,竞品能力; 权益比较,按实际品牌和维度填充,,Title & Body,AUTO_SHAPE: 8; LINE: 2; PLACEHOLDER: 1; TEXT_BOX: 14; TEXT_CONTENT: 19
+SL-108,108,市场与竞品,三趋势图片卡,三张图片叠加趋势标题与简述,趋势概览; 三个洞察,以真实来源支撑趋势,,Title & Body,AUTO_SHAPE: 6; LINE: 3; PICTURE: 3; PLACEHOLDER: 1; TEXT_CONTENT: 4
+SL-109,109,市场与竞品,深色趋势详解,大背景图，上方主题说明，下方分两组内容,趋势解释; 人群需求,使用有依据的趋势信息,,Title & Body,AUTO_SHAPE: 3; FREEFORM: 2; GROUP: 1; LINE: 1; PICTURE: 1; PLACEHOLDER: 1; TEXT_BOX: 2; TEXT_CONTENT: 5
+SL-110,110,市场与竞品,趋势案例与结论一,左侧案例说明，中间产品图，右侧关键结论,市场趋势案例; 案例解读,替换案例、图片和出处,,Title & Body + EYEBROW,AUTO_SHAPE: 2; GROUP: 1; PICTURE: 1; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 4
+SL-111,111,市场与竞品,趋势案例与结论二,左侧案例说明，中间图片，右侧关键结论,产品案例; 会员案例,核查实际内容及出处,,Title & Body + EYEBROW,AUTO_SHAPE: 3; GROUP: 2; PICTURE: 3; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 5
+SL-112,112,市场与竞品,趋势案例与结论三,左侧案例和引述，中间照片，右侧结论,品牌案例; 社会趋势,引用可核实的材料,,Title & Body + EYEBROW,AUTO_SHAPE: 3; GROUP: 1; LINE: 1; PICTURE: 2; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 5
+SL-113,113,市场与竞品,趋势案例与结论四,左侧案例正文，中间手机截图，右侧结论,营销案例; 本地化实践,替换例子与截图并标注来源,,Title & Body + EYEBROW,AUTO_SHAPE: 3; GROUP: 2; LINE: 1; PICTURE: 3; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 5
+SL-114,114,问答与技术,长问题与三栏回答,上方问题带，下方三栏说明,RFP回应; 技术方案解答,控制段落长度，保证可读,,Title & Body + EYEBROW,AUTO_SHAPE: 1; PLACEHOLDER: 2; TEXT_BOX: 3; TEXT_CONTENT: 5
+SL-115,115,问答与技术,三张数据流截图,上方问题带，下方三张编号示意图,数据流说明; 多案例架构,图中细节可读，必要时拆页,,Title & Body + EYEBROW,AUTO_SHAPE: 7; PICTURE: 3; PLACEHOLDER: 2; TEXT_CONTENT: 5
+SL-116,116,问答与技术,用例说明与移动端示例,左侧人物和文字，中间手机示例，右侧工具与文案,AI用例; 内容生成演示,替换示例，视频链接按需验证,,Title & Body + EYEBROW,AUTO_SHAPE: 3; GROUP: 1; LINE: 1; MEDIA: 1; PICTURE: 4; PLACEHOLDER: 2; TEXT_BOX: 2; TEXT_CONTENT: 4
+SL-117,117,问答与技术,问题背景与双栏回应,上方问题带，背景说明，下方两栏要点,RFP答复; 挑战与回应,保持答复与问题对应,,Title & Body + EYEBROW,PLACEHOLDER: 1; TABLE: 2; TEXT_BOX: 3; TEXT_CONTENT: 4
+SL-118,118,章节过渡,单页案例章节页,黑底大标题,案例研究章节,作为章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-119,119,案例与结果,四案例并列,黑底四块案例摘要，每块含标志与两个指标,多案例概览; 客户案例合集,替换为真实授权案例和数据,绿色：每页展示四个案例摘要。,自定义版式,AUTO_SHAPE: 8; LINE: 2; TABLE: 8; TEXT_BOX: 5; TEXT_CONTENT: 9
+SL-120,120,案例与结果,单案例摘要组件,标志、短文及最多两个指标，带灰色说明文字,案例摘要; 复用案例模块,按原说明控制文字行数和指标字符长度,灰色：原页建议正文不超过四行，强调语可使用斜体与强调色。字号遵循当前已确认的正文规则。 | 灰色：原页建议最多两个结果指标、数字最多八个字符、说明最多两行，未用表格应移除。 | 灰色：深色案例模块上的标志建议使用白色 SVG 或透明背景 PNG。,自定义版式,AUTO_SHAPE: 2; GROUP: 4; LINE: 5; TABLE: 2; TEXT_BOX: 4; TEXT_CONTENT: 5
+SL-121,121,案例与结果,全背景单页案例,满版图片与左侧标题、摘要和指标,单页案例; 视觉主导案例,使用真实授权素材和结果,绿色：单页精简案例，使用全背景图片。,Statement Slide - Dark Image,FREEFORM: 2; GROUP: 1; PICTURE: 2; TABLE: 2; TEXT_BOX: 4; TEXT_CONTENT: 4
+SL-122,122,案例与结果,带截图的精简单页案例,左侧标题、摘要、指标，右侧截图,单页案例; 产品成果展示,原说明建议最多2–3张截图,绿色：单页精简案例，使用截图。 | 绿色：原页建议最多使用 2–3 张截图，更多截图可使用附加页面。,自定义版式,AUTO_SHAPE: 5; TABLE: 2; TEXT_BOX: 7; TEXT_CONTENT: 7
+SL-123,123,案例与结果,带裁切图片的详细案例,左侧挑战、方案与结果，右侧竖幅图片,详细案例; 挑战与解决方案,更换图片，核实结果,绿色：单页详细案例，使用裁切图片。 | 灰色：替换示例图片。,自定义版式,AUTO_SHAPE: 5; PICTURE: 1; TABLE: 2; TEXT_BOX: 6; TEXT_CONTENT: 9
+SL-124,124,案例与结果,带截图的详细案例,左侧挑战、方案与结果，右侧叠放截图,详细案例; 解决方案成果,原说明建议最多2–3张截图,绿色：单页详细案例，使用截图。 | 绿色：原页建议最多使用 2–3 张截图，更多截图可使用附加页面。,自定义版式,AUTO_SHAPE: 7; TABLE: 2; TEXT_BOX: 7; TEXT_CONTENT: 9
+SL-125,125,章节过渡,下一步章节页,黑底标题,后续工作章节,作为章节分隔,,Divider Slide 1,PLACEHOLDER: 1; TEXT_CONTENT: 1
+SL-126,126,后续步骤,当前与下一阶段,左侧标题，右侧并列今天和下一阶段卡片,会议收尾; 下一阶段安排,填写真实负责人和工作,,Title & Body,AUTO_SHAPE: 4; LINE: 1; TEXT_BOX: 3; TEXT_CONTENT: 5
+SL-127,127,后续步骤,下一步横向节点,左侧背景说明，右侧按时间排列节点,下一步计划; 项目启动,使用真实日期和活动,,Title & Body,AUTO_SHAPE: 17; FREEFORM: 2; GROUP: 6; LINE: 3; TEXT_BOX: 3; TEXT_CONTENT: 12
+SL-128,128,后续步骤,项目进度与决策点,左侧项目状态，右侧时间节点和决策区,项目状态; 决策节点,使用经确认的状态和决策,,Title & Body,AUTO_SHAPE: 16; FREEFORM: 2; GROUP: 1; LINE: 2; TEXT_BOX: 4; TEXT_CONTENT: 13
+SL-129,129,结束页,黑底中央 M 结束页,黑色背景、中央 M 及底部版权,正式结束页,保留模板版权，主体默认不加文字,,Closing,
+SL-130,130,结束页,左右分栏图片结束页一,左侧黑底，右侧照片,结束页; 封面呼应,移除主体 Thank You，按需匹配封面图片,绿色：示例建议结束页图片与封面一致。,Title Page + Image,AUTO_SHAPE: 1; FREEFORM: 1; PICTURE: 1; PLACEHOLDER: 2; TEXT_CONTENT: 2
+SL-131,131,结束页,左右分栏图片结束页二,左侧黑底，右侧照片,结束页; 封面呼应,移除主体 Thank You，按需匹配封面图片,绿色：示例建议结束页图片与封面一致。,Title Page + Image,AUTO_SHAPE: 1; FREEFORM: 1; PICTURE: 1; PLACEHOLDER: 2; TEXT_CONTENT: 2
+SL-132,132,方法与流程,四阶段体验设计流程,左侧简介，右侧从发散收敛到冲刺、发布和规模化,设计交付方法; 阶段流程,按项目实际阶段和时长改写,,Title & Body,AUTO_SHAPE: 26; FREEFORM: 2; GROUP: 7; LINE: 15; PICTURE: 1; TEXT_BOX: 18; TEXT_CONTENT: 24
+SL-133,133,方法与流程,评估、构想、演进,左侧服务设计说明，右侧发散收敛与持续演进,服务设计; 探索与收敛,按实际活动替换阶段与持续时间,,Title & Body,AUTO_SHAPE: 9; FREEFORM: 2; GROUP: 3; LINE: 9; TEXT_BOX: 13; TEXT_CONTENT: 13
+SL-134,134,方法与流程,社交内容循环,左侧方法说明，右侧简报、创建、审核、发布与衡量循环,内容运营; 持续优化,展示实际反馈闭环,,Title & Body,AUTO_SHAPE: 25; FREEFORM: 2; GROUP: 3; LINE: 7; TEXT_BOX: 12; TEXT_CONTENT: 22
+SL-135,135,方法与流程,内容与媒介并行规划,左侧方法说明，右侧策略后内容、媒介并行阶段,营销活动; 跨团队规划,保持真实并行关系与阶段门,,Title & Body,AUTO_SHAPE: 23; FREEFORM: 2; GROUP: 4; LINE: 18; TEXT_BOX: 18; TEXT_CONTENT: 23
+SL-136,136,方法与流程,CRM 消息迭代循环,左侧方法说明，右侧策略与消息计划、部署、衡量循环,CRM; 消息运营; 测试优化,根据真实流程调整循环,,Title & Body,AUTO_SHAPE: 24; FREEFORM: 2; GROUP: 2; LINE: 6; TEXT_BOX: 13; TEXT_CONTENT: 19
+SL-137,137,方法与流程,三阶段产品服务创新,左侧简介，右侧试验、试点、规模化和循环节点,产品创新; 服务创新; 试点,区分实际阶段与预期,,Title & Body,AUTO_SHAPE: 32; FREEFORM: 2; GROUP: 1; LINE: 5; PICTURE: 1; TEXT_BOX: 16; TEXT_CONTENT: 26
+SL-138,138,方法与流程,创新团队多周期排期,左侧标题，右侧阶段、连续周期和团队泳道,创新计划; 并行团队排期,按真实周期与团队分工填写,,自定义版式,AUTO_SHAPE: 17; FREEFORM: 2; GROUP: 2; LINE: 12; PICTURE: 1; TEXT_BOX: 10; TEXT_CONTENT: 13
+SL-139,139,方法与流程,设计执行与交付流程,左侧简介，右侧启动、开发冲刺和规模化阶段,设计交付; 敏捷项目,以真实阶段和节奏调整,,Title & Body,AUTO_SHAPE: 25; FREEFORM: 2; GROUP: 8; LINE: 7; PICTURE: 1; TEXT_BOX: 18; TEXT_CONTENT: 21

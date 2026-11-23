@@ -23,7 +23,7 @@ This profile distills the supplied 2025 brand guide, 2026 assets, nine reference
 - Prefer the full wordmark for brand identification. Use the standalone M mark when that role is appropriate, not as a replacement for the full identity. Light background: dark wordmark; dark background: white wordmark. `Merkle_logo_black.svg` is actually the white wordmark variant; inspect the graphic rather than relying on its filename.
 - The 2025 guide defines clear space around the mark from twice the triangle dimensions, a 75 px minimum for the digital full logo, and a 16 px minimum for the M mark. Do not distort, tilt, add outlines/shadows, or change component relationships.
 - Prism art: use the correct light/dark asset and crop it intentionally. Use one prism type in a composition and keep it within two quadrants. Do not layer prism or macro artwork on photos, and do not pair photos with prism macro artwork in the same composition. These rules come from the 2025 guide's pages 44–47, 51, and 67.
-- Use the 2025 guide's single-color outlined icons as the general style. The 2026 icon library supplies specialized Merkle icons and small filled icons; use those for their stated contexts and sizes. Do not recolor Merkle-specific icons to a client's brand palette.
+- Use the supplied [icon library and semantic index](icon-usage.md) to select visuals by meaning. It contains Merkle-specific Medium icons and selected Phosphor Mini Fill icons, with separate guidance for use and size. Keep Merkle-specific icon colors intact.
 
 ## Layout and imagery
 
