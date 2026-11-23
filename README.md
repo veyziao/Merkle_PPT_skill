@@ -5,7 +5,7 @@
 **面向真实工作场景的 Merkle 演示文稿制作体系**  
 **A reference-led workflow for editable Merkle presentations**
 
-[中文](#中文) · [English](#english) · [Visual references](#visual-references--视觉参考) · [Libraries](#五个参考库) · [Install](#私有仓库访问与安装)
+[中文](#中文) · [English](#english) · [Visual references](#visual-references--视觉参考) · [Libraries](#五个参考库) · [Install](#获取与安装--get-started)
 
 ---
 
@@ -31,7 +31,7 @@ The following examples illustrate content structures and visual approaches from 
 
 ## 中文
 
-Merkle PPT Skill 帮助 Codex 基于官方模板、版式案例和品牌素材，制作、编辑及检查可编辑的 PowerPoint。它将内容组织、页面选型、图标与图示选择、样式参考和交付检查串成一套工作流程，适合方案汇报、客户案例、项目进展及架构说明等场景。
+Merkle PPT Skill 帮助支持读取本地文件和制作演示文稿的 AI 助手，基于官方模板、版式案例和品牌素材，制作、编辑及检查可编辑的 PowerPoint。它将内容组织、页面选型、图标与图示选择、样式参考和交付检查串成一套工作流程，适合方案汇报、客户案例、项目进展及架构说明等场景。
 
 ### 核心能力
 
@@ -62,45 +62,47 @@ Merkle PPT Skill 帮助 Codex 基于官方模板、版式案例和品牌素材�
 
 GitHub 可直接显示目录文字和预览图。交互式 HTML 需先下载，再用浏览器打开；安装 `merkle-ppt` 时不会自动安装仓库外层的图鉴，skill 本身已包含源 PPT 和索引。[Slide](libraries/slide-object-styles.csv)、[Case](libraries/case-object-styles.csv)、[Diagram](libraries/diagram-object-styles.csv) 和 [QBR](libraries/qbr-object-styles.csv) 对象索引及[样式记录说明](merkle-ppt/references/source-object-styles.md)可用于定位具体对象。
 
-### 私有仓库访问与安装
+### 获取与安装 / Get started
 
-本仓库为私有仓库，只有获授权的 GitHub 账号才能查看或下载。仓库所有者可在 **Settings → Collaborators → Add people** 中邀请同事；对方接受邀请后，即可查看、下载或克隆仓库。
+这个仓库包含完整的 `merkle-ppt/` 文件夹：`SKILL.md`、模板、素材库、图标、样式记录和辅助文件。**请保留整个文件夹及其内部目录结构**，不要只复制 `SKILL.md`。
 
-**权限说明：** 当前仓库属于个人账号。GitHub 对个人私有仓库的协作者提供读写权限；如果同事只需要读取权限，可考虑组织仓库的角色管理。安装前请确认 Codex 所在环境使用的 GitHub 凭据对仓库有访问权限。
+1. 在 GitHub 使用 **Code → Download ZIP** 下载并解压，或运行：
 
-在 Codex 中发送：
+   ```bash
+   git clone https://github.com/veyziao/Merkle_PPT_skill.git
+   ```
 
-```text
-请使用 $skill-installer 从 GitHub 安装这个 Skill：
-仓库：veyziao/Merkle_PPT_skill
-分支：main
-Skill 路径：merkle-ppt
-```
+   仓库目前为私有时，需要先获授权并使用有访问权限的账号；公开后可直接下载。
+2. 按下表将解压或克隆后的 **`merkle-ppt/` 整个文件夹**复制到所用产品的 skill 目录。例如目标是 `.claude/skills/merkle-ppt/SKILL.md`，文件夹中的 `assets/`、`references/` 等也应保留在原位置。
+3. 启动新的会话，或按对应产品的方法重新加载 skill，然后在提示中明确要求使用 `merkle-ppt`。选择项目级目录时，需在该项目中运行助手；`~` 表示当前用户的主目录。
 
-也可以登录 GitHub 下载仓库 ZIP，再将其中的 `merkle-ppt` 文件夹安装到 Codex 的 skills 目录；请让 Codex 根据当前环境完成安装。安装或更新后开启新对话使用。
+| 产品与适用界面 | 项目级目录 | 个人目录 | 官方说明 |
+| --- | --- | --- | --- |
+| Codex | `.agents/skills/` | `~/.agents/skills/` | [OpenAI](https://developers.openai.com/api/reference/cli) |
+| Claude Code | `.claude/skills/` | `~/.claude/skills/` | [Claude Code](https://code.claude.com/docs/en/skills) |
+| GitHub Copilot agent | `.github/skills/` | `~/.copilot/skills/` | [GitHub](https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/add-skills) |
+| Grok Build | `.grok/skills/` | `~/.grok/skills/` | [Grok Build](https://docs.x.ai/build/features/skills-plugins-marketplaces) |
+
+目录对应具体产品或 agent，不代表同名模型的所有聊天界面都会自动加载 skill。安装成功与否、命令名称和可用工具取决于产品版本及运行环境；如果未自动识别，请先参阅对应产品的官方说明。
+
+**不支持自动发现 skill 的助手：** 如果助手能够访问完整文件夹，可将项目中的 `merkle-ppt/SKILL.md` 指定为入口，并让它按需读取同目录下的 `references/`、`assets/` 和脚本。云端对话需要按平台能力上传或连接文件；只粘贴 `SKILL.md` 无法提供 PPT 模板和素材。不同产品对大文件、图片、文件操作及 PPTX 导出的支持不同，需在实际环境中验证。
 
 ### 使用示例
 
 ```text
-请使用 $merkle-ppt，根据我上传的材料制作一份可编辑的 PowerPoint。
-听众是项目管理层，语言为中文。重点说明项目背景、方案、
-时间安排和下一步；区分已确认事实与建议。
+请使用 merkle-ppt skill。先阅读 merkle-ppt/SKILL.md，
+根据需要读取其中引用的模板、素材库和版式规则，
+再基于我提供的材料制作可编辑的 PowerPoint。
+听众是项目管理层；请区分已确认事实与建议。
 ```
 
-### 更新已安装版本
+### 更新已有版本
 
-仓库更新不会自动覆盖本地已安装副本。可在 Codex 中要求：
-
-```text
-请备份当前 merkle-ppt skill，并将它更新到
-veyziao/Merkle_PPT_skill 的 main 分支最新版本。
-```
-
-如安装器提示同名 skill 已存在，先保留备份，再按当前环境的安装方式更新。更新后开启新对话。
+仓库更新不会自动覆盖已安装副本。先备份本地 `merkle-ppt/`，重新下载或拉取仓库，再用更新后的**完整文件夹**替换目标产品对应目录中的旧版本；重新加载或开启新会话。其他工具或平台应遵循其各自的更新方式。
 
 ## English
 
-Merkle PPT Skill helps Codex create, edit and review editable PowerPoint presentations using an official template, layout references and brand assets. It brings together content planning, layout selection, icons and diagrams, source styling, and delivery checks for proposals, case studies, project updates and architecture presentations.
+Merkle PPT Skill helps AI assistants with file access and presentation tools create, edit and review editable PowerPoint presentations using an official template, layout references and brand assets. It brings together content planning, layout selection, icons and diagrams, source styling, and delivery checks for proposals, case studies, project updates and architecture presentations.
 
 ### Core capabilities
 
@@ -131,41 +133,43 @@ General light-background content slides inherit the M mark at bottom left and th
 
 GitHub displays the catalogs and previews directly. Download the interactive HTML files and open them locally in a browser to search. These catalogs live outside the installed `merkle-ppt` folder; the skill itself includes the source PPTs and indexes. Object indexes for [Slide](libraries/slide-object-styles.csv), [Case](libraries/case-object-styles.csv), [Diagram](libraries/diagram-object-styles.csv) and [QBR](libraries/qbr-object-styles.csv), plus the [source-style guide](merkle-ppt/references/source-object-styles.md), help locate individual objects.
 
-### Private access and installation
+### Get started
 
-This repository is private: only authorized GitHub accounts can view or download it. The owner can invite colleagues via **Settings → Collaborators → Add people**. Once an invitation is accepted, the colleague can browse, download or clone the repository.
+The complete `merkle-ppt/` directory contains `SKILL.md`, the template, libraries, icons, style records and supporting files. **Keep the entire directory and its structure**; copying only `SKILL.md` leaves out required resources.
 
-**Permissions:** This repository is owned by a personal account. GitHub collaborators on a personal private repository have read and write access; consider an organization-owned repository if read-only access is required. Before installation, ensure the GitHub credentials used by the Codex environment can access this repository.
+1. Download and extract the repository through **Code → Download ZIP**, or run:
 
-Send Codex:
+   ```bash
+   git clone https://github.com/veyziao/Merkle_PPT_skill.git
+   ```
 
-```text
-Please use $skill-installer to install this skill from GitHub:
-Repository: veyziao/Merkle_PPT_skill
-Branch: main
-Skill path: merkle-ppt
-```
+   While the repository is private, use an authorized account. Once public, it can be downloaded directly.
+2. Copy the complete **`merkle-ppt/` directory** into the appropriate skill directory below. For example, the result should include `.claude/skills/merkle-ppt/SKILL.md` and the neighboring `assets/` and `references/` directories.
+3. Start a new session, or reload skills using the product's instructions, and explicitly ask the assistant to use `merkle-ppt`. Project-level directories apply when working in that project; `~` denotes the current user's home directory.
 
-Alternatively, sign in to GitHub, download the repository ZIP and ask Codex to install the `merkle-ppt` folder into its skills directory for the current environment. Start a new conversation after installing or updating.
+| Product and applicable interface | Project directory | User directory | Official documentation |
+| --- | --- | --- | --- |
+| Codex | `.agents/skills/` | `~/.agents/skills/` | [OpenAI](https://developers.openai.com/api/reference/cli) |
+| Claude Code | `.claude/skills/` | `~/.claude/skills/` | [Claude Code](https://code.claude.com/docs/en/skills) |
+| GitHub Copilot agent | `.github/skills/` | `~/.copilot/skills/` | [GitHub](https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/add-skills) |
+| Grok Build | `.grok/skills/` | `~/.grok/skills/` | [Grok Build](https://docs.x.ai/build/features/skills-plugins-marketplaces) |
+
+These paths apply to the named products or agents; other chat interfaces using the same model may not discover skills automatically. Discovery, invocation and available tools depend on the product version and environment. If the skill is not discovered, check the product's current documentation.
+
+**Assistants without automatic skill discovery:** If the assistant can access the complete folder, point it to `merkle-ppt/SKILL.md` and ask it to read the referenced `references/`, `assets/` and scripts as needed. In cloud chats, upload or connect files according to the platform's capabilities; pasting only `SKILL.md` does not provide the PPT template or assets. File-size limits, image and file handling, and PPTX export differ by product and must be verified in the actual environment.
 
 ### Example request
 
 ```text
-Use $merkle-ppt to create an editable PowerPoint from the materials I uploaded.
-The audience is project leadership. Use English and cover the background,
-proposed approach, timeline and next steps. Distinguish confirmed facts from proposals.
+Use the merkle-ppt skill. First read merkle-ppt/SKILL.md and,
+as needed, its referenced templates, libraries and design rules.
+Create an editable PowerPoint from the materials I provide.
+The audience is project leadership; distinguish facts from proposals.
 ```
 
 ### Updating an installed copy
 
-Repository updates do not automatically replace an installed local copy. Ask Codex:
-
-```text
-Back up my existing merkle-ppt skill and update it to the latest version
-on the main branch of veyziao/Merkle_PPT_skill.
-```
-
-If the installer reports an existing skill with the same name, retain a backup and update it using the method appropriate to the current environment. Start a new conversation afterwards.
+Repository updates do not automatically replace an installed copy. Back up the existing `merkle-ppt/` directory, download or pull the latest repository, and replace the old folder in the relevant product's skill directory with the **complete updated folder**. Reload skills or start a new session. Follow the platform's own update method where applicable.
 
 ## Repository
 
