@@ -30,11 +30,13 @@ For the Closing slide, keep the template's M mark, background, and copyright lin
 
 For content slides, use the [body typography defaults](references/brand-profile.md#visual-identity-and-type) to leave room between groups. Apply these sizes by text role and preserve slide titles and subtitles when revising existing decks.
 
+For QBRs, business reviews, project updates, stage reviews, performance analysis, planning and other suitable reports, also consult the [QBR slide library](references/qbr-slide-library-usage.md). Its examples can be used outside quarterly reviews when the content relationship fits; compare it with the general slide library.
+
 Use native PowerPoint text boxes, shapes, connectors and tables that can be edited and grouped. Keep each prose passage in a single text box with automatic wrapping. Choose icons using the supplied [icon library and semantic index](references/icon-usage.md), and use its original SVG graphics when appropriate.
 
 For system architecture, data flows, ownership boundaries and platform diagrams, consult the [diagram library](references/diagram-library-usage.md) and select both suitable components and an overall composition. Preserve the actual meaning of zones, nodes and connections; adapt and simplify source examples to the current content and audience.
 
-For specific Slide Library, Case Library and Diagram Library examples, consult the [object-level source style records](references/source-object-styles.md) and original slide. Inspect actual fills, gradients, transparency, outlines, shadows, 3D, images, geometry, and grouping—including inherited theme formatting—and preserve meaningful differences. Verify the finished slide visually in PowerPoint; do not claim an exact match merely because the properties were recorded.
+For specific Slide Library, Case Library, Diagram Library and QBR Library examples, consult the [object-level source style records](references/source-object-styles.md) and original slide. Inspect actual fills, gradients, transparency, outlines, shadows, 3D, images, geometry, and grouping—including inherited theme formatting—and preserve meaningful differences. Verify the finished slide visually in PowerPoint; do not claim an exact match merely because the properties were recorded.
 
 For a narrow edit, preserve unrelated wording, order, slide count, objects, and formatting unless the user asks for a broader redesign. For a review-only request, inspect and report without creating a new deck.
 

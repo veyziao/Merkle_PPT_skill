@@ -1,0 +1,3805 @@
+{
+  "source_file": "QBR SLIDE LIBRARY.pptx",
+  "source_slide_count": 156,
+  "interpretation": "QBR is a curated reporting collection; page methods may also fit non-quarterly reviews, project updates, planning and decision-making. Distinguish source examples from actual project facts. Chart/table counts only reflect explicit objects on the slide and may omit layout-inherited or grouped content.",
+  "slides": [
+    {
+      "id": "QBR-001",
+      "page": 1,
+      "category": "资料说明",
+      "title": "资料封面",
+      "composition": "深蓝底标题、字体版本与更新日期",
+      "scenarios": [
+        "识别合集版本",
+        "参考资料封面"
+      ],
+      "application": "作为资料封面，不直接当汇报内容。",
+      "source_notes": [],
+      "source_layout": "Title Page",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-002",
+      "page": 2,
+      "category": "资料说明",
+      "title": "合集目录",
+      "composition": "缩略卡片按内容与通用版式分类",
+      "scenarios": [
+        "查找整套报告结构",
+        "浏览页面类型"
+      ],
+      "application": "用于导航，先按任务而非类别名称选页。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-003",
+      "page": 3,
+      "category": "资料说明",
+      "title": "模板使用说明",
+      "composition": "黄色说明区列出主题、字体和母版使用提示",
+      "scenarios": [
+        "了解源模板限制",
+        "跨版本制作"
+      ],
+      "application": "来源提示不得直接修改母版颜色主题；当前任务明确要求优先。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Charts can leverage a client brand colors, but do not edit the PPT Color Theme (in the Master). Please reach out to Info Design to establish rules by client. Keep the Merkle Arial Master theme so you can easily drop in thought leadership of other Merkle IP, while avoiding any font issues when passing along reporting to existing clients. Do not make edits to the Master.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 2,
+        "TEXT_BOX (17)": 1,
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 2,
+        "LINE (9)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-004",
+      "page": 4,
+      "category": "行动与下一步",
+      "title": "行动与下一步章节页",
+      "composition": "深蓝纯色大标题",
+      "scenarios": [
+        "行动计划章节",
+        "会议结尾"
+      ],
+      "application": "章节页，具体任务见后续页。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-005",
+      "page": 5,
+      "category": "行动与下一步",
+      "title": "图片配双列行动表",
+      "composition": "左侧人物图，右侧行动项与下一步表",
+      "scenarios": [
+        "会议纪要",
+        "项目行动追踪"
+      ],
+      "application": "可替换授权图片，内容多时保留清晰行距。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 4,
+        "TABLE (19)": 1,
+        "LINE (9)": 2,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-006",
+      "page": 6,
+      "category": "行动与下一步",
+      "title": "深蓝侧栏行动表",
+      "composition": "左深蓝标题栏，右侧两列任务与下一步",
+      "scenarios": [
+        "项目例会",
+        "复盘行动"
+      ],
+      "application": "适合短任务与后续措施逐行对应。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 1,
+        "TABLE (19)": 1,
+        "TEXT_BOX (17)": 1,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-007",
+      "page": 7,
+      "category": "行动与下一步",
+      "title": "深蓝侧栏行动表变体",
+      "composition": "左深蓝标题栏，右侧带浅灰底的行动表",
+      "scenarios": [
+        "工作安排",
+        "交付跟进"
+      ],
+      "application": "与第6页布局相近，依据内容密度选择。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 1,
+        "TABLE (19)": 1,
+        "TEXT_BOX (17)": 1,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-008",
+      "page": 8,
+      "category": "行动与下一步",
+      "title": "图片侧栏行动表",
+      "composition": "左侧深色人物图与标题，右侧双列行动表",
+      "scenarios": [
+        "客户会后跟进",
+        "阶段待办"
+      ],
+      "application": "标题与图片对比需足够，替换示例素材。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 1,
+        "TABLE (19)": 1,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-009",
+      "page": 9,
+      "category": "行动与下一步",
+      "title": "三列行动责任表",
+      "composition": "全宽表格按行动项、下一步和负责人排列",
+      "scenarios": [
+        "会议决议",
+        "行动责任分工"
+      ],
+      "application": "补充真实负责人和期限，不凭样例推断。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-010",
+      "page": 10,
+      "category": "行动与下一步",
+      "title": "时间线与决策点",
+      "composition": "深色左栏，右侧阶段时间线与底部决策信息",
+      "scenarios": [
+        "项目推进",
+        "决策节点",
+        "后续规划"
+      ],
+      "application": "时间与决策应来自真实计划。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 17,
+        "TEXT_BOX (17)": 6,
+        "LINE (9)": 2,
+        "GROUP (6)": 2,
+        "FREEFORM (5)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-011",
+      "page": 11,
+      "category": "行动与下一步",
+      "title": "下一步阶段时间线",
+      "composition": "左侧标题说明，右侧横向当前及后续阶段",
+      "scenarios": [
+        "项目启动",
+        "下一阶段安排"
+      ],
+      "application": "突出当前节点，阶段间隔依据真实时间。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 17,
+        "LINE (9)": 2,
+        "TEXT_BOX (17)": 5,
+        "GROUP (6)": 2,
+        "FREEFORM (5)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-012",
+      "page": 12,
+      "category": "行动与下一步",
+      "title": "当前与下一阶段双卡",
+      "composition": "左标题，右侧并列两张阶段卡",
+      "scenarios": [
+        "阶段交接",
+        "近期计划"
+      ],
+      "application": "两卡用于真实的阶段先后或对照。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TEXT_BOX (17)": 4,
+        "LINE (9)": 1,
+        "AUTO_SHAPE (1)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-013",
+      "page": 13,
+      "category": "议程与目标",
+      "title": "议程章节页",
+      "composition": "深蓝底大标题",
+      "scenarios": [
+        "会议议程分节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-014",
+      "page": 14,
+      "category": "议程与目标",
+      "title": "简短议程",
+      "composition": "左侧少量议题及分隔线，右侧品牌图案",
+      "scenarios": [
+        "短会议",
+        "项目汇报"
+      ],
+      "application": "沿用用户指定的 Agenda 图案。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Agenda: short",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Agenda - Texture",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-015",
+      "page": 15,
+      "category": "议程与目标",
+      "title": "带页码简短议程",
+      "composition": "简短议程右侧配页码占位",
+      "scenarios": [
+        "书面报告目录"
+      ],
+      "application": "原页建议页码用于书面材料，现场演示通常不推荐。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Agenda: short Use numbers for written submissions only DO NOT recommend section page numbers for live presentations or typical short client—facing calls",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": "Page numbers for written submissions; not recommended for live presentation agendas.",
+          "interpretation": "原页建议页码用于书面材料，现场演示议程通常不标页码。"
+        }
+      ],
+      "source_layout": "Agenda - Texture",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-016",
+      "page": 16,
+      "category": "议程与目标",
+      "title": "长议程",
+      "composition": "较多议题按行排列，右侧图案",
+      "scenarios": [
+        "长会议",
+        "工作坊议程"
+      ],
+      "application": "按需要增删项并保留行距。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Agenda: long",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Agenda - Texture",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-017",
+      "page": 17,
+      "category": "议程与目标",
+      "title": "带子议题议程",
+      "composition": "左侧主议题与缩进子项，右侧图案",
+      "scenarios": [
+        "多主题会议",
+        "工作坊"
+      ],
+      "application": "用层级表达议题从属。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Agenda: long with sub-sections",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Agenda - Texture",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-018",
+      "page": 18,
+      "category": "议程与目标",
+      "title": "会议时间议程表",
+      "composition": "时间、主题、讨论内容与人员构成表",
+      "scenarios": [
+        "工作坊",
+        "项目会议排程"
+      ],
+      "application": "以实际时长与负责人填写。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-019",
+      "page": 19,
+      "category": "议程与目标",
+      "title": "图片侧栏时间议程",
+      "composition": "左侧深色图片标题，右侧时间议程表",
+      "scenarios": [
+        "客户会议",
+        "大型工作坊"
+      ],
+      "application": "替换授权图片，人员和时间需真实。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 2,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-020",
+      "page": 20,
+      "category": "议程与目标",
+      "title": "目标与视觉并列",
+      "composition": "左侧目标列表，右侧大图像区",
+      "scenarios": [
+        "项目启动目标",
+        "会议目的"
+      ],
+      "application": "适合少量目标并留出视觉空间。",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "FREEFORM (5)": 1,
+        "TEXT_BOX (17)": 2,
+        "AUTO_SHAPE (1)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-021",
+      "page": 21,
+      "category": "议程与目标",
+      "title": "背景图上的会议目标",
+      "composition": "全幅照片上叠深色渐变、标题和目标",
+      "scenarios": [
+        "主题引入",
+        "简短目标页"
+      ],
+      "application": "保证文字对比，图片使用授权版本。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 2,
+        "TEXT_BOX (17)": 5,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-022",
+      "page": 22,
+      "category": "议程与目标",
+      "title": "会议目标与上次回顾",
+      "composition": "左侧本次目标，右侧上次讨论摘要卡",
+      "scenarios": [
+        "阶段复盘",
+        "连续会议"
+      ],
+      "application": "明确上次结论与本次目标的关系。",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 4,
+        "TEXT_BOX (17)": 2,
+        "TABLE (19)": 1,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-023",
+      "page": 23,
+      "category": "概念与方案",
+      "title": "概念章节页",
+      "composition": "深蓝纯色概念章节标题",
+      "scenarios": [
+        "方案概念分节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-024",
+      "page": 24,
+      "category": "概念与方案",
+      "title": "概念文字配大图",
+      "composition": "左侧概念、概览及工作方式，右侧视觉图",
+      "scenarios": [
+        "方案概览",
+        "产品概念"
+      ],
+      "application": "用业务事实替换示例并控制文案量。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE (13)": 2,
+        "AUTO_SHAPE (1)": 2,
+        "TEXT_BOX (17)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-025",
+      "page": 25,
+      "category": "概念与方案",
+      "title": "概念说明与五步流程",
+      "composition": "左概念说明，中右图片叠五个编号步骤",
+      "scenarios": [
+        "用户流程",
+        "方案介绍"
+      ],
+      "application": "编号代表真实顺序，不要求固定五步。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE (13)": 2,
+        "AUTO_SHAPE (1)": 13,
+        "TEXT_BOX (17)": 6
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-026",
+      "page": 26,
+      "category": "概念与方案",
+      "title": "概念与横向用户流程",
+      "composition": "上方概念和图片，下方五列用户流程",
+      "scenarios": [
+        "用户旅程",
+        "服务流程"
+      ],
+      "application": "流程步骤可增减，保证每列可读。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": "Max 2 lines. Concept name Concept description. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PICTURE (13)": 2,
+        "AUTO_SHAPE (1)": 3,
+        "TEXT_BOX (17)": 10,
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-027",
+      "page": 27,
+      "category": "概念与方案",
+      "title": "概念横幅与步骤卡",
+      "composition": "顶部横幅图片，下方说明及四步卡片",
+      "scenarios": [
+        "解决方案机制",
+        "实施步骤"
+      ],
+      "application": "真实步骤按顺序排列。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 9,
+        "TEXT_BOX (17)": 6
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-028",
+      "page": 28,
+      "category": "概念与方案",
+      "title": "概念简报与侧栏信息",
+      "composition": "左侧深色背景概念说明，右侧组件、渠道和时间等信息",
+      "scenarios": [
+        "活动概念",
+        "方案提案"
+      ],
+      "application": "周期、结果和渠道须按当前材料核实。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 8,
+        "TEXT_BOX (17)": 14
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-029",
+      "page": 29,
+      "category": "概念与方案",
+      "title": "概念截图与底部流程",
+      "composition": "左上概念描述，右侧截图叠层，下方分步文字",
+      "scenarios": [
+        "产品概念",
+        "体验流程"
+      ],
+      "application": "截图用于辅助说明，关键文字保持可读。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Add concepts here. Use format painter to copy the shadow to the concept image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": "Max 2 lines. Concept name Concept description. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "TEXT_BOX (17)": 11,
+        "AUTO_SHAPE (1)": 4,
+        "PLACEHOLDER (14)": 1,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-030",
+      "page": 30,
+      "category": "概念与方案",
+      "title": "概念截图与工作原理",
+      "composition": "左侧概念与工作方式，右侧叠层图片",
+      "scenarios": [
+        "产品方案",
+        "功能介绍"
+      ],
+      "application": "适用于不需底部流程的简化叙述。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Add concepts here. Use format painter to copy the shadow to the concept image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": "Max 2 lines. Concept name Concept description. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. HOW IT WORKS Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 3,
+        "TEXT_BOX (17)": 3,
+        "PLACEHOLDER (14)": 1,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-031",
+      "page": 31,
+      "category": "概念与方案",
+      "title": "概念截图与要点列表",
+      "composition": "左侧概述和列表，右侧叠层图像",
+      "scenarios": [
+        "功能方案",
+        "服务说明"
+      ],
+      "application": "示例阴影可参考原对象设置。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Add concepts here. Use format painter to copy the shadow to the concept image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": "Max 2 lines. Concept name Concept description. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. HOW IT WORKS Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "TEXT_BOX (17)": 5,
+        "AUTO_SHAPE (1)": 3,
+        "PLACEHOLDER (14)": 1,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-032",
+      "page": 32,
+      "category": "概念与方案",
+      "title": "概念、截图与亮点",
+      "composition": "左侧工作方式，中央叠层图片，右侧亮点",
+      "scenarios": [
+        "产品演示",
+        "功能差异"
+      ],
+      "application": "对照图片与对应亮点，避免过密。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Max 2 lines. Concept name",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": " Add concepts here. Use format painter to copy the shadow to the concept image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "GROUP (6)": 1,
+        "AUTO_SHAPE (1)": 4,
+        "TEXT_BOX (17)": 4,
+        "PLACEHOLDER (14)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-033",
+      "page": 33,
+      "category": "概念与方案",
+      "title": "三张产品图及说明",
+      "composition": "三张竖向截图并列，下方各配简述",
+      "scenarios": [
+        "多页面展示",
+        "功能示意"
+      ],
+      "application": "适合横向对照，不强制顺序。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Add concepts here. Use format painter to copy the shadow to the concept image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 3,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-034",
+      "page": 34,
+      "category": "概念与方案",
+      "title": "五屏截图及说明",
+      "composition": "五张竖向截图和标题说明横向排列",
+      "scenarios": [
+        "移动端体验",
+        "多功能展示"
+      ],
+      "application": "与 Case Library 五屏扩展页相似，按截图比例调整。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Add concepts here. Use format painter to copy the shadow to the concept image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 8,
+        "AUTO_SHAPE (1)": 7,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-035",
+      "page": 35,
+      "category": "执行摘要与问题叙事",
+      "title": "执行摘要章节页",
+      "composition": "深蓝底单页执行摘要标题",
+      "scenarios": [
+        "摘要章节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-036",
+      "page": 36,
+      "category": "执行摘要与问题叙事",
+      "title": "五栏执行回顾",
+      "composition": "并排五个卡片分别承载回顾、学习与下一步等内容",
+      "scenarios": [
+        "阶段总结",
+        "项目复盘"
+      ],
+      "application": "原页有 CRM only 标识；作为参考按任务判断适用性。",
+      "source_notes": [
+        {
+          "type": "原页标记",
+          "source_summary": "CRM only slide",
+          "interpretation": "原页标记为 CRM only；迁移应用时核对具体场景。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 15,
+        "TEXT_BOX (17)": 7,
+        "PLACEHOLDER (14)": 1,
+        "LINE (9)": 5
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-037",
+      "page": 37,
+      "category": "执行摘要与问题叙事",
+      "title": "多栏执行摘要与结果",
+      "composition": "顶部多列摘要，下部对应结果",
+      "scenarios": [
+        "经营复盘",
+        "项目成果汇总"
+      ],
+      "application": "原页有 CRM only 标识；不要将示例结果当事实。",
+      "source_notes": [
+        {
+          "type": "原页标记",
+          "source_summary": "CRM only slide",
+          "interpretation": "原页标记为 CRM only；迁移应用时核对具体场景。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 8,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 12,
+        "LINE (9)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-038",
+      "page": 38,
+      "category": "执行摘要与问题叙事",
+      "title": "三项结论速览",
+      "composition": "三张编号卡与底部总结句",
+      "scenarios": [
+        "管理层摘要",
+        "结论先行"
+      ],
+      "application": "每项仅放一个清晰论点。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "TEXT_BOX (17)": 5,
+        "AUTO_SHAPE (1)": 11,
+        "PLACEHOLDER (14)": 1,
+        "LINE (9)": 1,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-039",
+      "page": 39,
+      "category": "执行摘要与问题叙事",
+      "title": "深色背景五点摘要",
+      "composition": "顶部深色照片标题，下方五张白色竖卡",
+      "scenarios": [
+        "重点洞察",
+        "多项成果摘要"
+      ],
+      "application": "图片与卡片保持对比，内容较多需拆页。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE (13)": 3,
+        "AUTO_SHAPE (1)": 7,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 16,
+        "LINE (9)": 6
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-040",
+      "page": 40,
+      "category": "执行摘要与问题叙事",
+      "title": "深色横幅三栏摘要",
+      "composition": "顶部图片横幅，下方三列图标与说明",
+      "scenarios": [
+        "能力总结",
+        "关键成果"
+      ],
+      "application": "保持图标来源一致并核对授权。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body 3 Column",
+      "source_object_counts": {
+        "PICTURE (13)": 7,
+        "AUTO_SHAPE (1)": 7,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 9,
+        "LINE (9)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-041",
+      "page": 41,
+      "category": "执行摘要与问题叙事",
+      "title": "全图三点总结",
+      "composition": "深色照片背景叠三项编号与底部下一步",
+      "scenarios": [
+        "高层回顾",
+        "阶段重点"
+      ],
+      "application": "短文案、足够对比和留白。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PICTURE (13)": 2,
+        "AUTO_SHAPE (1)": 2,
+        "TEXT_BOX (17)": 10,
+        "LINE (9)": 3,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-042",
+      "page": 42,
+      "category": "执行摘要与问题叙事",
+      "title": "图片侧栏多项成果",
+      "composition": "左侧图片标题，右侧两列多条简要成果",
+      "scenarios": [
+        "项目亮点",
+        "年度或阶段成果"
+      ],
+      "application": "成果需证据支持，不限季度。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 10,
+        "LINE (9)": 6,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-043",
+      "page": 43,
+      "category": "执行摘要与问题叙事",
+      "title": "图片侧栏四项亮点",
+      "composition": "左图片标题，右侧四张亮点卡",
+      "scenarios": [
+        "重要发现",
+        "工作成果"
+      ],
+      "application": "每卡对应一个主题并保留证据。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 13,
+        "TEXT_BOX (17)": 2,
+        "GROUP (6)": 2,
+        "FREEFORM (5)": 2,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-044",
+      "page": 44,
+      "category": "执行摘要与问题叙事",
+      "title": "四卡经验总结",
+      "composition": "左侧标题，右侧四张学习与建议卡",
+      "scenarios": [
+        "项目经验",
+        "阶段复盘"
+      ],
+      "application": "区分观察、经验和建议。",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "TEXT_BOX (17)": 9,
+        "AUTO_SHAPE (1)": 7,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-045",
+      "page": 45,
+      "category": "执行摘要与问题叙事",
+      "title": "左侧摘要与四项后续",
+      "composition": "深蓝左栏概述，右侧四条带图标的下一步",
+      "scenarios": [
+        "建议概览",
+        "决策准备"
+      ],
+      "application": "图标应使用原始图标库。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 3,
+        "TEXT_BOX (17)": 6,
+        "PICTURE (13)": 4,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-046",
+      "page": 46,
+      "category": "执行摘要与问题叙事",
+      "title": "图像与四项数据洞察",
+      "composition": "左侧标题和图片，右侧四组数字、含义及下一步",
+      "scenarios": [
+        "数据复盘",
+        "绩效与行动"
+      ],
+      "application": "每个指标保留口径、周期及来源。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture  functionality to change the image while keeping the formatting.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "LINE (9)": 2,
+        "TEXT_BOX (17)": 8,
+        "AUTO_SHAPE (1)": 12,
+        "PICTURE (13)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-047",
+      "page": 47,
+      "category": "执行摘要与问题叙事",
+      "title": "四项编号建议",
+      "composition": "四张竖卡配编号、说明和推荐",
+      "scenarios": [
+        "重点建议",
+        "四个工作方向"
+      ],
+      "application": "卡片数量可调整，建议要有依据。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 4,
+        "TEXT_BOX (17)": 8,
+        "LINE (9)": 4,
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-048",
+      "page": 48,
+      "category": "执行摘要与问题叙事",
+      "title": "三项洞察与关注领域",
+      "composition": "上方三张洞察卡，下方三个关注领域",
+      "scenarios": [
+        "管理摘要",
+        "战略重点"
+      ],
+      "application": "区分发现与后续重点。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 14,
+        "PLACEHOLDER (14)": 2,
+        "TEXT_BOX (17)": 5,
+        "LINE (9)": 3,
+        "PICTURE (13)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-049",
+      "page": 49,
+      "category": "执行摘要与问题叙事",
+      "title": "深蓝顶栏回顾矩阵",
+      "composition": "横向主题行对应做得好、待改进及建议三列",
+      "scenarios": [
+        "项目复盘",
+        "工作评估"
+      ],
+      "application": "逐行对齐同一主题，建议对应问题。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 9,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 20,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-050",
+      "page": 50,
+      "category": "执行摘要与问题叙事",
+      "title": "浅色顶栏回顾矩阵",
+      "composition": "与第49页相同三列关系，改为浅色背景",
+      "scenarios": [
+        "团队复盘",
+        "项目评估"
+      ],
+      "application": "按视觉环境选择明暗变体。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 9,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 20,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-051",
+      "page": 51,
+      "category": "执行摘要与问题叙事",
+      "title": "KPI 侧栏与三列洞察",
+      "composition": "左侧概述和 KPI，右侧三列发现与下一步",
+      "scenarios": [
+        "绩效摘要",
+        "管理层简报"
+      ],
+      "application": "数字需明确周期、单位与比较基线。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 12,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 10,
+        "LINE (9)": 6,
+        "PICTURE (13)": 4,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-052",
+      "page": 52,
+      "category": "执行摘要与问题叙事",
+      "title": "学习与建议并列",
+      "composition": "左侧编号学习，右侧分组建议卡",
+      "scenarios": [
+        "项目复盘",
+        "访谈分析"
+      ],
+      "application": "建议应能追溯到对应发现。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 11,
+        "TEXT_BOX (17)": 7,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-053",
+      "page": 53,
+      "category": "执行摘要与问题叙事",
+      "title": "三洞察与三个关注领域",
+      "composition": "三张洞察卡下配三个对应关注区",
+      "scenarios": [
+        "阶段复盘",
+        "经营摘要"
+      ],
+      "application": "结构与第48页相近，按内容匹配。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 14,
+        "PLACEHOLDER (14)": 2,
+        "TEXT_BOX (17)": 4,
+        "LINE (9)": 3,
+        "PICTURE (13)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-054",
+      "page": 54,
+      "category": "执行摘要与问题叙事",
+      "title": "摘要配四项建议",
+      "composition": "左侧概述文字，右侧四张建议卡",
+      "scenarios": [
+        "业务建议",
+        "管理简报"
+      ],
+      "application": "适合少量有证据的建议。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 13,
+        "TEXT_BOX (17)": 1,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-055",
+      "page": 55,
+      "category": "执行摘要与问题叙事",
+      "title": "摘要与指标配建议",
+      "composition": "左侧概述及四个数字，右侧四张建议卡",
+      "scenarios": [
+        "绩效回顾",
+        "改进建议"
+      ],
+      "application": "区分指标事实与行动建议。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 14,
+        "TEXT_BOX (17)": 1,
+        "LINE (9)": 4,
+        "TABLE (19)": 2
+      },
+      "native_tables_in_slide": 2,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-056",
+      "page": 56,
+      "category": "执行摘要与问题叙事",
+      "title": "发生了什么与建议",
+      "composition": "四列分别呈现指标、原因/建议等摘要",
+      "scenarios": [
+        "指标解读",
+        "经营复盘"
+      ],
+      "application": "原因需要证据，不将推测写为事实。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 11,
+        "TEXT_BOX (17)": 4,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-057",
+      "page": 57,
+      "category": "执行摘要与问题叙事",
+      "title": "客户旅程阶段表现",
+      "composition": "五列阶段卡及成果指标和说明",
+      "scenarios": [
+        "漏斗回顾",
+        "用户生命周期"
+      ],
+      "application": "仅在实际阶段相关时使用；示例数字需替换。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 5,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 31,
+        "LINE (9)": 10
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-058",
+      "page": 58,
+      "category": "执行摘要与问题叙事",
+      "title": "文字摘要与六项成果",
+      "composition": "左侧执行摘要，右侧六组结果与行动",
+      "scenarios": [
+        "业务报告",
+        "阶段成果"
+      ],
+      "application": "结果与建议分别标注。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 17,
+        "LINE (9)": 1,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-059",
+      "page": 59,
+      "category": "执行摘要与问题叙事",
+      "title": "业务挑战到下一步矩阵",
+      "composition": "深色行标题配多列挑战、建议、证据与下一步",
+      "scenarios": [
+        "决策简报",
+        "方案总结"
+      ],
+      "application": "保持挑战与对应建议、证据可追溯。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 8,
+        "LINE (9)": 4,
+        "TEXT_BOX (17)": 11
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-060",
+      "page": 60,
+      "category": "执行摘要与问题叙事",
+      "title": "挑战、建议与发现列表",
+      "composition": "四条横向分区：挑战、建议、证据和下一步",
+      "scenarios": [
+        "问题解决",
+        "领导汇报"
+      ],
+      "application": "适合低视觉密度和清晰论证。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-061",
+      "page": 61,
+      "category": "执行摘要与问题叙事",
+      "title": "SCR 框架说明页",
+      "composition": "白底大标题说明 Situation、Complication、Resolution",
+      "scenarios": [
+        "结构化叙事",
+        "方案背景"
+      ],
+      "application": "这是框架说明，不是填好的业务事实。",
+      "source_notes": [],
+      "source_layout": "Divider Slide - Texture, Light",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-062",
+      "page": 62,
+      "category": "执行摘要与问题叙事",
+      "title": "五条 SCR 对应矩阵",
+      "composition": "按行排列情境、挑战与建议三列",
+      "scenarios": [
+        "问题分析",
+        "整改建议"
+      ],
+      "application": "确保同一行构成真实对应关系。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 16,
+        "TEXT_BOX (17)": 8,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-063",
+      "page": 63,
+      "category": "执行摘要与问题叙事",
+      "title": "三卡 SCR 结构",
+      "composition": "三张卡分别放情境、挑战及建议，下方关注点",
+      "scenarios": [
+        "问题叙述",
+        "管理简报"
+      ],
+      "application": "每卡内容围绕同一问题。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 14,
+        "PLACEHOLDER (14)": 2,
+        "TEXT_BOX (17)": 4,
+        "LINE (9)": 3,
+        "PICTURE (13)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-064",
+      "page": 64,
+      "category": "执行摘要与问题叙事",
+      "title": "深蓝顶栏 SCR 表",
+      "composition": "左侧主题，右侧情境、挑战、解决三列",
+      "scenarios": [
+        "多主题问题分析",
+        "执行摘要"
+      ],
+      "application": "逐行配对，避免跨行错位。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 9,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 20,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-065",
+      "page": 65,
+      "category": "执行摘要与问题叙事",
+      "title": "浅色 SCR 表变体",
+      "composition": "与第64页同构，背景改为浅色",
+      "scenarios": [
+        "多主题复盘",
+        "商业问题梳理"
+      ],
+      "application": "适合文档型汇报。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 9,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 20,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-066",
+      "page": 66,
+      "category": "执行摘要与问题叙事",
+      "title": "摘要与指标及多列说明",
+      "composition": "左摘要和 KPI，右多栏论点与上下文链接",
+      "scenarios": [
+        "管理总结",
+        "带证据的报告"
+      ],
+      "application": "关键数字有出处，链接需有效。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 6,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 1,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2,
+        "TABLE (19)": 2
+      },
+      "native_tables_in_slide": 2,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-067",
+      "page": 67,
+      "category": "执行摘要与问题叙事",
+      "title": "摘要与三列 SCR 卡",
+      "composition": "左侧概要及条目，右侧三张情境、挑战与行动卡",
+      "scenarios": [
+        "战略问题",
+        "阶段决策"
+      ],
+      "application": "用于同一议题的结构化论证。",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 12,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 13,
+        "LINE (9)": 9,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-068",
+      "page": 68,
+      "category": "执行摘要与问题叙事",
+      "title": "左叙事与三层 SCR 卡",
+      "composition": "左侧标题说明，右侧三张上下叠放彩色卡",
+      "scenarios": [
+        "单一问题分析",
+        "方案决策"
+      ],
+      "application": "颜色区分叙事层次而非结果状态。",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "TEXT_BOX (17)": 4,
+        "AUTO_SHAPE (1)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-069",
+      "page": 69,
+      "category": "执行摘要与问题叙事",
+      "title": "三幅图片 SCR",
+      "composition": "三列背景图分别对应情境、挑战和解决",
+      "scenarios": [
+        "故事化案例",
+        "概念阐释"
+      ],
+      "application": "仅用授权图片且确保叙述可读。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 4,
+        "AUTO_SHAPE (1)": 7,
+        "TEXT_BOX (17)": 6,
+        "GROUP (6)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-070",
+      "page": 70,
+      "category": "执行摘要与问题叙事",
+      "title": "文字叙事配大图",
+      "composition": "左侧标题及情境、挑战、建议，右侧图片",
+      "scenarios": [
+        "案例讲述",
+        "商业问题与行动"
+      ],
+      "application": "适合少量叙事而非密集数据。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 1,
+        "PICTURE (13)": 1,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 5
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-071",
+      "page": 71,
+      "category": "路线图与计划",
+      "title": "影响与路线图章节页",
+      "composition": "深蓝底大标题",
+      "scenarios": [
+        "路线图章节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-072",
+      "page": 72,
+      "category": "路线图与计划",
+      "title": "年度活动日历",
+      "composition": "横向月份和季度，纵向活动带和持续事项",
+      "scenarios": [
+        "年度计划",
+        "项目路线图"
+      ],
+      "application": "根据真实日期绘制长度和时间。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TABLE (19)": 1,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 2
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-073",
+      "page": 73,
+      "category": "路线图与计划",
+      "title": "六个月工作日历表",
+      "composition": "横向月份，纵向阶段和任务清单",
+      "scenarios": [
+        "半年计划",
+        "项目活动安排"
+      ],
+      "application": "只标记实际计划和负责人。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-074",
+      "page": 74,
+      "category": "路线图与计划",
+      "title": "阶段时间条与描述",
+      "composition": "上方三段时间线，下方对应阶段说明",
+      "scenarios": [
+        "项目实施",
+        "里程碑"
+      ],
+      "application": "真实阶段时间与文字对应。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "TABLE (19)": 1,
+        "PLACEHOLDER (14)": 2,
+        "AUTO_SHAPE (1)": 19,
+        "GROUP (6)": 6,
+        "PICTURE (13)": 6
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-075",
+      "page": 75,
+      "category": "路线图与计划",
+      "title": "多阶段甘特路线图",
+      "composition": "上方时间轴，纵向多阶段任务及时间条",
+      "scenarios": [
+        "项目排期",
+        "实施路线"
+      ],
+      "application": "任务条要与真实起止时间一致。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "TABLE (19)": 1,
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 11,
+        "GROUP (6)": 10,
+        "PICTURE (13)": 11
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-076",
+      "page": 76,
+      "category": "路线图与计划",
+      "title": "建议优先级表",
+      "composition": "编号建议、描述、考虑因素、影响和优先级",
+      "scenarios": [
+        "计划排序",
+        "管理决策"
+      ],
+      "application": "影响和优先级是判断，需说明依据。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-077",
+      "page": 77,
+      "category": "路线图与计划",
+      "title": "四项重点与进度线",
+      "composition": "四列重点、上方进度标记和下方列表",
+      "scenarios": [
+        "下一阶段重点",
+        "工作流汇报"
+      ],
+      "application": "可替换季度语境，避免将进度线当真实进度。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 14,
+        "LINE (9)": 2,
+        "PLACEHOLDER (14)": 2,
+        "TEXT_BOX (17)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-078",
+      "page": 78,
+      "category": "路线图与计划",
+      "title": "四列重点卡片",
+      "composition": "四张深蓝表头卡片，内含不同工作流",
+      "scenarios": [
+        "计划重点",
+        "能力工作项"
+      ],
+      "application": "卡片用于同级事项比较。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 8,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 5
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-079",
+      "page": 79,
+      "category": "观察与洞察",
+      "title": "观察与洞察章节页",
+      "composition": "深蓝章节标题",
+      "scenarios": [
+        "发现章节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-080",
+      "page": 80,
+      "category": "观察与洞察",
+      "title": "三项观察速览",
+      "composition": "三张编号卡片与总结句",
+      "scenarios": [
+        "核心发现",
+        "项目简报"
+      ],
+      "application": "与第38页相近，按内容调整。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 11,
+        "PLACEHOLDER (14)": 1,
+        "LINE (9)": 1,
+        "TEXT_BOX (17)": 4,
+        "PICTURE (13)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-081",
+      "page": 81,
+      "category": "观察与洞察",
+      "title": "摘要与双卡发现",
+      "composition": "左侧概述，右侧两张带条目的卡片",
+      "scenarios": [
+        "两项重点",
+        "比较两类洞察"
+      ],
+      "application": "适合内容可自然分为两组。",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 4,
+        "TEXT_BOX (17)": 5,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-082",
+      "page": 82,
+      "category": "观察与洞察",
+      "title": "图片背景五卡洞察",
+      "composition": "深色横幅和五张白卡",
+      "scenarios": [
+        "多维发现",
+        "业务回顾"
+      ],
+      "application": "与第39页相近，保持可读性。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE (13)": 3,
+        "AUTO_SHAPE (1)": 7,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 13,
+        "LINE (9)": 6
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-083",
+      "page": 83,
+      "category": "观察与洞察",
+      "title": "图片背景三栏要点",
+      "composition": "顶部深色图片，下方三列带图标要点",
+      "scenarios": [
+        "关键观察",
+        "能力回顾"
+      ],
+      "application": "与第40页相近；图标使用源库。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body 3 Column",
+      "source_object_counts": {
+        "PICTURE (13)": 7,
+        "AUTO_SHAPE (1)": 7,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 9,
+        "LINE (9)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-084",
+      "page": 84,
+      "category": "观察与洞察",
+      "title": "图片侧栏观察列表",
+      "composition": "左图标题、右侧两列观察条目",
+      "scenarios": [
+        "阶段亮点",
+        "发现汇总"
+      ],
+      "application": "与第42页相近，可用于非季度报告。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 10,
+        "LINE (9)": 6,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-085",
+      "page": 85,
+      "category": "观察与洞察",
+      "title": "图片侧栏四卡洞察",
+      "composition": "左图标题，右侧四张发现卡",
+      "scenarios": [
+        "项目亮点",
+        "工作总结"
+      ],
+      "application": "与第43页相近，可调整卡数。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "PICTURE (13)": 1,
+        "AUTO_SHAPE (1)": 13,
+        "TEXT_BOX (17)": 2,
+        "GROUP (6)": 2,
+        "FREEFORM (5)": 2,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-086",
+      "page": 86,
+      "category": "观察与洞察",
+      "title": "四项经验卡片",
+      "composition": "左标题右侧四张经验卡",
+      "scenarios": [
+        "阶段复盘",
+        "研究学习"
+      ],
+      "application": "与第44页相近，区分事实与建议。",
+      "source_notes": [],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "FREEFORM (5)": 1,
+        "TEXT_BOX (17)": 6,
+        "AUTO_SHAPE (1)": 6
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-087",
+      "page": 87,
+      "category": "观察与洞察",
+      "title": "编号四卡发现",
+      "composition": "四张纵向编号卡",
+      "scenarios": [
+        "四项洞察",
+        "问题清单"
+      ],
+      "application": "与第47页相近，不必固定四项。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 4,
+        "TEXT_BOX (17)": 8,
+        "LINE (9)": 4,
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-088",
+      "page": 88,
+      "category": "观察与洞察",
+      "title": "三项洞察与关注领域",
+      "composition": "三卡与下方三项关注点",
+      "scenarios": [
+        "洞察总结",
+        "工作重点"
+      ],
+      "application": "与第53页相似，可按主题复用。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 14,
+        "PLACEHOLDER (14)": 2,
+        "TEXT_BOX (17)": 1,
+        "LINE (9)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-089",
+      "page": 89,
+      "category": "KPI 与绩效",
+      "title": "KPI 摘要章节页",
+      "composition": "深蓝底大标题",
+      "scenarios": [
+        "指标章节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-090",
+      "page": 90,
+      "category": "KPI 与绩效",
+      "title": "深蓝侧栏 KPI 概览",
+      "composition": "左深色标题栏，右侧上方指标和下方亮点",
+      "scenarios": [
+        "经营指标",
+        "阶段成果"
+      ],
+      "application": "说明度量单位、时间范围与来源。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 5,
+        "TEXT_BOX (17)": 15,
+        "LINE (9)": 5,
+        "GROUP (6)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-091",
+      "page": 91,
+      "category": "KPI 与绩效",
+      "title": "图片侧栏 KPI 概览",
+      "composition": "左图片标题，右侧数字概览和亮点",
+      "scenarios": [
+        "业务报告",
+        "项目汇报"
+      ],
+      "application": "与第90页同构，替换授权图片。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 5,
+        "TEXT_BOX (17)": 16,
+        "LINE (9)": 5,
+        "GROUP (6)": 2,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-092",
+      "page": 92,
+      "category": "KPI 与绩效",
+      "title": "指标与四个主题卡",
+      "composition": "左侧引导文字，右侧四张带数据卡片",
+      "scenarios": [
+        "KPI 摘要",
+        "业务指标分组"
+      ],
+      "application": "数字应有定义、基准和依据。",
+      "source_notes": [],
+      "source_layout": "Title Only + Image",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 9,
+        "AUTO_SHAPE (1)": 9,
+        "LINE (9)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-093",
+      "page": 93,
+      "category": "KPI 与绩效",
+      "title": "KPI 卡片与两张趋势图",
+      "composition": "上方五个数字卡，下方两张并列图表",
+      "scenarios": [
+        "经营回顾",
+        "营销效果报告"
+      ],
+      "application": "保留图表单位、图例、周期和来源。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 10,
+        "PLACEHOLDER (14)": 1,
+        "GROUP (6)": 6,
+        "LINE (9)": 2,
+        "TEXT_BOX (17)": 6,
+        "PICTURE (13)": 4,
+        "CHART (3)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "COLUMN_CLUSTERED (51)",
+        "COLUMN_CLUSTERED (51)"
+      ]
+    },
+    {
+      "id": "QBR-094",
+      "page": 94,
+      "category": "KPI 与绩效",
+      "title": "深色图片成果与重点",
+      "composition": "背景图上分两行呈现亮点与后续重点",
+      "scenarios": [
+        "阶段成果",
+        "管理层演示"
+      ],
+      "application": "背景和文字对比需充足。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PICTURE (13)": 2,
+        "AUTO_SHAPE (1)": 4,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 14,
+        "LINE (9)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-095",
+      "page": 95,
+      "category": "KPI 与绩效",
+      "title": "活动成果及多组图表",
+      "composition": "左侧活动截图，右侧多个指标与柱状图",
+      "scenarios": [
+        "活动复盘",
+        "运营表现分析"
+      ],
+      "application": "展示经过核实的数字和可读图表。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "TEXT_BOX (17)": 21,
+        "AUTO_SHAPE (1)": 11,
+        "PLACEHOLDER (14)": 2,
+        "LINE (9)": 7,
+        "PICTURE (13)": 2,
+        "CHART (3)": 3,
+        "GROUP (6)": 7,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "COLUMN_CLUSTERED (51)",
+        "COLUMN_STACKED (52)",
+        "COLUMN_STACKED (52)"
+      ]
+    },
+    {
+      "id": "QBR-096",
+      "page": 96,
+      "category": "KPI 与绩效",
+      "title": "健康度指标对照表",
+      "composition": "行是不同指标，列为目标、周期和历史数据",
+      "scenarios": [
+        "业务健康度",
+        "绩效监测"
+      ],
+      "application": "区分目标与实际，说明颜色规则和口径。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-097",
+      "page": 97,
+      "category": "KPI 与绩效",
+      "title": "目标与 KPI 四列矩阵",
+      "composition": "四个目标纵列，行对应指标与责任等",
+      "scenarios": [
+        "目标管理",
+        "绩效规划"
+      ],
+      "application": "目标和 KPI 对应关系需真实。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 14,
+        "PLACEHOLDER (14)": 2,
+        "LINE (9)": 1,
+        "TEXT_BOX (17)": 16
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-098",
+      "page": 98,
+      "category": "KPI 与绩效",
+      "title": "目标、指标与成果矩阵",
+      "composition": "横向目标维度，纵向 KPI、成果及活动",
+      "scenarios": [
+        "业务目标拆解",
+        "绩效跟踪"
+      ],
+      "application": "保留各层级的对应关系。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 37,
+        "LINE (9)": 5,
+        "FREEFORM (5)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-099",
+      "page": 99,
+      "category": "KPI 与绩效",
+      "title": "多指标对比快照",
+      "composition": "四列指标，对比近期与此前表现并附洞察",
+      "scenarios": [
+        "多指标阶段回顾",
+        "经营简报"
+      ],
+      "application": "确保同比环比、单位和样本一致。",
+      "source_notes": [],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 3,
+        "AUTO_SHAPE (1)": 1,
+        "TEXT_BOX (17)": 20,
+        "LINE (9)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-100",
+      "page": 100,
+      "category": "KPI 与绩效",
+      "title": "左栏指标加六卡",
+      "composition": "左侧 KPI 说明，右侧六张健康度卡片",
+      "scenarios": [
+        "项目状态",
+        "运营指标"
+      ],
+      "application": "明确每张卡指标和状态口径。",
+      "source_notes": [],
+      "source_layout": "Title & Body + Image",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 7,
+        "TEXT_BOX (17)": 14,
+        "LINE (9)": 6,
+        "PLACEHOLDER (14)": 1,
+        "PICTURE (13)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-101",
+      "page": 101,
+      "category": "KPI 与绩效",
+      "title": "深色背景双组数字",
+      "composition": "左侧摘要文字，右侧两个数据分组",
+      "scenarios": [
+        "核心指标",
+        "运营成果"
+      ],
+      "application": "背景与数值保持对比并标注基准。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change picture functionality to change the image while keeping the formatting You may need to move a gradient shape above the image to access it. Realign the gradient after changing the image.",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "自定义版式",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 3,
+        "PICTURE (13)": 2,
+        "LINE (9)": 1,
+        "GROUP (6)": 5,
+        "FREEFORM (5)": 2,
+        "TEXT_BOX (17)": 16,
+        "TABLE (19)": 4
+      },
+      "native_tables_in_slide": 4,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-102",
+      "page": 102,
+      "category": "KPI 与绩效",
+      "title": "深色 KPI 与行动",
+      "composition": "左侧标题和建议，右侧多组指标与说明",
+      "scenarios": [
+        "绩效汇报",
+        "数据驱动建议"
+      ],
+      "application": "数据和建议分别标识，引用数据来源。",
+      "source_notes": [],
+      "source_layout": "Title Only with Background",
+      "source_object_counts": {
+        "PICTURE (13)": 2,
+        "TEXT_BOX (17)": 12,
+        "PLACEHOLDER (14)": 1,
+        "GROUP (6)": 2,
+        "LINE (9)": 3,
+        "FREEFORM (5)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-103",
+      "page": 103,
+      "category": "KPI 与绩效",
+      "title": "背景图五卡表现概览",
+      "composition": "上方图片标题，底部五卡展示不同维度",
+      "scenarios": [
+        "渠道表现",
+        "业务维度比较"
+      ],
+      "application": "适合少量同级维度，避免暗示未验证因果。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use change picture functionality to change the image while keeping the formatting",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": " Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body + EYEBROW",
+      "source_object_counts": {
+        "PICTURE (13)": 6,
+        "AUTO_SHAPE (1)": 6,
+        "PLACEHOLDER (14)": 2,
+        "TEXT_BOX (17)": 14,
+        "LINE (9)": 1,
+        "GROUP (6)": 5
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-104",
+      "page": 104,
+      "category": "建议与行动",
+      "title": "建议章节页",
+      "composition": "深蓝纯色标题",
+      "scenarios": [
+        "建议章节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-105",
+      "page": 105,
+      "category": "建议与行动",
+      "title": "三项洞察与建议",
+      "composition": "三张并列卡，每张包含洞察及建议",
+      "scenarios": [
+        "策略建议",
+        "复盘结论"
+      ],
+      "application": "每条建议对应一项发现。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 11,
+        "PLACEHOLDER (14)": 1,
+        "GROUP (6)": 5,
+        "LINE (9)": 1,
+        "FREEFORM (5)": 2,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-106",
+      "page": 106,
+      "category": "建议与行动",
+      "title": "洞察—建议—下一步矩阵",
+      "composition": "三列分行呈现洞察、建议和具体下一步",
+      "scenarios": [
+        "决策追踪",
+        "研究转化"
+      ],
+      "application": "保持行内映射与责任明确。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 3,
+        "TEXT_BOX (17)": 18,
+        "PLACEHOLDER (14)": 1,
+        "GROUP (6)": 1,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-107",
+      "page": 107,
+      "category": "建议与行动",
+      "title": "洞察—建议—长期规划矩阵",
+      "composition": "三列为洞察、建议与长期计划",
+      "scenarios": [
+        "中长期规划",
+        "路线建议"
+      ],
+      "application": "区分即时行动与长期计划。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 2,
+        "TEXT_BOX (17)": 18,
+        "PLACEHOLDER (14)": 1,
+        "GROUP (6)": 1,
+        "LINE (9)": 5
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-108",
+      "page": 108,
+      "category": "建议与行动",
+      "title": "四列建议卡",
+      "composition": "四张深色表头卡，内部按工作类型展开",
+      "scenarios": [
+        "多项工作建议",
+        "策略方向"
+      ],
+      "application": "内容需同级且避免卡片过密。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 8,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 5
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-109",
+      "page": 109,
+      "category": "建议与行动",
+      "title": "多列建议与考虑因素",
+      "composition": "上方建议列表，下方考虑因素分列",
+      "scenarios": [
+        "方案比较",
+        "执行风险分析"
+      ],
+      "application": "必要条件与假设应单独标识。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 6,
+        "LINE (9)": 2,
+        "AUTO_SHAPE (1)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-110",
+      "page": 110,
+      "category": "建议与行动",
+      "title": "建议清单及考虑因素",
+      "composition": "上方多列编号建议，下方相应考虑事项",
+      "scenarios": [
+        "建议盘点",
+        "行动清单"
+      ],
+      "application": "适合提纲式清单，详细依据放后页。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 4,
+        "TEXT_BOX (17)": 4,
+        "AUTO_SHAPE (1)": 1
+      },
+      "native_tables_in_slide": 4,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-111",
+      "page": 111,
+      "category": "建议与行动",
+      "title": "指标、发现与建议表",
+      "composition": "逐行对应 KPI、变化、洞察和建议",
+      "scenarios": [
+        "数据复盘",
+        "运营改进"
+      ],
+      "application": "变化要说明时间和基线，因果需证据。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1,
+        "PICTURE (13)": 5,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-112",
+      "page": 112,
+      "category": "建议与行动",
+      "title": "洞察—机会—建议流程",
+      "composition": "三列卡片以箭头逐行连接",
+      "scenarios": [
+        "发现到行动",
+        "机会识别"
+      ],
+      "application": "箭头仅表达真实对应关系。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 15,
+        "GROUP (6)": 3,
+        "LINE (9)": 8
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-113",
+      "page": 113,
+      "category": "测试与学习",
+      "title": "测试与学习章节页",
+      "composition": "深蓝章节标题",
+      "scenarios": [
+        "实验或学习计划"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-114",
+      "page": 114,
+      "category": "测试与学习",
+      "title": "测试与学习过程",
+      "composition": "左侧说明，右侧五步测试流程及结论分支",
+      "scenarios": [
+        "实验流程",
+        "试点规划"
+      ],
+      "application": "阶段按实际实验设计调整。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 8,
+        "TEXT_BOX (17)": 8,
+        "LINE (9)": 5
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-115",
+      "page": 115,
+      "category": "测试与学习",
+      "title": "测试方法比较",
+      "composition": "三列对比调查、A/B、前后测的用途及考虑",
+      "scenarios": [
+        "研究方法选择",
+        "实验方法比较"
+      ],
+      "application": "适用性和难度需结合项目重新判断。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "GROUP (6)": 4,
+        "AUTO_SHAPE (1)": 35,
+        "LINE (9)": 6,
+        "TEXT_BOX (17)": 10,
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-116",
+      "page": 116,
+      "category": "测试与学习",
+      "title": "测试目标及设计卡",
+      "composition": "分区呈现原因、假设、设置和挑战",
+      "scenarios": [
+        "试点设计",
+        "实验立项"
+      ],
+      "application": "明确假设、样本、指标与限制。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "Use change graphic functionality to change the icon while keeping the formatting and placement",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 4,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 9,
+        "PICTURE (13)": 4,
+        "LINE (9)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-117",
+      "page": 117,
+      "category": "测试与学习",
+      "title": "测试设计多栏表",
+      "composition": "目标下分原因、假设、设置及挑战",
+      "scenarios": [
+        "A/B 测试方案",
+        "项目试点"
+      ],
+      "application": "对照组、变量和标准需实际明确。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 11,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-118",
+      "page": 118,
+      "category": "测试与学习",
+      "title": "五项测试问题矩阵",
+      "composition": "五列分别列待回答问题和要求等信息",
+      "scenarios": [
+        "学习议程",
+        "实验机会汇总"
+      ],
+      "application": "别把假设指标当作已达成结果。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 5,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 31,
+        "LINE (9)": 10
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-119",
+      "page": 119,
+      "category": "测试与学习",
+      "title": "实验优先级表",
+      "composition": "按行列出目标、问题、测试、影响、工作量与时间",
+      "scenarios": [
+        "实验排序",
+        "研究计划"
+      ],
+      "application": "优先级取决于明确评估依据。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-120",
+      "page": 120,
+      "category": "测试与学习",
+      "title": "年度测试计划示例",
+      "composition": "按月份展开不同测试项目和说明",
+      "scenarios": [
+        "项目测试排期",
+        "学习计划"
+      ],
+      "application": "示例日期和工作项须替换。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 2,
+        "TABLE (19)": 1,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-121",
+      "page": 121,
+      "category": "测试与学习",
+      "title": "空白年度测试计划",
+      "composition": "月份为列、项目为行的空白表",
+      "scenarios": [
+        "试点排期",
+        "年度实验计划"
+      ],
+      "application": "按实际阶段和数据填写。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-122",
+      "page": 122,
+      "category": "测试与学习",
+      "title": "三列学习议程卡",
+      "composition": "三列主题卡，各自列问题、方法与启用条件",
+      "scenarios": [
+        "研究议程",
+        "知识缺口分析"
+      ],
+      "application": "问题、方法与预期用途分别写明。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 33,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 7,
+        "LINE (9)": 9
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-123",
+      "page": 123,
+      "category": "测试与学习",
+      "title": "学习议程表",
+      "composition": "逐行列学习问题、方法与负责人",
+      "scenarios": [
+        "调研计划",
+        "跨团队学习"
+      ],
+      "application": "责任人及方法必须实际确认。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TABLE (19)": 1,
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-124",
+      "page": 124,
+      "category": "测试与学习",
+      "title": "短中长期学习计划",
+      "composition": "三列阶段按时间、学习目标和测试计划组织",
+      "scenarios": [
+        "能力建设",
+        "分阶段验证"
+      ],
+      "application": "用真实阶段而非默认 Crawl、Walk、Run。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 12,
+        "AUTO_SHAPE (1)": 12,
+        "LINE (9)": 6
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-125",
+      "page": 125,
+      "category": "测试与学习",
+      "title": "学习议程：起步重点",
+      "composition": "三阶段表格，起步列上方深色强调",
+      "scenarios": [
+        "分阶段研究",
+        "当前阶段汇报"
+      ],
+      "application": "与126、127构成阶段强调变体。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 17,
+        "TEXT_BOX (17)": 11,
+        "LINE (9)": 3,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-126",
+      "page": 126,
+      "category": "测试与学习",
+      "title": "学习议程：发展重点",
+      "composition": "同一三阶段结构，第二列加深色强调",
+      "scenarios": [
+        "阶段进度",
+        "能力发展"
+      ],
+      "application": "强调阶段须与真实状态一致。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 17,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 11,
+        "LINE (9)": 3,
+        "GROUP (6)": 1,
+        "FREEFORM (5)": 2,
+        "PICTURE (13)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-127",
+      "page": 127,
+      "category": "测试与学习",
+      "title": "学习议程：成熟重点",
+      "composition": "同一三阶段结构，第三列加深色强调",
+      "scenarios": [
+        "阶段路线",
+        "能力发展"
+      ],
+      "application": "避免将规划阶段表示为已完成。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 17,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 11,
+        "LINE (9)": 3,
+        "PICTURE (13)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-128",
+      "page": 128,
+      "category": "数据图表",
+      "title": "图表章节页",
+      "composition": "深蓝底标题",
+      "scenarios": [
+        "数据可视化章节"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-129",
+      "page": 129,
+      "category": "数据图表",
+      "title": "柱线组合趋势图",
+      "composition": "深蓝柱与折线展示时间序列并配标注",
+      "scenarios": [
+        "趋势分析",
+        "流量与表现"
+      ],
+      "application": "核对轴、单位、标注和数据来源。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 3,
+        "CHART (3)": 1,
+        "TEXT_BOX (17)": 4,
+        "FREEFORM (5)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "COLUMN_CLUSTERED (51)"
+      ]
+    },
+    {
+      "id": "QBR-130",
+      "page": 130,
+      "category": "数据图表",
+      "title": "堆叠柱与条形图组合",
+      "composition": "多种堆叠比例图及平台和渠道示例",
+      "scenarios": [
+        "渠道构成",
+        "分布对比"
+      ],
+      "application": "先确认各项是否互斥与分母一致。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "CHART (3)": 6,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 14,
+        "GROUP (6)": 1,
+        "AUTO_SHAPE (1)": 6,
+        "LINE (9)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "COLUMN_STACKED (52)",
+        "BAR_STACKED (58)",
+        "BAR_STACKED (58)",
+        "BAR_STACKED_100 (59)",
+        "COLUMN_STACKED_100 (53)",
+        "BAR_STACKED_100 (59)"
+      ]
+    },
+    {
+      "id": "QBR-131",
+      "page": 131,
+      "category": "数据图表",
+      "title": "横向条形与表格",
+      "composition": "左侧排序横条，右侧数字表及短横条",
+      "scenarios": [
+        "属性排名",
+        "受众比较"
+      ],
+      "application": "原页注释提醒访问量与独立访客口径不同。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "*Some unique visitors counted across multiple affiliates; note left table is Visits, table on the right is Unique Visitors",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "TABLE (19)": 1,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 2,
+        "CHART (3)": 2,
+        "AUTO_SHAPE (1)": 4,
+        "LINE (9)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": [
+        "BAR_CLUSTERED (57)",
+        "BAR_CLUSTERED (57)"
+      ]
+    },
+    {
+      "id": "QBR-132",
+      "page": 132,
+      "category": "数据图表",
+      "title": "分组横向条形图",
+      "composition": "多个类别的分组横条并列比较",
+      "scenarios": [
+        "分群比较",
+        "多系列指标"
+      ],
+      "application": "使用一致刻度并清楚标识系列。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "GROUP (6)": 1,
+        "AUTO_SHAPE (1)": 2,
+        "LINE (9)": 1,
+        "PLACEHOLDER (14)": 1,
+        "CHART (3)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "BAR_CLUSTERED (57)"
+      ]
+    },
+    {
+      "id": "QBR-133",
+      "page": 133,
+      "category": "数据图表",
+      "title": "上下两组柱状图",
+      "composition": "上方细粒度时间序列，下方汇总柱图",
+      "scenarios": [
+        "周度与日度趋势",
+        "运营表现"
+      ],
+      "application": "确认两个图表口径与周期关系。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 4,
+        "GROUP (6)": 2,
+        "LINE (9)": 2,
+        "CHART (3)": 2,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": [
+        "COLUMN_STACKED (52)",
+        "COLUMN_STACKED (52)"
+      ]
+    },
+    {
+      "id": "QBR-134",
+      "page": 134,
+      "category": "数据图表",
+      "title": "两组分组柱状图",
+      "composition": "上下两张多系列分组柱图",
+      "scenarios": [
+        "渠道或群组比较",
+        "运营表现"
+      ],
+      "application": "保持颜色、系列与图例一致。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "GROUP (6)": 4,
+        "AUTO_SHAPE (1)": 2,
+        "LINE (9)": 3,
+        "CHART (3)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "COLUMN_CLUSTERED (51)",
+        "COLUMN_CLUSTERED (51)",
+        "COLUMN_CLUSTERED (51)"
+      ]
+    },
+    {
+      "id": "QBR-135",
+      "page": 135,
+      "category": "数据图表",
+      "title": "柱图配分栏说明",
+      "composition": "顶部类别柱状图，下方对应文字解释",
+      "scenarios": [
+        "分类表现",
+        "原因说明"
+      ],
+      "application": "图表分类与说明逐列对齐。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "This is used when the receipt is either not read-able (too blurry) or if it doesn't meet the criteria (for example, the purchase was made prior to 4/6/21).",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 5,
+        "GROUP (6)": 1,
+        "AUTO_SHAPE (1)": 1,
+        "LINE (9)": 1,
+        "CHART (3)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "COLUMN_CLUSTERED (51)"
+      ]
+    },
+    {
+      "id": "QBR-136",
+      "page": 136,
+      "category": "数据图表",
+      "title": "双折线趋势图",
+      "composition": "上下两个时间折线图，上图带标注",
+      "scenarios": [
+        "趋势回顾",
+        "时间序列比较"
+      ],
+      "application": "两图时间范围和单位需清晰。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "CHART (3)": 2,
+        "LINE (9)": 2,
+        "AUTO_SHAPE (1)": 2,
+        "FREEFORM (5)": 2,
+        "TEXT_BOX (17)": 2,
+        "GROUP (6)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": [
+        "LINE (4)",
+        "LINE (4)"
+      ]
+    },
+    {
+      "id": "QBR-137",
+      "page": 137,
+      "category": "图标与视觉元素",
+      "title": "图标与视觉元素章节页",
+      "composition": "深蓝章节标题",
+      "scenarios": [
+        "视觉素材导航"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-138",
+      "page": 138,
+      "category": "图标与视觉元素",
+      "title": "QBR 常用图标参考",
+      "composition": "按方向、状态等分组的图标示例",
+      "scenarios": [
+        "指标状态",
+        "用户情绪",
+        "方向标记"
+      ],
+      "application": "优先匹配原始 ICON Library，Mini Fill 不超过 0.25 英寸。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": "MAX SIZE Mini Fill Icons should not be used larger than .25”",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "PICTURE (13)": 164,
+        "AUTO_SHAPE (1)": 5,
+        "TEXT_BOX (17)": 5,
+        "LINE (9)": 4
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-139",
+      "page": 139,
+      "category": "图标与视觉元素",
+      "title": "数字强调样式",
+      "composition": "深色、蓝色和浅底统计数字样式示例",
+      "scenarios": [
+        "数据卡",
+        "关键数字"
+      ],
+      "application": "数值颜色应保持对比，不暗示未定义状态。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 2,
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 3,
+        "TEXT_BOX (17)": 6
+      },
+      "native_tables_in_slide": 3,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-140",
+      "page": 140,
+      "category": "图标与视觉元素",
+      "title": "色条文字强调样式",
+      "composition": "不同色条和底色的文字样式",
+      "scenarios": [
+        "引用",
+        "重点提示",
+        "结论标记"
+      ],
+      "application": "颜色和文案的用途应保持一致。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 2,
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 12
+      },
+      "native_tables_in_slide": 12,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-141",
+      "page": 141,
+      "category": "图标与视觉元素",
+      "title": "卡片、图片和遮罩样式",
+      "composition": "卡片底色、阴影、图片和渐变遮罩样例",
+      "scenarios": [
+        "图片处理",
+        "内容卡片"
+      ],
+      "application": "源页提示可复制图片格式和遮罩，需核对对象样式。",
+      "source_notes": [
+        {
+          "type": "原页提示",
+          "source_summary": " Use Format Painter to apply this picture format (round edges and drop shadow) to images",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        },
+        {
+          "type": "原页提示",
+          "source_summary": " Use this to overlay on an image to make it darker",
+          "interpretation": "原页包含制作或使用提示，请结合当前任务核对。"
+        }
+      ],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 7,
+        "PICTURE (13)": 1,
+        "TEXT_BOX (17)": 2,
+        "LINE (9)": 3
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-142",
+      "page": 142,
+      "category": "分区图表",
+      "title": "分区页面章节页",
+      "composition": "深蓝底标题",
+      "scenarios": [
+        "组合图表布局导航"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-143",
+      "page": 143,
+      "category": "分区图表",
+      "title": "主图表加右侧双区说明",
+      "composition": "左大图和文字，右侧两段分区说明",
+      "scenarios": [
+        "单图分析",
+        "图表与结论"
+      ],
+      "application": "图表标签与右侧解释需对应。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "AUTO_SHAPE (1)": 3,
+        "TEXT_BOX (17)": 4,
+        "GROUP (6)": 1,
+        "LINE (9)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-144",
+      "page": 144,
+      "category": "分区图表",
+      "title": "双图并排与底部结论",
+      "composition": "两张图表并排，下方关键学习",
+      "scenarios": [
+        "指标比较",
+        "数据分析"
+      ],
+      "application": "图表单位与口径可比时并列。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 5,
+        "AUTO_SHAPE (1)": 3,
+        "GROUP (6)": 2,
+        "LINE (9)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-145",
+      "page": 145,
+      "category": "分区图表",
+      "title": "顶部结论与双图",
+      "composition": "上方横向关键学习，下方两张图",
+      "scenarios": [
+        "先结论后证据",
+        "指标汇报"
+      ],
+      "application": "结论应能由图表支持。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 5,
+        "AUTO_SHAPE (1)": 3,
+        "GROUP (6)": 2,
+        "LINE (9)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-146",
+      "page": 146,
+      "category": "分区图表",
+      "title": "两条学习与双图",
+      "composition": "上方两列关键学习，下方双图",
+      "scenarios": [
+        "双指标比较",
+        "成果分析"
+      ],
+      "application": "学习与图表对应关系明确。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 6,
+        "AUTO_SHAPE (1)": 3,
+        "LINE (9)": 3,
+        "GROUP (6)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-147",
+      "page": 147,
+      "category": "分区图表",
+      "title": "三条学习与双图",
+      "composition": "顶部三列关键学习，下方双图",
+      "scenarios": [
+        "多发现摘要",
+        "数据故事"
+      ],
+      "application": "内容多时拆页，不强制三项。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 8,
+        "AUTO_SHAPE (1)": 3,
+        "LINE (9)": 4,
+        "GROUP (6)": 2
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-148",
+      "page": 148,
+      "category": "分区图表",
+      "title": "三图、三段正文与侧栏",
+      "composition": "主体三列文字和图表，右侧独立说明栏",
+      "scenarios": [
+        "详细分析",
+        "书面报告"
+      ],
+      "application": "源页为高密度布局，展示时需简化。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 11,
+        "AUTO_SHAPE (1)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-149",
+      "page": 149,
+      "category": "表格与健康度",
+      "title": "表格章节页",
+      "composition": "深蓝底标题",
+      "scenarios": [
+        "表格样式导航"
+      ],
+      "application": "章节导航。",
+      "source_notes": [],
+      "source_layout": "Divider Slide 1",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 0,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-150",
+      "page": 150,
+      "category": "表格与健康度",
+      "title": "浅灰基础表",
+      "composition": "左侧分类列浅灰底，右侧数值列",
+      "scenarios": [
+        "指标清单",
+        "业务数据表"
+      ],
+      "application": "明确表头、单位、来源。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-151",
+      "page": 151,
+      "category": "表格与健康度",
+      "title": "深蓝分组表",
+      "composition": "深蓝合计行与灰色子项交替",
+      "scenarios": [
+        "分组汇总",
+        "运营指标表"
+      ],
+      "application": "总计与明细的逻辑须一致。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-152",
+      "page": 152,
+      "category": "表格与健康度",
+      "title": "宽表与右侧洞察",
+      "composition": "左侧多组绩效表，右侧文字解释",
+      "scenarios": [
+        "经营复盘",
+        "指标洞察"
+      ],
+      "application": "将事实、比较基线和洞察区分。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TABLE (19)": 1,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 2,
+        "AUTO_SHAPE (1)": 13,
+        "GROUP (6)": 1,
+        "LINE (9)": 2
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-153",
+      "page": 153,
+      "category": "表格与健康度",
+      "title": "宽表与洞察变体",
+      "composition": "多组表格和右侧独立洞察栏",
+      "scenarios": [
+        "绩效总结",
+        "管理报告"
+      ],
+      "application": "与152相近，依据指标复杂度选择。",
+      "source_notes": [],
+      "source_layout": "Title & Body",
+      "source_object_counts": {
+        "TABLE (19)": 1,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 2,
+        "AUTO_SHAPE (1)": 13,
+        "GROUP (6)": 1,
+        "LINE (9)": 2
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-154",
+      "page": 154,
+      "category": "表格与健康度",
+      "title": "区域表现表与洞察",
+      "composition": "跨区域指标表与右侧重点结论",
+      "scenarios": [
+        "区域对比",
+        "渠道表现"
+      ],
+      "application": "对比前确认单位、样本和周期。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "GROUP (6)": 1,
+        "AUTO_SHAPE (1)": 7,
+        "PLACEHOLDER (14)": 1,
+        "TEXT_BOX (17)": 2,
+        "TABLE (19)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-155",
+      "page": 155,
+      "category": "表格与健康度",
+      "title": "双表与右侧洞察",
+      "composition": "两组促销数据表上下排列，右侧说明",
+      "scenarios": [
+        "活动表现比较",
+        "多组数据汇总"
+      ],
+      "application": "表格上下应具备可比较的口径。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "AUTO_SHAPE (1)": 8,
+        "TABLE (19)": 2,
+        "TEXT_BOX (17)": 1,
+        "PLACEHOLDER (14)": 1
+      },
+      "native_tables_in_slide": 2,
+      "native_charts_in_slide": []
+    },
+    {
+      "id": "QBR-156",
+      "page": 156,
+      "category": "表格与健康度",
+      "title": "健康度指标表",
+      "composition": "多组指标行及目标、历史周期，含颜色标记",
+      "scenarios": [
+        "阶段健康度",
+        "业务绩效追踪"
+      ],
+      "application": "目标与实际分开，解释红绿标识与来源。",
+      "source_notes": [],
+      "source_layout": "仅标题",
+      "source_object_counts": {
+        "PLACEHOLDER (14)": 1,
+        "TABLE (19)": 1,
+        "TEXT_BOX (17)": 1
+      },
+      "native_tables_in_slide": 1,
+      "native_charts_in_slide": []
+    }
+  ]
+}

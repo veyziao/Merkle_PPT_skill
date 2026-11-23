@@ -5,6 +5,7 @@ When adapting or faithfully reconstructing a specific source example, use the or
 - [Slide Library object styles](slide-object-styles.json.gz), source [Slide Library for ai.pptx](../assets/Slide%20Library%20for%20ai.pptx).
 - [Case Library object styles](case-object-styles.json.gz), source [case library - Case Study Layout Types.pptx](../assets/case%20library%20-%20Case%20Study%20Layout%20Types.pptx).
 - [Diagram Library object styles](diagram-object-styles.json.gz), source [Diagram library - Diagram Elements.pptx](../assets/Diagram%20library%20-%20Diagram%20Elements.pptx). The separate [diagram shape style index](diagram-shape-styles.json) additionally parses selected geometric shapes into a convenient explicit-effects view.
+- [QBR Library object styles](qbr-object-styles.json.gz), source [QBR SLIDE LIBRARY.pptx](../assets/QBR%20SLIDE%20LIBRARY.pptx).
 
 Each `.json.gz` contains the source SHA-256, source slide/part, layout/master part, slide background XML, object IDs, group hierarchy and coordinates, fill summary, complete object XML and shape-properties XML. It also includes source theme and layout/master definitions and slide relationships. Object XML preserves the native definitions for fills and gradient stops, alpha/color transforms, line, shadows and effect lists, scene 3D and shape 3D, geometry, text formatting, picture crop and image effects where present. The original PPTX remains necessary for linked or embedded media, relationships, charts and final rendering.
 

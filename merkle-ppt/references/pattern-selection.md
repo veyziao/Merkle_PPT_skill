@@ -6,6 +6,8 @@ For substantive content pages, search the [139-page slide library](slide-library
 
 For case studies, case portfolios, and client project stories, also consult the [case library](case-library-usage.md) for short-form, additional-detail and multi-page flagship compositions.
 
+For business reviews, stage updates, reporting, learning agendas and action plans, also consult the [QBR library](qbr-slide-library-usage.md); its suitable pages can be used outside quarterly reviews.
+
 For technical architecture, ownership zones and data-flow diagrams, use the [diagram library](diagram-library-usage.md) for native element styles, connection conventions and example compositions; consult the broader slide library for other diagram types.
 
 The user also highlighted four earlier [content-page compositions](user-curated-layouts.md#preferred-content-page-examples-from-the-2026-demo) for solution details, timeline and milestones, summary with evidence, and deliverable previews. They remain useful choices when appropriate, rather than a fixed or exhaustive list. Preserve the user's confirmed geometry and design rules when applying the relevant specific composition. Original file and page numbers are documented in the source workspace's `reference-gallery/README.md` and the curated reference.
