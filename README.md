@@ -5,6 +5,8 @@
 **面向真实工作场景的 Merkle 演示文稿制作体系**  
 **A reference-led workflow for editable Merkle presentations**
 
+**Current version / 当前版本：0.1.0** · [更新日志 / Changelog](CHANGELOG.md)
+
 [中文](#中文) · [English](#english) · [Visual references](#visual-references--视觉参考) · [Libraries](#五个参考库) · [Install](#获取与安装--get-started)
 
 ---
@@ -170,6 +172,16 @@ The audience is project leadership; distinguish facts from proposals.
 ### Updating an installed copy
 
 Repository updates do not automatically replace an installed copy. Back up the existing `merkle-ppt/` directory, download or pull the latest repository, and replace the old folder in the relevant product's skill directory with the **complete updated folder**. Reload skills or start a new session. Follow the platform's own update method where applicable.
+
+## Versioning / 版本管理
+
+当前版本记录在 [`merkle-ppt/VERSION`](merkle-ppt/VERSION)，版本级更新记录见 [CHANGELOG.md](CHANGELOG.md)；每次具体变动可在 [提交历史](https://github.com/veyziao/Merkle_PPT_skill/commits/main/) 中查看。正式版本可通过 Git 标签和 Releases 固定，方便回看和使用指定版本。
+
+建议采用 `主版本.次版本.修订版本`：重大不兼容调整增加主版本，新能力增加次版本，修复或小幅完善增加修订版本。`0.x` 表示早期迭代；例如 `0.1.0 → 0.1.1` 为修正，`0.1.0 → 0.2.0` 为功能扩展。更新已安装副本后需重新加载或开启新会话。
+
+The current version is recorded in [`merkle-ppt/VERSION`](merkle-ppt/VERSION); version-level changes are documented in [CHANGELOG.md](CHANGELOG.md), with detailed changes in the [commit history](https://github.com/veyziao/Merkle_PPT_skill/commits/main/). Git tags and releases can pin a snapshot for later use.
+
+Version numbers use `major.minor.patch`: increment the major version for incompatible changes, the minor version for new capabilities, and the patch version for fixes. `0.x` denotes an early iteration. Reload the updated skill or start a new session after replacing an installed copy.
 
 ## Repository
 
